@@ -1,0 +1,2000 @@
+city,pickup_cluster,pickup_hex_8,usecase_tag,fe_count,requested_orders,net_orders,high_income_%,high_income_thrshld,affluence_hi_tag,fe_bucket,flag_2
+Bangalore,Hoskote_BLR,8861893893fffff,,48,2,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893713fffff,,268,21,2,21.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,88618936a7fffff,,22,2,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618935ebfffff,,57,9,2,45.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,88618935e9fffff,,1,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618935e7fffff,,106,11,0,30.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,88618935e5fffff,,6,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618935e3fffff,,267,57,6,29.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,88618935e1fffff,,11,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,88618935ddfffff,,53,13,4,8.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,88618935dbfffff,,371,95,35,25.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,88618935d9fffff,,85,17,3,20.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,88618935d7fffff,,328,56,17,18.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,88618935d5fffff,,34,4,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,88618935d3fffff,,203,45,20,23.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,88618935d1fffff,,199,27,8,25.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,88618935cdfffff,,10,1,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,88618935cbfffff,,47,5,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618935c5fffff,,8,2,2,0.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618935c1fffff,,25,8,6,0.0,32.0,Less,0-60,Less fe
+Bangalore,Huskur,88618935bdfffff,,37,5,1,31.0,32.0,Less,0-60,Less fe
+Bangalore,Huskur,88618935bbfffff,,228,53,20,23.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,88618935b9fffff,,161,25,7,19.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,88618935b7fffff,,214,44,15,36.0,32.0,High,61-450,Less fe
+Bangalore,Huskur,88618935b5fffff,,292,53,9,20.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,88618935b3fffff,,380,73,33,33.0,32.0,High,61-450,Less fe
+Bangalore,Huskur,88618935b1fffff,,43,10,4,31.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618935adfffff,,78,16,0,12.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,88618935abfffff,,17,4,0,38.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,88618935a9fffff,,87,19,1,34.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur,88618935a5fffff,,77,27,1,36.0,32.0,High,61-450,Less fe
+Bangalore,Huskur,88618935a3fffff,,10,3,0,17.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618935a1fffff,,40,7,1,20.0,32.0,Less,0-60,Less fe
+Bangalore,Huskur,886189359dfffff,,440,81,29,31.0,32.0,Less,61-450,Less fe
+Bangalore,Bommasandra Industrial Area,886189359bfffff,,2142,365,180,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861893599fffff,,198,29,12,11.0,32.0,Less,61-450,Less fe
+Bangalore,Bommasandra Industrial Area,8861893597fffff,,5178,951,449,38.0,32.0,High,3500+,High fe
+Bangalore,Huskur,8861893595fffff,,1210,260,85,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861893593fffff,,2149,387,185,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861893591fffff,,981,166,74,35.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur,886189358dfffff,,167,35,2,27.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861893589fffff,,28,6,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Huskur,8861893587fffff,,23,3,1,11.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,8861893585fffff,,158,21,5,35.0,32.0,High,61-450,Less fe
+Bangalore,Huskur,8861893583fffff,,65,21,5,32.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861893581fffff,,60,19,4,32.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,886189353bfffff,,5,3,0,100.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,8861893537fffff,,11,3,1,38.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,8861893535fffff,,882,136,25,37.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur,886189352dfffff,,186,25,2,20.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,886189352bfffff,,72,12,3,16.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861893529fffff,,204,5,0,12.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861893527fffff,,285,37,8,37.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur,8861893525fffff,,263,33,7,27.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861893523fffff,,482,113,20,34.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur,8861893521fffff,,923,132,20,23.0,32.0,Less,451-3500,Less fe
+Bangalore,Sarjapur,886189351dfffff,,12,1,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,8861893511fffff,,9,2,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,886189350bfffff,,80,17,1,12.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861893507fffff,,169,14,3,15.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861893505fffff,,50,7,3,43.0,32.0,High,0-60,Less fe
+Bangalore,Attibele,88618934edfffff,,42,5,1,29.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,88618934ebfffff,,152,29,8,36.0,32.0,High,61-450,Less fe
+Bangalore,Attibele,88618934e9fffff,,235,29,9,32.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,88618934e7fffff,,2309,390,151,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Attibele,88618934e5fffff,,636,109,34,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Attibele,88618934e3fffff,,376,64,21,27.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,88618934e1fffff,,541,103,38,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Attibele,88618934d5fffff,,10,1,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,88618934cbfffff,,107,12,2,21.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,88618934c7fffff,,360,41,9,28.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,88618934c3fffff,,44,7,0,9.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,88618934c1fffff,,121,24,0,18.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,88618934bdfffff,,340,80,23,29.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,88618934bbfffff,,75,6,3,26.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,88618934b9fffff,,119,26,8,15.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,88618934b7fffff,,1349,216,98,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,88618934b5fffff,,913,184,87,24.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,88618934b3fffff,,482,59,20,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,88618934b1fffff,,42,4,2,11.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,88618934adfffff,,1806,300,115,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,88618934abfffff,,475,114,45,23.0,32.0,Less,451-3500,Less fe
+Bangalore,Attibele,88618934a9fffff,,268,56,20,24.0,32.0,Less,61-450,Less fe
+Bangalore,Bommasandra Industrial Area,88618934a7fffff,,984,140,60,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,88618934a5fffff,,1755,237,92,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,88618934a3fffff,,246,51,17,22.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,88618934a1fffff,,1352,194,82,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,886189349bfffff,,2,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Jigani,8861893497fffff,,354,36,14,34.0,32.0,High,61-450,Less fe
+Bangalore,Jigani,8861893495fffff,,21,3,2,40.0,32.0,High,0-60,Less fe
+Bangalore,Attibele,886189348dfffff,,58,7,2,14.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893489fffff,,136,19,1,26.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,8861893487fffff,,4,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893485fffff,,101,27,10,30.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,8861893483fffff,,10,2,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Attibele,886189346dfffff,,136,24,4,20.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,886189346bfffff,,73,11,4,21.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,8861893469fffff,,519,71,17,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Attibele,8861893463fffff,,40,2,1,19.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893453fffff,,2,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,886189344dfffff,,2,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893447fffff,,23,3,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893445fffff,,843,90,10,20.0,32.0,Less,451-3500,Less fe
+Bangalore,Attibele,8861893443fffff,,12,4,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,886189343dfffff,,6,1,1,50.0,32.0,High,0-60,Less fe
+Bangalore,Attibele,886189343bfffff,,104,13,0,17.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,8861893439fffff,,255,35,10,29.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,8861893435fffff,,38,1,0,12.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893433fffff,,97,11,4,26.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,8861893431fffff,,53,6,0,26.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,886189342bfffff,,6,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893429fffff,,18,2,0,11.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,8861893427fffff,,14,7,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Attibele,8861893423fffff,,13,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,886189341bfffff,,10,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893417fffff,,173,17,4,25.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,8861893415fffff,,23,1,0,21.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893413fffff,,34,21,1,40.0,32.0,High,0-60,Less fe
+Bangalore,Attibele,8861893411fffff,,164,6,2,21.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,886189340dfffff,,131,11,2,19.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,886189340bfffff,,57,12,3,11.0,32.0,Less,0-60,Less fe
+Bangalore,Attibele,8861893409fffff,,70,17,3,12.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,8861893407fffff,,285,47,11,12.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,8861893405fffff,,68,5,1,22.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,8861893403fffff,,182,34,4,24.0,32.0,Less,61-450,Less fe
+Bangalore,Attibele,8861893401fffff,,249,25,2,24.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur Kodi,8861892f6dfffff,,118,23,6,23.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur Kodi,8861892f6bfffff,,646,126,42,24.0,32.0,Less,451-3500,Less fe
+Bangalore,BLR_Hoskote,8861892f69fffff,,948,141,51,34.0,32.0,High,451-3500,Less fe
+Bangalore,Huskur Kodi,8861892f67fffff,,385,82,18,26.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur Kodi,8861892f65fffff,,242,47,10,18.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur Kodi,8861892f63fffff,,145,17,2,28.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur Kodi,8861892f61fffff,,104,13,4,19.0,32.0,Less,61-450,Less fe
+Bangalore,Kurudusonnehalli,8861892f5dfffff,Unknown,554,106,46,35.0,32.0,High,451-3500,Less fe
+Bangalore,Kurudusonnehalli,8861892f5bfffff,leisure,3737,688,279,32.0,32.0,Less,3500+,High fe
+Bangalore,Kurudusonnehalli,8861892f59fffff,Unknown,4091,889,343,36.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892f57fffff,Unknown,2190,410,160,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Doddabanahalli,8861892f55fffff,Unknown,1721,386,148,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Kurudusonnehalli,8861892f53fffff,residential,8064,1633,673,37.0,32.0,High,3500+,High fe
+Bangalore,Kurudusonnehalli,8861892f51fffff,Unknown,4453,899,349,32.0,32.0,Less,3500+,High fe
+Bangalore,Doddabanahalli,8861892f4dfffff,,904,226,84,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Kurudusonnehalli,8861892f4bfffff,,39,1,0,39.0,32.0,High,0-60,Less fe
+Bangalore,Kurudusonnehalli,8861892f49fffff,,115,15,5,12.0,32.0,Less,61-450,Less fe
+Bangalore,Doddabanahalli,8861892f47fffff,,1076,257,76,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Doddabanahalli,8861892f45fffff,,514,111,44,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Doddabanahalli,8861892f43fffff,Unknown,670,151,49,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Doddabanahalli,8861892f41fffff,,830,195,60,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Horamavu,8861892f3dfffff,,630,77,16,17.0,32.0,Less,451-3500,Less fe
+Bangalore,Horamavu,8861892f3bfffff,,77,8,2,38.0,32.0,High,61-450,Less fe
+Bangalore,Horamavu,8861892f39fffff,,92,4,1,23.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892f37fffff,,24,7,1,22.0,32.0,Less,0-60,Less fe
+Bangalore,Horamavu,8861892f35fffff,,169,21,3,20.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892f33fffff,,60,9,2,36.0,32.0,High,0-60,Less fe
+Bangalore,Horamavu,8861892f31fffff,,26,3,0,56.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote,8861892f2dfffff,,77,15,2,12.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote,8861892f2bfffff,,98,17,4,34.0,32.0,High,61-450,Less fe
+Bangalore,Hoskote,8861892f29fffff,,46,1,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote,8861892f27fffff,,426,15,2,30.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote,8861892f25fffff,,22,8,2,44.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote,8861892f23fffff,,180,38,10,17.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote,8861892f21fffff,,64,7,1,29.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892f1dfffff,,1221,245,92,37.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892f1bfffff,Unknown,2289,419,147,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Horamavu,8861892f19fffff,Unknown,2858,514,216,35.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892f17fffff,,215,49,11,39.0,32.0,High,61-450,Less fe
+Bangalore,Horamavu,8861892f15fffff,,93,14,5,32.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892f13fffff,,3256,609,241,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Horamavu,8861892f11fffff,,1739,296,117,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Huskur Kodi,8861892f0dfffff,,73,18,7,30.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892f0bfffff,Unknown,353,73,21,30.0,32.0,Less,61-450,Less fe
+Bangalore,Doddabanahalli,8861892f09fffff,Unknown,222,50,15,32.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892f07fffff,,897,148,34,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Huskur Kodi,8861892f05fffff,,15,2,0,40.0,32.0,High,0-60,Less fe
+Bangalore,Horamavu,8861892f03fffff,,143,33,10,20.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur Kodi,8861892f01fffff,,372,65,20,28.0,32.0,Less,61-450,Less fe
+Bangalore,K R Puram,8861892eedfffff,residential,8549,1524,641,41.0,32.0,High,3500+,High fe
+Bangalore,Metro - Baiyappanahalli,8861892eebfffff,residential,15991,3505,1313,41.0,32.0,High,3500+,High fe
+Bangalore,Baiyyappanahalli Cabin,8861892ee9fffff,residential,13287,2396,860,43.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi,8861892ee7fffff,educational,9873,1778,818,40.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi,8861892ee5fffff,office,11792,1864,838,38.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi,8861892ee3fffff,Unknown,2249,246,65,18.0,32.0,Less,451-3500,Less fe
+Bangalore,Banaswadi,8861892ee1fffff,Unknown,2556,521,227,29.0,32.0,Less,451-3500,Less fe
+Bangalore,BLR_Indiranagar,8861892eddfffff,residential,27571,3884,1619,47.0,32.0,High,3500+,High fe
+Bangalore,Victoria layout,8861892edbfffff,Unknown,1713,334,103,33.0,32.0,High,451-3500,Less fe
+Bangalore,Domlur,8861892ed9fffff,residential,5648,1090,482,35.0,32.0,High,3500+,High fe
+Bangalore,Ulsoor,8861892ed7fffff,residential,18524,3717,1468,39.0,32.0,High,3500+,High fe
+Bangalore,BLR_Indiranagar,8861892ed5fffff,residential,18632,3065,1369,41.0,32.0,High,3500+,High fe
+Bangalore,Victoria layout,8861892ed3fffff,residential,27198,4598,1474,46.0,32.0,High,3500+,High fe
+Bangalore,Cambridge Layout Ulsoor,8861892ed1fffff,residential,12658,2344,945,41.0,32.0,High,3500+,High fe
+Bangalore,C V Raman Nagar,8861892ecdfffff,office,12777,2959,930,42.0,32.0,High,3500+,High fe
+Bangalore,BLR_Indiranagar,8861892ecbfffff,residential,32020,4561,1729,50.0,32.0,High,3500+,High fe
+Bangalore,Indiranagar Empire,8861892ec9fffff,leisure,23195,4835,2203,44.0,32.0,High,3500+,High fe
+Bangalore,BLR_Indiranagar,8861892ec7fffff,residential,18042,3291,1197,40.0,32.0,High,3500+,High fe
+Bangalore,Baiyappanahalli - CV Raman Nagar,8861892ec5fffff,Unknown,21015,4495,1421,42.0,32.0,High,3500+,High fe
+Bangalore,BLR_Indiranagar,8861892ec3fffff,residential,45901,7133,3240,46.0,32.0,High,3500+,High fe
+Bangalore,New Tippasandra,8861892ec1fffff,residential,10917,1927,837,44.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi Railway Station,8861892ebdfffff,educational,11333,2140,861,37.0,32.0,High,3500+,High fe
+Bangalore,Frazer Town,8861892ebbfffff,educational,11141,1743,808,38.0,32.0,High,3500+,High fe
+Bangalore,HBR Layout,8861892eb9fffff,residential,13360,2077,845,38.0,32.0,High,3500+,High fe
+Bangalore,HBR Layout,8861892eb7fffff,Unknown,5858,965,374,29.0,32.0,Less,3500+,High fe
+Bangalore,HBR Layout,8861892eb5fffff,Unknown,6155,910,366,29.0,32.0,Less,3500+,High fe
+Bangalore,R T Nagar,8861892eb3fffff,residential,3491,755,285,34.0,32.0,High,451-3500,Less fe
+Bangalore,HBR Layout,8861892eb1fffff,residential,8375,1319,544,32.0,32.0,Less,3500+,High fe
+Bangalore,Banaswadi,8861892eadfffff,health_and_personal,11253,1591,807,40.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi,8861892eabfffff,residential,8746,1522,618,35.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi,8861892ea9fffff,educational,10192,1910,898,36.0,32.0,High,3500+,High fe
+Bangalore,Kammanahalli HRBR Layout,8861892ea7fffff,residential,16520,3007,1464,40.0,32.0,High,3500+,High fe
+Bangalore,Kammanahalli HRBR Layout,8861892ea5fffff,leisure,16479,2789,1294,42.0,32.0,High,3500+,High fe
+Bangalore,HBR Layout,8861892ea3fffff,residential,8447,1600,735,39.0,32.0,High,3500+,High fe
+Bangalore,Kammanahalli HRBR Layout,8861892ea1fffff,leisure,17605,3413,1541,38.0,32.0,High,3500+,High fe
+Bangalore,Ulsoor Lake,8861892e9dfffff,residential,6794,1141,465,38.0,32.0,High,3500+,High fe
+Bangalore,Metro - MG Road,8861892e9bfffff,leisure,38023,5254,1615,46.0,32.0,High,3500+,High fe
+Bangalore,Ulsoor Lake,8861892e99fffff,residential,11661,1870,609,42.0,32.0,High,3500+,High fe
+Bangalore,Frazer Town,8861892e97fffff,residential,11301,1705,738,35.0,32.0,High,3500+,High fe
+Bangalore,Frazer Town,8861892e95fffff,educational,10703,1844,835,42.0,32.0,High,3500+,High fe
+Bangalore,ShivajiNagar - Bangalore,8861892e93fffff,health_and_personal,28446,3951,1476,32.0,32.0,Less,3500+,High fe
+Bangalore,ShivajiNagar - Bangalore,8861892e91fffff,educational,17533,2599,1071,39.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi,8861892e8dfffff,residential,3022,568,179,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Banaswadi,8861892e8bfffff,residential,1725,211,67,36.0,32.0,High,451-3500,Less fe
+Bangalore,Banaswadi,8861892e89fffff,residential,6513,1173,414,41.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi,8861892e87fffff,residential,12563,1962,823,42.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi,8861892e85fffff,residential,15999,1951,701,24.0,32.0,Less,3500+,High fe
+Bangalore,Cox Town,8861892e83fffff,residential,4805,960,422,40.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi,8861892e81fffff,govt_amenity,1702,245,94,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Kadugodi,8861892e6dfffff,residential,4713,1160,447,40.0,32.0,High,3500+,High fe
+Bangalore,Hoodi,8861892e6bfffff,office,2569,412,164,41.0,32.0,High,451-3500,Less fe
+Bangalore,Hoodi,8861892e69fffff,residential,16796,4109,1950,40.0,32.0,High,3500+,High fe
+Bangalore,Gokula Layout,8861892e67fffff,health_and_personal,6376,1408,594,35.0,32.0,High,3500+,High fe
+Bangalore,Kurudusonnehalli,8861892e65fffff,Unknown,6975,1387,573,37.0,32.0,High,3500+,High fe
+Bangalore,K R Puram,8861892e63fffff,residential,4210,795,320,31.0,32.0,Less,3500+,High fe
+Bangalore,Gokula Layout,8861892e61fffff,residential,4953,1190,499,37.0,32.0,High,3500+,High fe
+Bangalore,Doddanekundi,8861892e5dfffff,leisure,16944,4503,2191,45.0,32.0,High,3500+,High fe
+Bangalore,Marathalli Sector 3,8861892e5bfffff,residential,4475,1060,352,34.0,32.0,High,3500+,High fe
+Bangalore,Marathahalli,8861892e59fffff,residential,546,78,29,33.0,32.0,High,451-3500,Less fe
+Bangalore,Doddanekundi,8861892e57fffff,residential,11548,2492,813,43.0,32.0,High,3500+,High fe
+Bangalore,Doddanakundi Brindavan Extension,8861892e55fffff,residential,19446,5253,1947,48.0,32.0,High,3500+,High fe
+Bangalore,Vibhutipura Lake,8861892e53fffff,residential,12114,2942,1015,43.0,32.0,High,3500+,High fe
+Bangalore,Doddanekundi,8861892e51fffff,residential,7716,1871,838,42.0,32.0,High,3500+,High fe
+Bangalore,Whitefield,8861892e4dfffff,office,9944,1931,814,45.0,32.0,High,3500+,High fe
+Bangalore,Chinnapannahalli,8861892e4bfffff,residential,19771,5331,2261,46.0,32.0,High,3500+,High fe
+Bangalore,Brookefield,8861892e49fffff,office,24669,5204,2246,45.0,32.0,High,3500+,High fe
+Bangalore,Doddanakundi,8861892e47fffff,office,9275,2517,1027,44.0,32.0,High,3500+,High fe
+Bangalore,Hoodi,8861892e45fffff,office,5718,1258,554,40.0,32.0,High,3500+,High fe
+Bangalore,Doddanakundi,8861892e43fffff,residential,12860,3344,1345,48.0,32.0,High,3500+,High fe
+Bangalore,Doddanakundi,8861892e41fffff,office,9680,2000,858,43.0,32.0,High,3500+,High fe
+Bangalore,K R Puram,8861892e3dfffff,residential,5230,1037,370,37.0,32.0,High,3500+,High fe
+Bangalore,K R Puram,8861892e3bfffff,residential,14201,2343,820,32.0,32.0,Less,3500+,High fe
+Bangalore,Mahadevpura,8861892e39fffff,educational,30451,5516,1911,34.0,32.0,High,3500+,High fe
+Bangalore,Ramamurthy Nagar,8861892e37fffff,Unknown,7904,1505,672,38.0,32.0,High,3500+,High fe
+Bangalore,Ramamurthy Nagar,8861892e35fffff,educational,6694,1345,514,33.0,32.0,High,3500+,High fe
+Bangalore,K R Puram,8861892e33fffff,residential,6656,1216,527,35.0,32.0,High,3500+,High fe
+Bangalore,K R Puram,8861892e31fffff,residential,5314,920,385,33.0,32.0,High,3500+,High fe
+Bangalore,Kurudusonnehalli,8861892e2dfffff,residential,9517,1705,672,31.0,32.0,Less,3500+,High fe
+Bangalore,K R Puram,8861892e2bfffff,residential,8491,1615,610,31.0,32.0,Less,3500+,High fe
+Bangalore,K R Puram,8861892e29fffff,educational,6835,1384,602,33.0,32.0,High,3500+,High fe
+Bangalore,Ramamurthy Nagar,8861892e27fffff,household_needs,6114,1277,525,33.0,32.0,High,3500+,High fe
+Bangalore,Kurudusonnehalli,8861892e25fffff,educational,3583,567,252,35.0,32.0,High,3500+,Less fe
+Bangalore,Ramamurthy Nagar,8861892e23fffff,residential,1788,328,135,38.0,32.0,High,451-3500,Less fe
+Bangalore,Cambridge College,8861892e21fffff,residential,3056,596,235,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Mahadevpura,8861892e1dfffff,residential,7935,1791,624,39.0,32.0,High,3500+,High fe
+Bangalore,C V Raman Nagar,8861892e1bfffff,office,15307,3456,1285,44.0,32.0,High,3500+,High fe
+Bangalore,C V Raman Nagar,8861892e19fffff,educational,11925,2288,853,44.0,32.0,High,3500+,High fe
+Bangalore,Baiyyappanahalli Cabin,8861892e17fffff,residential,28721,6133,2182,38.0,32.0,High,3500+,High fe
+Bangalore,Mahadevpura,8861892e15fffff,health_and_personal,11481,2436,915,37.0,32.0,High,3500+,High fe
+Bangalore,C V Raman Nagar,8861892e13fffff,residential,4710,810,322,36.0,32.0,High,3500+,High fe
+Bangalore,C V Raman Nagar,8861892e11fffff,residential,7086,1454,561,42.0,32.0,High,3500+,High fe
+Bangalore,Mahadevpura RHB Colony,8861892e0dfffff,residential,26190,4736,1954,45.0,32.0,High,3500+,High fe
+Bangalore,Doddanakundi,8861892e0bfffff,residential,10724,2467,1069,43.0,32.0,High,3500+,High fe
+Bangalore,Doddanakundi,8861892e09fffff,office,17262,4297,1607,46.0,32.0,High,3500+,High fe
+Bangalore,K R Puram,8861892e07fffff,residential,4585,867,391,39.0,32.0,High,3500+,High fe
+Bangalore,K R Puram Railway Colony,8861892e05fffff,residential,3966,749,304,34.0,32.0,High,3500+,High fe
+Bangalore,Mahadevpura,8861892e03fffff,residential,15392,3427,1556,42.0,32.0,High,3500+,High fe
+Bangalore,Mahadevpura RHB Colony,8861892e01fffff,residential,22300,4451,2086,48.0,32.0,High,3500+,High fe
+Bangalore,Bagalur,8861892dedfffff,,181,24,4,27.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892debfffff,residential,297,58,16,33.0,32.0,High,61-450,Less fe
+Bangalore,Chikkagobbi,8861892de9fffff,,240,43,3,23.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,8861892de7fffff,,47,4,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,8861892de5fffff,,8,1,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,8861892de3fffff,Unknown,10,2,1,14.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,8861892de1fffff,,84,12,3,21.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892dddfffff,residential,1981,338,154,40.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892ddbfffff,residential,2516,520,281,38.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892dd9fffff,residential,3157,580,250,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892dd7fffff,residential,1383,299,137,33.0,32.0,High,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892dd5fffff,residential,3257,600,291,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892dd3fffff,residential,926,197,87,37.0,32.0,High,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892dd1fffff,residential,2110,393,195,35.0,32.0,High,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892dcdfffff,,123,22,7,24.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892dcbfffff,residential,1361,272,112,34.0,32.0,High,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892dc9fffff,educational,1625,206,95,34.0,32.0,High,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892dc7fffff,residential,54,8,4,24.0,32.0,Less,0-60,Less fe
+Bangalore,Chikkagobbi,8861892dc5fffff,,700,125,42,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892dc3fffff,residential,5570,940,406,41.0,32.0,High,3500+,High fe
+Bangalore,Chikkagobbi,8861892dc1fffff,residential,976,144,56,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Bagalur,8861892dbdfffff,Unknown,620,131,71,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Jakkur,8861892dbbfffff,Unknown,943,168,63,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Bagalur,8861892db9fffff,Unknown,596,95,44,33.0,32.0,High,451-3500,Less fe
+Bangalore,Yelanhanka,8861892db7fffff,residential,4953,757,340,31.0,32.0,Less,3500+,High fe
+Bangalore,Bagalur,8861892db5fffff,residential,3222,513,228,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Jakkur,8861892db3fffff,residential,2012,236,102,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelanhanka,8861892db1fffff,residential,431,75,30,27.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,8861892dadfffff,,61,14,2,29.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,8861892dabfffff,educational,2380,377,156,33.0,32.0,High,451-3500,Less fe
+Bangalore,Bagalur,8861892da9fffff,Unknown,71,5,1,0.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,8861892da7fffff,,342,56,19,32.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,8861892da5fffff,,202,25,8,21.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,8861892da3fffff,residential,5494,884,355,35.0,32.0,High,3500+,High fe
+Bangalore,Bagalur,8861892da1fffff,educational,352,69,20,28.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d9dfffff,residential,1035,121,50,35.0,32.0,High,451-3500,Less fe
+Bangalore,Jakkur,8861892d9bfffff,residential,549,176,77,37.0,32.0,High,451-3500,Less fe
+Bangalore,Jakkur,8861892d99fffff,residential,689,149,54,34.0,32.0,High,451-3500,Less fe
+Bangalore,Jakkur,8861892d97fffff,Unknown,309,52,12,23.0,32.0,Less,61-450,Less fe
+Bangalore,Jakkur,8861892d95fffff,Unknown,924,181,75,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Jakkur,8861892d93fffff,residential,1158,240,104,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Jakkur,8861892d91fffff,Unknown,286,42,16,42.0,32.0,High,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d8dfffff,residential,411,86,37,31.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d8bfffff,residential,2462,494,243,35.0,32.0,High,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892d89fffff,residential,1639,342,148,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Bagalur,8861892d87fffff,residential,940,166,55,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Bagalur,8861892d85fffff,Unknown,100,7,1,26.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d83fffff,residential,925,185,79,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892d81fffff,residential,1483,318,115,35.0,32.0,High,451-3500,Less fe
+Bangalore,Chikkagobbi,8861892d6bfffff,,6,2,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Chikkagobbi,8861892d5dfffff,,23,3,0,12.0,32.0,Less,0-60,Less fe
+Bangalore,Horamavu,8861892d5bfffff,,275,45,10,32.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892d59fffff,,291,25,7,31.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d57fffff,,162,33,4,32.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d55fffff,,82,15,3,18.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d53fffff,,72,6,1,32.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d51fffff,,296,62,10,23.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote,8861892d4dfffff,,113,19,1,44.0,32.0,High,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d4bfffff,,38,10,1,35.0,32.0,High,0-60,Less fe
+Bangalore,Chikkagobbi,8861892d49fffff,,93,19,1,31.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d43fffff,,19,2,0,11.0,32.0,Less,0-60,Less fe
+Bangalore,Chikkagobbi,8861892d41fffff,,62,20,2,56.0,32.0,High,0-60,Less fe
+Bangalore,Bagalur,8861892d3dfffff,,14,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,8861892d3bfffff,,14,2,0,12.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,8861892d37fffff,,29,1,0,11.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,8861892d35fffff,,70,16,1,8.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,8861892d33fffff,,21,5,1,27.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,8861892d31fffff,,17,3,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,8861892d27fffff,,3,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,8861892d25fffff,,25,1,0,18.0,32.0,Less,0-60,Less fe
+Bangalore,Chikkagobbi,8861892d1dfffff,,8,4,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Chikkagobbi,8861892d1bfffff,,160,36,10,23.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d19fffff,,37,11,2,25.0,32.0,Less,0-60,Less fe
+Bangalore,Chikkagobbi,8861892d17fffff,,41,5,3,38.0,32.0,High,0-60,Less fe
+Bangalore,Chikkagobbi,8861892d15fffff,,115,9,2,17.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d13fffff,,44,5,2,10.0,32.0,Less,0-60,Less fe
+Bangalore,Chikkagobbi,8861892d11fffff,,71,15,4,0.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892d0dfffff,,24,1,0,100.0,32.0,High,0-60,Less fe
+Bangalore,Chikkagobbi,8861892d0bfffff,,44,6,0,31.0,32.0,Less,0-60,Less fe
+Bangalore,Chikkagobbi,8861892d03fffff,,10,2,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Thanisandra,8861892cedfffff,residential,4696,917,444,34.0,32.0,High,3500+,High fe
+Bangalore,Nagavara,8861892cebfffff,office,17617,3437,1466,44.0,32.0,High,3500+,High fe
+Bangalore,HBR Layout,8861892ce9fffff,office,7302,1130,556,40.0,32.0,High,3500+,High fe
+Bangalore,Thanisandra,8861892ce7fffff,residential,5183,1164,639,39.0,32.0,High,3500+,High fe
+Bangalore,Thanisandra,8861892ce5fffff,residential,5657,1158,657,40.0,32.0,High,3500+,High fe
+Bangalore,Thanisandra,8861892ce3fffff,residential,4280,848,401,43.0,32.0,High,3500+,High fe
+Bangalore,Thanisandra,8861892ce1fffff,office,4773,907,418,37.0,32.0,High,3500+,High fe
+Bangalore,HBR Layout,8861892cddfffff,residential,7947,1288,562,35.0,32.0,High,3500+,High fe
+Bangalore,R T Nagar,8861892cdbfffff,educational,7393,1297,528,35.0,32.0,High,3500+,High fe
+Bangalore,R T Nagar,8861892cd9fffff,residential,2348,440,138,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Hebbal,8861892cd7fffff,leisure,8105,1315,586,32.0,32.0,Less,3500+,High fe
+Bangalore,Hebbal,8861892cd5fffff,health_and_personal,10309,1920,840,35.0,32.0,High,3500+,High fe
+Bangalore,R T Nagar CBI Road,8861892cd3fffff,Unknown,12367,2460,1086,36.0,32.0,High,3500+,High fe
+Bangalore,R T Nagar,8861892cd1fffff,leisure,8738,1582,627,37.0,32.0,High,3500+,High fe
+Bangalore,HBR Layout,8861892ccdfffff,residential,11131,2025,977,37.0,32.0,High,3500+,High fe
+Bangalore,Nagavara,8861892ccbfffff,educational,7907,1259,581,31.0,32.0,Less,3500+,High fe
+Bangalore,HBR Layout,8861892cc9fffff,leisure,7779,1161,561,33.0,32.0,High,3500+,High fe
+Bangalore,Manyata Tech Park Nagavara,8861892cc7fffff,residential,22187,4789,2391,40.0,32.0,High,3500+,High fe
+Bangalore,Manyata Tech Park Nagavara,8861892cc5fffff,residential,18496,3553,1668,36.0,32.0,High,3500+,High fe
+Bangalore,Nagavara,8861892cc3fffff,Unknown,8514,1419,626,34.0,32.0,High,3500+,High fe
+Bangalore,Nagavara,8861892cc1fffff,educational,6514,1100,525,30.0,32.0,Less,3500+,High fe
+Bangalore,Thanisandra,8861892cbdfffff,residential,6445,1205,475,36.0,32.0,High,3500+,High fe
+Bangalore,Sahakara Nagar,8861892cbbfffff,Unknown,1340,235,110,36.0,32.0,High,451-3500,Less fe
+Bangalore,Sahakara Nagar,8861892cb9fffff,health_and_personal,10800,1936,860,38.0,32.0,High,3500+,High fe
+Bangalore,Sahakara Nagar,8861892cb7fffff,residential,3064,520,233,38.0,32.0,High,451-3500,Less fe
+Bangalore,Sahakara Nagar,8861892cb5fffff,residential,3900,809,349,33.0,32.0,High,3500+,High fe
+Bangalore,Sahakara Nagar,8861892cb3fffff,residential,3498,704,346,34.0,32.0,High,451-3500,Less fe
+Bangalore,Sahakara Nagar,8861892cb1fffff,residential,5913,1202,594,37.0,32.0,High,3500+,High fe
+Bangalore,Thanisandra,8861892cadfffff,residential,2713,589,297,33.0,32.0,High,451-3500,Less fe
+Bangalore,Thanisandra,8861892cabfffff,Unknown,3310,673,369,39.0,32.0,High,451-3500,Less fe
+Bangalore,Thanisandra,8861892ca9fffff,Unknown,1589,375,169,35.0,32.0,High,451-3500,Less fe
+Bangalore,Jakkur,8861892ca7fffff,residential,1866,442,201,35.0,32.0,High,451-3500,Less fe
+Bangalore,Jakkur,8861892ca5fffff,residential,971,236,106,41.0,32.0,High,451-3500,Less fe
+Bangalore,Thanisandra,8861892ca3fffff,residential,4282,943,438,32.0,32.0,Less,3500+,High fe
+Bangalore,Thanisandra,8861892ca1fffff,residential,2085,410,184,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Hebbal Baptist Hospital,8861892c9dfffff,residential,15815,2827,922,32.0,32.0,Less,3500+,High fe
+Bangalore,Mathikere,8861892c9bfffff,residential,5508,1117,541,40.0,32.0,High,3500+,High fe
+Bangalore,Hebbal,8861892c99fffff,educational,3756,780,346,34.0,32.0,High,3500+,High fe
+Bangalore,Mathikere,8861892c97fffff,office,4597,905,412,36.0,32.0,High,3500+,High fe
+Bangalore,Sahakara Nagar,8861892c95fffff,Unknown,3843,808,254,29.0,32.0,Less,3500+,High fe
+Bangalore,Mathikere,8861892c93fffff,Unknown,4673,842,367,37.0,32.0,High,3500+,High fe
+Bangalore,Mathikere,8861892c91fffff,educational,1039,172,62,39.0,32.0,High,451-3500,Less fe
+Bangalore,Nagavara,8861892c8dfffff,office,9763,1907,867,37.0,32.0,High,3500+,High fe
+Bangalore,Hebbal,8861892c8bfffff,Unknown,8069,1427,574,30.0,32.0,Less,3500+,High fe
+Bangalore,Hebbal,8861892c89fffff,residential,8575,1629,789,35.0,32.0,High,3500+,High fe
+Bangalore,Nagavara,8861892c87fffff,residential,7038,1572,792,38.0,32.0,High,3500+,High fe
+Bangalore,Thanisandra,8861892c85fffff,health_and_personal,5943,1495,800,37.0,32.0,High,3500+,High fe
+Bangalore,Nagavara,8861892c83fffff,residential,4591,943,387,35.0,32.0,High,3500+,High fe
+Bangalore,Nagavara,8861892c81fffff,residential,2651,512,266,36.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c6dfffff,,526,85,18,22.0,32.0,Less,451-3500,Less fe
+Bangalore,Horamavu,8861892c6bfffff,Unknown,1557,275,108,34.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c69fffff,Unknown,422,85,38,28.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892c67fffff,residential,12,3,2,14.0,32.0,Less,0-60,Less fe
+Bangalore,Horamavu,8861892c65fffff,,94,8,3,26.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892c63fffff,Unknown,263,59,27,33.0,32.0,High,61-450,Less fe
+Bangalore,Horamavu,8861892c61fffff,Unknown,493,102,29,21.0,32.0,Less,451-3500,Less fe
+Bangalore,Ramamurthy Nagar,8861892c5dfffff,residential,6546,1237,535,39.0,32.0,High,3500+,High fe
+Bangalore,Banaswadi,8861892c5bfffff,health_and_personal,12094,2080,981,38.0,32.0,High,3500+,High fe
+Bangalore,K R Puram,8861892c59fffff,household_needs,12958,2353,1072,38.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c57fffff,residential,6982,1139,494,38.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c55fffff,residential,6780,1081,513,36.0,32.0,High,3500+,High fe
+Bangalore,BLR_HRBR Layout,8861892c53fffff,residential,12271,2236,963,38.0,32.0,High,3500+,High fe
+Bangalore,BLR_HRBR Layout,8861892c51fffff,health_and_personal,10987,2011,884,40.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c4dfffff,Unknown,4328,804,294,34.0,32.0,High,3500+,High fe
+Bangalore,Ramamurthy Nagar,8861892c4bfffff,Unknown,6561,1265,522,36.0,32.0,High,3500+,High fe
+Bangalore,Ramamurthy Nagar,8861892c49fffff,Unknown,7601,1495,594,35.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c47fffff,Unknown,3573,663,281,33.0,32.0,High,3500+,Less fe
+Bangalore,Horamavu,8861892c45fffff,Unknown,3163,524,210,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Horamavu,8861892c43fffff,residential,4488,748,303,35.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c41fffff,Unknown,4382,832,374,36.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c3dfffff,residential,1824,290,144,34.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c3bfffff,residential,3234,508,242,39.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c39fffff,residential,3006,548,270,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Horamavu,8861892c37fffff,residential,2960,514,275,36.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c35fffff,residential,3968,694,311,36.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c33fffff,residential,1718,270,137,38.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c31fffff,residential,5080,877,429,34.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c2dfffff,residential,268,46,8,36.0,32.0,High,61-450,Less fe
+Bangalore,Horamavu,8861892c2bfffff,residential,898,155,59,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Horamavu,8861892c29fffff,residential,345,44,12,30.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkagobbi,8861892c27fffff,,325,80,29,36.0,32.0,High,61-450,Less fe
+Bangalore,Chikkagobbi,8861892c25fffff,,150,23,4,32.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892c23fffff,residential,872,134,46,35.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c21fffff,educational,108,15,4,28.0,32.0,Less,61-450,Less fe
+Bangalore,Horamavu,8861892c1dfffff,residential,5047,821,405,36.0,32.0,High,3500+,High fe
+Bangalore,BLR_HRBR Layout,8861892c1bfffff,residential,13780,2248,1050,38.0,32.0,High,3500+,High fe
+Bangalore,BLR_HRBR Layout,8861892c19fffff,residential,6417,1111,558,35.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c17fffff,residential,2463,417,196,33.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c15fffff,residential,1684,272,133,34.0,32.0,High,451-3500,Less fe
+Bangalore,HBR Layout,8861892c13fffff,Unknown,6075,968,484,40.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c11fffff,residential,5068,814,398,36.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c0dfffff,Unknown,615,109,33,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Horamavu,8861892c0bfffff,residential,3275,569,270,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Horamavu,8861892c09fffff,Unknown,4537,752,315,39.0,32.0,High,3500+,High fe
+Bangalore,Horamavu,8861892c07fffff,Unknown,1288,196,93,34.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c05fffff,residential,1056,181,74,34.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c03fffff,Unknown,873,168,52,33.0,32.0,High,451-3500,Less fe
+Bangalore,Horamavu,8861892c01fffff,Unknown,298,54,27,44.0,32.0,High,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892ae7fffff,,32,3,1,31.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892addfffff,,8,1,0,75.0,32.0,High,0-60,Less fe
+Bangalore,Kurudusonnehalli,8861892adbfffff,Unknown,178,52,13,35.0,32.0,High,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892ad7fffff,,184,39,12,26.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892ad3fffff,,189,41,12,33.0,32.0,High,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892acbfffff,,9,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892ac7fffff,,11,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892ac3fffff,,31,9,0,50.0,32.0,High,0-60,Less fe
+Bangalore,BLR_Hoskote,8861892abdfffff,,633,99,26,33.0,32.0,High,451-3500,Less fe
+Bangalore,BLR_Hoskote,8861892abbfffff,,1940,385,117,30.0,32.0,Less,451-3500,Less fe
+Bangalore,BLR_Hoskote,8861892ab9fffff,,366,62,19,31.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote,8861892ab7fffff,,22,2,1,17.0,32.0,Less,0-60,Less fe
+Bangalore,Huskur Kodi,8861892ab3fffff,,46,5,2,24.0,32.0,Less,0-60,Less fe
+Bangalore,Huskur Kodi,8861892ab1fffff,,125,9,1,11.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892aadfffff,,641,53,7,24.0,32.0,Less,451-3500,Less fe
+Bangalore,Hoskote_BLR,8861892aabfffff,,46,4,2,40.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892aa9fffff,,66,6,1,30.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892aa7fffff,,288,28,8,23.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892aa5fffff,,455,59,15,23.0,32.0,Less,451-3500,Less fe
+Bangalore,Huskur Kodi,8861892aa3fffff,,258,33,14,23.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892aa1fffff,,1337,240,74,20.0,32.0,Less,451-3500,Less fe
+Bangalore,BLR_Hoskote,8861892a9dfffff,,126,22,4,7.0,32.0,Less,61-450,Less fe
+Bangalore,Doddabanahalli,8861892a9bfffff,,513,107,37,30.0,32.0,Less,451-3500,Less fe
+Bangalore,BLR_Hoskote,8861892a97fffff,,283,59,21,34.0,32.0,High,61-450,Less fe
+Bangalore,BLR_Hoskote,8861892a95fffff,,290,71,26,29.0,32.0,Less,61-450,Less fe
+Bangalore,BLR_Hoskote,8861892a93fffff,,724,142,55,39.0,32.0,High,451-3500,Less fe
+Bangalore,BLR_Hoskote,8861892a91fffff,,367,97,38,48.0,32.0,High,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892a8bfffff,,9,2,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892a89fffff,,11,1,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892a85fffff,,25,6,3,20.0,32.0,Less,0-60,Less fe
+Bangalore,BLR_Hoskote,8861892a83fffff,,28,6,3,23.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892a31fffff,,3,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892a2bfffff,,6,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892a19fffff,,14,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,88618929cdfffff,,5,1,0,100.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,88618929c1fffff,,3,1,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,88618928e5fffff,,14,4,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote,88618928ddfffff,,62,5,1,37.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote,88618928dbfffff,,537,79,17,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Hoskote,88618928d9fffff,,179,37,11,26.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote,88618928d3fffff,,91,17,4,30.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote,88618928d1fffff,,150,18,5,18.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,88618928cdfffff,,8,3,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote,886189289dfffff,,43,8,1,20.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote,8861892899fffff,,210,26,2,12.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote,8861892891fffff,,41,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote,886189288bfffff,,13,3,0,14.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote,8861892889fffff,,12,8,0,100.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote,8861892883fffff,,6,1,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote,8861892881fffff,,6,1,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892867fffff,,11,2,0,14.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892863fffff,,61,13,0,29.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,886189285dfffff,,83,2,0,23.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,886189285bfffff,,145,25,5,16.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892859fffff,,25,3,1,10.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892857fffff,,34,3,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892855fffff,,80,4,0,12.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892853fffff,,281,56,13,22.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892851fffff,,224,19,4,26.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,886189284bfffff,,16,8,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892845fffff,,29,1,0,8.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892843fffff,,34,2,0,19.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892841fffff,,16,4,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892839fffff,,5,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,886189282dfffff,,33,6,0,8.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892827fffff,,6,3,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,886189281bfffff,,138,10,2,24.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892813fffff,,37,1,0,29.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892811fffff,,8,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,886189280dfffff,,50,7,0,19.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892801fffff,,119,11,0,18.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur Road,886189276dfffff,,4120,690,296,34.0,32.0,High,3500+,High fe
+Bangalore,Huskur,886189276bfffff,,901,117,34,43.0,32.0,High,451-3500,Less fe
+Bangalore,Huskur,8861892769fffff,,1417,327,108,41.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur Road,8861892767fffff,residential,13115,2179,848,44.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Road,8861892765fffff,,1575,327,130,35.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur Road,8861892763fffff,,3093,674,270,40.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur Road,8861892761fffff,,3460,568,259,43.0,32.0,High,451-3500,Less fe
+Bangalore,Central Jail Road,886189275dfffff,,806,149,45,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Electronic City Phase 2 ,886189275bfffff,,2264,430,203,34.0,32.0,High,451-3500,Less fe
+Bangalore,Central Jail Road,8861892759fffff,,121,29,10,30.0,32.0,Less,61-450,Less fe
+Bangalore,Central Jail Road,8861892757fffff,,228,58,23,32.0,32.0,Less,61-450,Less fe
+Bangalore,Central Jail Road,8861892753fffff,residential,1372,279,106,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Central Jail Road,8861892751fffff,,1516,279,100,43.0,32.0,High,451-3500,Less fe
+Bangalore,Huskur,886189274dfffff,,18,2,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Huskur,886189274bfffff,,370,58,17,28.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,8861892749fffff,,108,4,1,31.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,8861892747fffff,,105,9,2,29.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,8861892745fffff,,124,23,6,47.0,32.0,High,61-450,Less fe
+Bangalore,Huskur,8861892743fffff,,225,44,6,25.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,8861892741fffff,,69,10,1,16.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur Road,886189273dfffff,residential,6085,1133,388,43.0,32.0,High,3500+,High fe
+Bangalore,Harlur,886189273bfffff,residential,4307,743,230,49.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Road,8861892739fffff,residential,7871,1248,482,42.0,32.0,High,3500+,High fe
+Bangalore,Harlur,8861892737fffff,residential,4841,874,310,49.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Harlur Junc,8861892735fffff,residential,27305,5594,2130,47.0,32.0,High,3500+,High fe
+Bangalore,Harlur,8861892733fffff,residential,6201,840,326,50.0,32.0,High,3500+,High fe
+Bangalore,Kasavanahalli Colony,8861892731fffff,residential,11165,2163,725,49.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Road,886189272dfffff,household_needs,5899,1315,573,43.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Road,886189272bfffff,residential,4158,782,270,46.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Road,8861892729fffff,residential,6854,1139,453,52.0,32.0,High,3500+,High fe
+Bangalore,RMZ Ecospace - Bellandur,8861892727fffff,residential,4801,842,302,46.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Road,8861892725fffff,Unknown,6845,1490,711,49.0,32.0,High,3500+,High fe
+Bangalore,Kaikondrahalli,8861892723fffff,residential,14219,2567,991,49.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Road,8861892721fffff,residential,6326,1448,644,42.0,32.0,High,3500+,High fe
+Bangalore,Central Jail Road,886189271dfffff,Unknown,3065,570,224,39.0,32.0,High,451-3500,Less fe
+Bangalore,Parappana Agrahara,886189271bfffff,Unknown,2578,484,193,35.0,32.0,High,451-3500,Less fe
+Bangalore,Central Jail Road,8861892719fffff,Unknown,4494,836,310,37.0,32.0,High,3500+,High fe
+Bangalore,Parappana Agrahara,8861892717fffff,residential,3182,504,200,46.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur Road,8861892715fffff,residential,5051,933,324,39.0,32.0,High,3500+,High fe
+Bangalore,Parappana Agrahara,8861892713fffff,Unknown,1721,341,132,33.0,32.0,High,451-3500,Less fe
+Bangalore,Parappana Agrahara,8861892711fffff,residential,3455,598,236,42.0,32.0,High,451-3500,Less fe
+Bangalore,Central Jail Road,886189270dfffff,,331,50,14,33.0,32.0,High,61-450,Less fe
+Bangalore,Central Jail Road,886189270bfffff,,745,135,33,37.0,32.0,High,451-3500,Less fe
+Bangalore,Central Jail Road,8861892709fffff,,727,163,34,34.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur Road,8861892707fffff,,1022,176,61,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Sarjapur Road,8861892705fffff,,1016,162,58,42.0,32.0,High,451-3500,Less fe
+Bangalore,Central Jail Road,8861892703fffff,,1956,394,108,36.0,32.0,High,451-3500,Less fe
+Bangalore,Central Jail Road,8861892701fffff,,232,43,9,35.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta,88618926edfffff,,1577,250,89,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,88618926ebfffff,,311,57,17,33.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta,88618926e9fffff,,394,84,33,38.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta,88618926e7fffff,Unknown,418,75,14,36.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta,88618926e5fffff,,308,45,14,29.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,88618926e3fffff,Unknown,760,138,40,35.0,32.0,High,451-3500,Less fe
+Bangalore,Bannerghatta,88618926e1fffff,,403,87,36,30.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,88618926ddfffff,,40,3,0,13.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,88618926dbfffff,,179,32,8,32.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,88618926d9fffff,,33,3,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,88618926d7fffff,,62,2,0,23.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,88618926d5fffff,,209,45,16,17.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,88618926d3fffff,,268,28,5,26.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,88618926d1fffff,,14,2,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,88618926cdfffff,,592,60,10,39.0,32.0,High,451-3500,Less fe
+Bangalore,Bannerghatta,88618926cbfffff,,31,8,1,29.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,88618926c9fffff,,91,20,3,27.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,88618926c7fffff,,339,48,10,27.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,88618926c5fffff,,619,76,25,43.0,32.0,High,451-3500,Less fe
+Bangalore,Bannerghatta,88618926c3fffff,,71,11,1,24.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,88618926c1fffff,,199,14,2,34.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta,88618926bdfffff,educational,2107,338,130,35.0,32.0,High,451-3500,Less fe
+Bangalore,Bannerghatta,88618926bbfffff,residential,767,125,48,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,88618926b9fffff,residential,1986,285,113,34.0,32.0,High,451-3500,Less fe
+Bangalore,Anjanapura,88618926b7fffff,Unknown,2191,482,206,36.0,32.0,High,451-3500,Less fe
+Bangalore,Gottigere,88618926b5fffff,educational,6868,1066,480,37.0,32.0,High,3500+,High fe
+Bangalore,Anjanapura,88618926b3fffff,Unknown,659,135,51,35.0,32.0,High,451-3500,Less fe
+Bangalore,Gottigere,88618926b1fffff,residential,1176,214,87,34.0,32.0,High,451-3500,Less fe
+Bangalore,Akshaynagar,88618926adfffff,residential,4667,834,288,42.0,32.0,High,3500+,High fe
+Bangalore,Bannerghatta,88618926abfffff,Unknown,763,131,43,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,88618926a9fffff,Unknown,362,38,13,31.0,32.0,Less,61-450,Less fe
+Bangalore,Hulimavu,88618926a7fffff,residential,4184,772,289,38.0,32.0,High,3500+,High fe
+Bangalore,Akshaynagar,88618926a5fffff,residential,933,115,47,38.0,32.0,High,451-3500,Less fe
+Bangalore,Gottigere,88618926a3fffff,Unknown,3997,567,215,38.0,32.0,High,3500+,High fe
+Bangalore,Akshaynagar,88618926a1fffff,residential,2839,485,172,42.0,32.0,High,451-3500,Less fe
+Bangalore,Bannerghatta,886189269dfffff,Unknown,1370,186,76,40.0,32.0,High,451-3500,Less fe
+Bangalore,Bannerghatta,886189269bfffff,,20,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,8861892699fffff,,197,39,11,39.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta,8861892697fffff,residential,448,77,21,28.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,8861892693fffff,,59,4,0,26.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,8861892691fffff,,30,7,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,886189268dfffff,,513,89,31,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,886189268bfffff,,40,4,2,15.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,8861892689fffff,,248,49,11,18.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,8861892687fffff,Unknown,992,180,69,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,8861892685fffff,Unknown,615,89,38,23.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,8861892683fffff,Unknown,603,98,26,23.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,8861892681fffff,,112,17,5,32.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,886189266dfffff,,1549,336,148,39.0,32.0,High,451-3500,Less fe
+Bangalore,Electronic City,886189266bfffff,,4756,802,356,34.0,32.0,High,3500+,High fe
+Bangalore,Electronic City Phase 2 ,8861892669fffff,,1583,250,115,37.0,32.0,High,451-3500,Less fe
+Bangalore,Electronic City Phase 2 ,8861892667fffff,,11186,2081,1120,39.0,32.0,High,3500+,High fe
+Bangalore,Electronic City Phase 2 ,8861892665fffff,,5644,1070,553,37.0,32.0,High,3500+,High fe
+Bangalore,Electronic City,8861892663fffff,,18070,2660,1351,38.0,32.0,High,3500+,High fe
+Bangalore,Electronic City Phase 2 ,8861892661fffff,,5346,870,458,39.0,32.0,High,3500+,High fe
+Bangalore,Bommasandra Industrial Area,886189265dfffff,,485,79,33,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,886189265bfffff,,338,34,14,56.0,32.0,High,61-450,Less fe
+Bangalore,Jigani,8861892659fffff,,1421,276,123,42.0,32.0,High,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861892657fffff,,1117,198,93,33.0,32.0,High,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861892655fffff,,2328,530,294,41.0,32.0,High,451-3500,Less fe
+Bangalore,Jigani,8861892653fffff,,62,10,1,10.0,32.0,Less,0-60,Less fe
+Bangalore,Jigani,8861892651fffff,,142,22,7,24.0,32.0,Less,61-450,Less fe
+Bangalore,Bommasandra Industrial Area,886189264dfffff,,3047,590,292,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,886189264bfffff,,1445,317,146,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861892649fffff,,1278,269,108,22.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861892647fffff,,1424,311,141,19.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861892645fffff,,4032,715,308,29.0,32.0,Less,3500+,High fe
+Bangalore,Bommasandra Industrial Area,8861892643fffff,,2665,468,229,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861892641fffff,,596,114,39,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Electronic City,886189263dfffff,residential,9185,1556,807,38.0,32.0,High,3500+,High fe
+Bangalore,Bannerghatta,886189263bfffff,,1598,354,157,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Electronic City,8861892639fffff,,19329,2900,1432,44.0,32.0,High,3500+,High fe
+Bangalore,Bannerghatta,8861892637fffff,Unknown,376,59,17,29.0,32.0,Less,61-450,Less fe
+Bangalore,Electronic City,8861892635fffff,residential,1215,211,77,37.0,32.0,High,451-3500,Less fe
+Bangalore,Bannerghatta,8861892633fffff,,347,90,22,30.0,32.0,Less,61-450,Less fe
+Bangalore,Electronic City,8861892631fffff,residential,2572,467,205,38.0,32.0,High,451-3500,Less fe
+Bangalore,Electronic City Phase 2 ,886189262dfffff,,5647,1282,607,36.0,32.0,High,3500+,High fe
+Bangalore,Electronic City,886189262bfffff,,15637,2251,1089,41.0,32.0,High,3500+,High fe
+Bangalore,Electronic City Phase 2 ,8861892629fffff,,11901,2256,1155,35.0,32.0,High,3500+,High fe
+Bangalore,Electronic City Phase 2 ,8861892627fffff,residential,4944,1020,398,40.0,32.0,High,3500+,High fe
+Bangalore,Central Jail Road,8861892625fffff,Unknown,1846,396,137,37.0,32.0,High,451-3500,Less fe
+Bangalore,Electronic City,8861892623fffff,residential,1734,263,122,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Electronic City Phase 2 ,8861892621fffff,office,7543,1312,590,36.0,32.0,High,3500+,High fe
+Bangalore,Bommasandra Industrial Area,886189261dfffff,,2058,313,122,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,886189261bfffff,,177,26,11,22.0,32.0,Less,61-450,Less fe
+Bangalore,Bommasandra Industrial Area,8861892619fffff,,206,31,10,27.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,8861892617fffff,,622,122,55,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861892615fffff,,2195,447,198,36.0,32.0,High,451-3500,Less fe
+Bangalore,Bannerghatta,8861892613fffff,,349,72,27,31.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,8861892611fffff,,261,34,10,29.0,32.0,Less,61-450,Less fe
+Bangalore,Electronic City,886189260dfffff,,4839,777,380,35.0,32.0,High,3500+,High fe
+Bangalore,Bommasandra Industrial Area,886189260bfffff,,1542,255,117,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Bommasandra Industrial Area,8861892609fffff,,2080,422,210,40.0,32.0,High,451-3500,Less fe
+Bangalore,Electronic City,8861892607fffff,,3431,391,178,37.0,32.0,High,451-3500,Less fe
+Bangalore,Electronic City,8861892605fffff,,10823,1081,546,39.0,32.0,High,3500+,High fe
+Bangalore,Electronic City,8861892603fffff,,15419,2466,1313,42.0,32.0,High,3500+,High fe
+Bangalore,E-City Police Station,8861892601fffff,,6921,972,520,37.0,32.0,High,3500+,High fe
+Bangalore,Domlur,88618925edfffff,leisure,3137,721,251,43.0,32.0,High,451-3500,Less fe
+Bangalore,Koramangala 8th Block,88618925ebfffff,residential,39641,6712,2586,44.0,32.0,High,3500+,High fe
+Bangalore,Ejipura,88618925e9fffff,educational,55918,10210,3982,45.0,32.0,High,3500+,High fe
+Bangalore,Neelasandra,88618925e7fffff,residential,9065,1725,659,34.0,32.0,High,3500+,High fe
+Bangalore,Domlur,88618925e5fffff,leisure,698,105,33,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Anepalya,88618925e3fffff,educational,9507,2147,802,27.0,32.0,Less,3500+,High fe
+Bangalore,Ejipura NGV,88618925e1fffff,residential,22522,4716,1770,39.0,32.0,High,3500+,High fe
+Bangalore,BTM,88618925ddfffff,residential,38116,5595,2383,39.0,32.0,High,3500+,High fe
+Bangalore,J P Nagar VET College Ground,88618925dbfffff,residential,12502,1874,796,42.0,32.0,High,3500+,High fe
+Bangalore,BTM Second Stage,88618925d9fffff,office,44772,5883,2782,44.0,32.0,High,3500+,High fe
+Bangalore,Jayanagar 4th Block,88618925d7fffff,residential,19214,3084,1198,38.0,32.0,High,3500+,High fe
+Bangalore,Tilak Nagar,88618925d5fffff,educational,27770,4645,1798,40.0,32.0,High,3500+,High fe
+Bangalore,Jayanagar,88618925d3fffff,residential,26492,4078,1948,42.0,32.0,High,3500+,High fe
+Bangalore,Jayanagar,88618925d1fffff,residential,25733,3917,1821,39.0,32.0,High,3500+,High fe
+Bangalore,Koramangala 3rd Block,88618925cdfffff,residential,11938,1743,595,41.0,32.0,High,3500+,High fe
+Bangalore,BTM,88618925cbfffff,educational,67963,12280,4825,41.0,32.0,High,3500+,High fe
+Bangalore,Venkatapura,88618925c9fffff,residential,50980,9254,3517,38.0,32.0,High,3500+,High fe
+Bangalore,St Johns Signal,88618925c7fffff,office,100666,14122,5017,48.0,32.0,High,3500+,High fe
+Bangalore,Koramangala 5th Block,88618925c5fffff,residential,41246,6335,2307,46.0,32.0,High,3500+,High fe
+Bangalore,Tavarakere,88618925c3fffff,educational,75795,13708,5596,46.0,32.0,High,3500+,High fe
+Bangalore,Madiwala,88618925c1fffff,educational,48570,8787,3132,40.0,32.0,High,3500+,High fe
+Bangalore,Shanti Nagar,88618925bdfffff,educational,20388,3550,1319,38.0,32.0,High,3500+,High fe
+Bangalore,Metro - Lalbagh,88618925bbfffff,leisure,10171,1847,695,39.0,32.0,High,3500+,High fe
+Bangalore,Mavalli,88618925b9fffff,leisure,8779,1368,430,37.0,32.0,High,3500+,High fe
+Bangalore,Kalasipalyam,88618925b7fffff,food,25424,5944,1744,35.0,32.0,High,3500+,High fe
+Bangalore,Sampagni Rama Nagar,88618925b5fffff,office,23079,3803,1373,36.0,32.0,High,3500+,High fe
+Bangalore,National College,88618925b3fffff,educational,19507,4272,1540,37.0,32.0,High,3500+,High fe
+Bangalore,Sudhama Nagar,88618925b1fffff,leisure,21599,4454,1538,38.0,32.0,High,3500+,High fe
+Bangalore,Victoria layout,88618925adfffff,residential,10902,2042,814,39.0,32.0,High,3500+,High fe
+Bangalore,Shanti Nagar,88618925abfffff,residential,12281,2166,821,39.0,32.0,High,3500+,High fe
+Bangalore,Neelasandra,88618925a9fffff,educational,6121,1276,482,28.0,32.0,Less,3500+,High fe
+Bangalore,BLR_Ashok Nagar,88618925a7fffff,office,39605,5877,1675,46.0,32.0,High,3500+,High fe
+Bangalore,Trinity,88618925a5fffff,residential,48187,7586,2146,45.0,32.0,High,3500+,High fe
+Bangalore,Shanti Nagar,88618925a3fffff,residential,33411,4924,1615,42.0,32.0,High,3500+,High fe
+Bangalore,Neelasandra,88618925a1fffff,educational,17057,2889,990,42.0,32.0,High,3500+,High fe
+Bangalore,NIMHANS,886189259dfffff,residential,10723,1783,805,39.0,32.0,High,3500+,High fe
+Bangalore,Metro Rashtreeya Vidyalaya,886189259bfffff,educational,15895,2908,1325,43.0,32.0,High,3500+,High fe
+Bangalore,Jayanagar,8861892599fffff,residential,32461,4031,1669,40.0,32.0,High,3500+,High fe
+Bangalore,Basavanagudi,8861892597fffff,leisure,13041,2001,837,40.0,32.0,High,3500+,High fe
+Bangalore,NIMHANS,8861892595fffff,educational,9177,1394,499,41.0,32.0,High,3500+,High fe
+Bangalore,Basavanagudi,8861892593fffff,educational,9408,1609,695,38.0,32.0,High,3500+,High fe
+Bangalore,Metro Jayanagar,8861892591fffff,residential,25622,3754,1456,41.0,32.0,High,3500+,High fe
+Bangalore,Adugodi Traffic Station,886189258dfffff,residential,25303,4240,1500,42.0,32.0,High,3500+,High fe
+Bangalore,Adugodi,886189258bfffff,educational,19192,3405,1031,43.0,32.0,High,3500+,High fe
+Bangalore,Tavarakere,8861892589fffff,educational,86341,10853,4371,47.0,32.0,High,3500+,High fe
+Bangalore,Wilson Garden,8861892587fffff,residential,20260,4021,1440,38.0,32.0,High,3500+,High fe
+Bangalore,Anepalya,8861892585fffff,educational,11178,2448,766,36.0,32.0,High,3500+,High fe
+Bangalore,NIMHANS,8861892583fffff,educational,13179,1979,723,33.0,32.0,High,3500+,High fe
+Bangalore,Adugodi,8861892581fffff,educational,16022,2832,1038,41.0,32.0,High,3500+,High fe
+Bangalore,Bellandur,886189256dfffff,residential,9740,1762,636,49.0,32.0,High,3500+,High fe
+Bangalore,Bellandur,886189256bfffff,Unknown,1980,474,187,47.0,32.0,High,451-3500,Less fe
+Bangalore,Bellandur,8861892569fffff,residential,16135,3051,617,52.0,32.0,High,3500+,High fe
+Bangalore,HAL,8861892567fffff,Unknown,2140,410,150,35.0,32.0,High,451-3500,Less fe
+Bangalore,Marathalli Sector 3,8861892565fffff,residential,2065,427,148,35.0,32.0,High,451-3500,Less fe
+Bangalore,Bellandur,8861892563fffff,residential,3604,740,263,53.0,32.0,High,3500+,Less fe
+Bangalore,Bellandur,8861892561fffff,residential,6136,1302,503,45.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Signal,886189255dfffff,govt_amenity,24176,4556,1595,47.0,32.0,High,3500+,High fe
+Bangalore,CPWD Qtrs HSR ,886189255bfffff,leisure,31269,4594,1886,49.0,32.0,High,3500+,High fe
+Bangalore,CPWD Qtrs HSR ,8861892559fffff,Unknown,3934,650,225,55.0,32.0,High,3500+,High fe
+Bangalore,Bellandur,8861892557fffff,Unknown,12856,2188,873,40.0,32.0,High,3500+,High fe
+Bangalore,Bellandur,8861892555fffff,residential,5581,938,296,45.0,32.0,High,3500+,High fe
+Bangalore,RTO HSR Sec 1,8861892553fffff,residential,39834,6638,2501,48.0,32.0,High,3500+,High fe
+Bangalore,CPWD Qtrs HSR ,8861892551fffff,Unknown,2522,374,140,49.0,32.0,High,451-3500,Less fe
+Bangalore,RMZ Ecospace - Bellandur,886189254dfffff,office,22797,4200,1327,45.0,32.0,High,3500+,High fe
+Bangalore,Kaikondrahalli,886189254bfffff,residential,23872,4098,1492,50.0,32.0,High,3500+,High fe
+Bangalore,Kaikondrahalli,8861892549fffff,residential,14977,2697,624,50.0,32.0,High,3500+,High fe
+Bangalore,Bellandur,8861892547fffff,Unknown,4489,953,453,48.0,32.0,High,3500+,High fe
+Bangalore,Bellandur,8861892545fffff,residential,16169,3079,1046,44.0,32.0,High,3500+,High fe
+Bangalore,Green Glen Layout,8861892543fffff,residential,53257,9729,3513,52.0,32.0,High,3500+,High fe
+Bangalore,RMZ Ecospace,8861892541fffff,office,47445,9100,3465,46.0,32.0,High,3500+,High fe
+Bangalore,Murgesh Pallya,886189253dfffff,residential,27336,5390,2366,45.0,32.0,High,3500+,High fe
+Bangalore,Domlur,886189253bfffff,office,11864,2017,564,49.0,32.0,High,3500+,High fe
+Bangalore,Domlur,8861892539fffff,leisure,5658,1150,427,45.0,32.0,High,3500+,High fe
+Bangalore,Domlur Flyover,8861892537fffff,residential,37160,6512,2504,46.0,32.0,High,3500+,High fe
+Bangalore,Kodihalli Leela Palace Rd,8861892535fffff,residential,25809,4384,1721,45.0,32.0,High,3500+,High fe
+Bangalore,Domlur,8861892533fffff,leisure,9153,1506,646,45.0,32.0,High,3500+,High fe
+Bangalore,Domlur Embassy Business Park,8861892531fffff,residential,25835,4492,1449,46.0,32.0,High,3500+,High fe
+Bangalore,Vimanpura,886189252dfffff,residential,7447,1673,573,35.0,32.0,High,3500+,High fe
+Bangalore,HAL,886189252bfffff,transit_station,14138,3219,1193,46.0,32.0,High,3500+,High fe
+Bangalore,HAL,8861892529fffff,Unknown,1444,314,120,38.0,32.0,High,451-3500,Less fe
+Bangalore,C V Raman Nagar,8861892527fffff,Unknown,7299,1538,692,40.0,32.0,High,3500+,High fe
+Bangalore,C V Raman Nagar,8861892525fffff,residential,9933,2143,779,40.0,32.0,High,3500+,High fe
+Bangalore,Jeevanbheemanagar,8861892523fffff,residential,16077,3275,1290,40.0,32.0,High,3500+,High fe
+Bangalore,Vimanpura,8861892521fffff,residential,4217,912,313,31.0,32.0,Less,3500+,High fe
+Bangalore,Domlur,886189251dfffff,Unknown,66,7,0,47.0,32.0,High,61-450,Less fe
+Bangalore,Koramangala 1st Block,886189251bfffff,residential,34557,5943,2217,46.0,32.0,High,3500+,High fe
+Bangalore,Agara Lake,8861892519fffff,leisure,5536,1088,442,46.0,32.0,High,3500+,High fe
+Bangalore,Domlur,8861892517fffff,Unknown,3132,668,224,35.0,32.0,High,451-3500,Less fe
+Bangalore,Domlur,8861892515fffff,Unknown,62,11,1,26.0,32.0,Less,0-60,Less fe
+Bangalore,Koramangala - ST Bed,8861892513fffff,residential,39150,6389,2499,49.0,32.0,High,3500+,High fe
+Bangalore,Domlur,8861892511fffff,Unknown,1700,229,99,51.0,32.0,High,451-3500,Less fe
+Bangalore,Bellandur,886189250dfffff,Unknown,73,21,6,39.0,32.0,High,61-450,Less fe
+Bangalore,Bellandur,886189250bfffff,Unknown,38,4,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Bellandur,8861892509fffff,Unknown,158,19,3,41.0,32.0,High,61-450,Less fe
+Bangalore,HAL,8861892507fffff,Unknown,212,40,12,36.0,32.0,High,61-450,Less fe
+Bangalore,Bellandur,8861892505fffff,Unknown,136,34,11,39.0,32.0,High,61-450,Less fe
+Bangalore,Bellandur,8861892503fffff,Unknown,2327,386,153,41.0,32.0,High,451-3500,Less fe
+Bangalore,Bellandur,8861892501fffff,Unknown,214,45,11,26.0,32.0,Less,61-450,Less fe
+Bangalore,Bilekahalli IIM,88618924edfffff,educational,14227,2149,823,40.0,32.0,High,3500+,High fe
+Bangalore,Arekere Mico Layout,88618924ebfffff,residential,9303,1565,718,42.0,32.0,High,3500+,High fe
+Bangalore,Arekere,88618924e9fffff,residential,21169,3069,1334,43.0,32.0,High,3500+,High fe
+Bangalore,JP Nagar Dollars Colony,88618924e7fffff,residential,26752,4358,2049,44.0,32.0,High,3500+,High fe
+Bangalore,JP Nagar Dollars Colony,88618924e5fffff,residential,23646,3397,1469,44.0,32.0,High,3500+,High fe
+Bangalore,JP Nagar 5th Phase,88618924e3fffff,residential,18173,3166,1358,42.0,32.0,High,3500+,High fe
+Bangalore,Bilekahalli IIM,88618924e1fffff,residential,9434,1493,641,43.0,32.0,High,3500+,High fe
+Bangalore,J P nagar South,88618924ddfffff,residential,3057,473,188,40.0,32.0,High,451-3500,Less fe
+Bangalore,Anjanapura,88618924dbfffff,residential,1183,233,87,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Anjanapura,88618924d9fffff,residential,1545,265,95,37.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri South,88618924d7fffff,residential,1887,322,119,38.0,32.0,High,451-3500,Less fe
+Bangalore,J P nagar South,88618924d5fffff,residential,2391,379,158,37.0,32.0,High,451-3500,Less fe
+Bangalore,J P nagar South,88618924d3fffff,leisure,613,95,40,39.0,32.0,High,451-3500,Less fe
+Bangalore,J P nagar South,88618924d1fffff,residential,1425,210,74,36.0,32.0,High,451-3500,Less fe
+Bangalore,Bannerghatta Road - Hulimavu,88618924cdfffff,residential,11591,1535,637,45.0,32.0,High,3500+,High fe
+Bangalore,Gottigere,88618924cbfffff,residential,3191,554,208,36.0,32.0,High,451-3500,Less fe
+Bangalore,Gottigere,88618924c9fffff,residential,5984,767,323,48.0,32.0,High,3500+,High fe
+Bangalore,Arekere Mico Layout,88618924c7fffff,residential,6441,1127,490,39.0,32.0,High,3500+,High fe
+Bangalore,Arekere Mico Layout,88618924c5fffff,residential,11849,1442,596,46.0,32.0,High,3500+,High fe
+Bangalore,J P nagar South,88618924c3fffff,residential,4789,860,365,35.0,32.0,High,3500+,High fe
+Bangalore,Kothanur,88618924c1fffff,residential,1502,252,97,43.0,32.0,High,451-3500,Less fe
+Bangalore,Kumaraswamy Layout,88618924bdfffff,leisure,9543,1638,738,40.0,32.0,High,3500+,High fe
+Bangalore,Subramanyapura,88618924bbfffff,Unknown,2296,409,186,36.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri South,88618924b9fffff,leisure,3168,539,242,34.0,32.0,High,451-3500,Less fe
+Bangalore,Kathriguppe,88618924b7fffff,leisure,5879,984,406,37.0,32.0,High,3500+,High fe
+Bangalore,Kumaraswamy Layout,88618924b5fffff,leisure,8319,1387,629,38.0,32.0,High,3500+,High fe
+Bangalore,Subramanyapura,88618924b3fffff,Unknown,4545,940,361,33.0,32.0,High,3500+,High fe
+Bangalore,Kumaraswamy Layout,88618924b1fffff,residential,6080,1077,484,39.0,32.0,High,3500+,High fe
+Bangalore,J P nagar,88618924adfffff,residential,15557,2357,1047,40.0,32.0,High,3500+,High fe
+Bangalore,Banashankri,88618924abfffff,residential,22907,4232,1899,42.0,32.0,High,3500+,High fe
+Bangalore,Sarakki Lake ,88618924a9fffff,educational,15441,2925,1290,39.0,32.0,High,3500+,High fe
+Bangalore,Banashankri,88618924a7fffff,transit_station,22379,3578,1505,36.0,32.0,High,3500+,High fe
+Bangalore,Metro Rashtreeya Vidyalaya,88618924a5fffff,residential,16821,2703,1124,43.0,32.0,High,3500+,High fe
+Bangalore,Banashankri,88618924a3fffff,educational,10431,1690,737,40.0,32.0,High,3500+,High fe
+Bangalore,J P nagar,88618924a1fffff,residential,11696,2162,1098,38.0,32.0,High,3500+,High fe
+Bangalore,Banashankri South,886189249dfffff,residential,1420,224,103,34.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri South,886189249bfffff,Unknown,2185,363,158,34.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri South,8861892499fffff,residential,758,130,52,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Subramanyapura,8861892497fffff,residential,2253,300,122,37.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri South,8861892495fffff,Unknown,2756,447,194,34.0,32.0,High,451-3500,Less fe
+Bangalore,Mallasandra,8861892493fffff,residential,3686,747,325,34.0,32.0,High,3500+,High fe
+Bangalore,Banashankri South,8861892491fffff,office,3129,549,239,40.0,32.0,High,451-3500,Less fe
+Bangalore,J P nagar South,886189248dfffff,residential,10217,1717,825,42.0,32.0,High,3500+,High fe
+Bangalore,Banashankri South,886189248bfffff,household_needs,3707,548,232,36.0,32.0,High,3500+,High fe
+Bangalore,J P nagar South,8861892489fffff,residential,4094,623,288,39.0,32.0,High,3500+,High fe
+Bangalore,Metro - Yelachanahalli,8861892487fffff,office,12144,2272,1108,40.0,32.0,High,3500+,High fe
+Bangalore,Sarakki Lake ,8861892485fffff,residential,5939,992,404,39.0,32.0,High,3500+,High fe
+Bangalore,Banashankri South,8861892483fffff,residential,13787,2049,943,42.0,32.0,High,3500+,High fe
+Bangalore,J P nagar South,8861892481fffff,educational,6300,1087,491,33.0,32.0,High,3500+,High fe
+Bangalore,Harlur,886189246dfffff,residential,10672,1915,776,48.0,32.0,High,3500+,High fe
+Bangalore,Kudlu Gate,886189246bfffff,Unknown,11803,2190,995,40.0,32.0,High,3500+,High fe
+Bangalore,Parappana Agrahara,8861892469fffff,residential,8255,1549,618,37.0,32.0,High,3500+,High fe
+Bangalore,ITI Layout HSR,8861892467fffff,residential,30047,4418,1737,48.0,32.0,High,3500+,High fe
+Bangalore,CPWD Qtrs HSR ,8861892465fffff,Unknown,3637,643,293,44.0,32.0,High,3500+,Less fe
+Bangalore,Hosapalya,8861892463fffff,residential,18518,3387,1490,42.0,32.0,High,3500+,High fe
+Bangalore,Hosapalya,8861892461fffff,residential,20650,3741,1554,45.0,32.0,High,3500+,High fe
+Bangalore,Bannerghatta,886189245dfffff,Unknown,462,71,17,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,886189245bfffff,Unknown,331,71,21,27.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,8861892459fffff,Unknown,128,35,7,24.0,32.0,Less,61-450,Less fe
+Bangalore,Begur Fort,8861892457fffff,residential,3721,686,216,38.0,32.0,High,3500+,High fe
+Bangalore,Begur Lake,8861892455fffff,Unknown,877,163,52,41.0,32.0,High,451-3500,Less fe
+Bangalore,Akshaynagar,8861892453fffff,Unknown,3165,504,202,36.0,32.0,High,451-3500,Less fe
+Bangalore,Bannerghatta,8861892451fffff,Unknown,3387,639,181,36.0,32.0,High,451-3500,Less fe
+Bangalore,Parappana Agrahara,886189244dfffff,educational,10326,2053,930,32.0,32.0,Less,3500+,High fe
+Bangalore,Electronic City,886189244bfffff,residential,1080,187,76,33.0,32.0,High,451-3500,Less fe
+Bangalore,Electronic City,8861892449fffff,residential,7217,1350,600,37.0,32.0,High,3500+,High fe
+Bangalore,Singasandra Lake,8861892447fffff,residential,8914,1730,720,43.0,32.0,High,3500+,High fe
+Bangalore,Singasandra,8861892445fffff,household_needs,8357,1784,710,40.0,32.0,High,3500+,High fe
+Bangalore,Begur,8861892443fffff,residential,4864,907,341,35.0,32.0,High,3500+,High fe
+Bangalore,Begur,8861892441fffff,household_needs,6139,1106,489,36.0,32.0,High,3500+,High fe
+Bangalore,Bommanahali,886189243dfffff,educational,16006,2984,1143,36.0,32.0,High,3500+,High fe
+Bangalore,Bilekahalli IIM,886189243bfffff,residential,15224,2732,1148,41.0,32.0,High,3500+,High fe
+Bangalore,Bommanahali,8861892439fffff,residential,17072,2928,1033,39.0,32.0,High,3500+,High fe
+Bangalore,BTM Second Stage,8861892437fffff,leisure,46408,8215,3336,46.0,32.0,High,3500+,High fe
+Bangalore,Madiwala Lake,8861892435fffff,Unknown,11945,2332,823,43.0,32.0,High,3500+,High fe
+Bangalore,BTM 2nd Stage,8861892433fffff,residential,29061,5497,2368,45.0,32.0,High,3500+,High fe
+Bangalore,Madiwala Lake,8861892431fffff,residential,10540,1951,676,45.0,32.0,High,3500+,High fe
+Bangalore,HSR Sec 2,886189242dfffff,leisure,40500,5902,2372,50.0,32.0,High,3500+,High fe
+Bangalore,Garvebhavipalya,886189242bfffff,educational,36423,6759,2810,38.0,32.0,High,3500+,High fe
+Bangalore,ITI Layout HSR,8861892429fffff,residential,23502,3861,1671,44.0,32.0,High,3500+,High fe
+Bangalore,Venkatapura,8861892427fffff,residential,28624,4491,1908,43.0,32.0,High,3500+,High fe
+Bangalore,Agara Lake,8861892425fffff,leisure,18454,3421,1384,45.0,32.0,High,3500+,High fe
+Bangalore,Hsr,8861892423fffff,office,39107,7293,2870,40.0,32.0,High,3500+,High fe
+Bangalore,Hsr,8861892421fffff,leisure,52691,7300,2891,48.0,32.0,High,3500+,High fe
+Bangalore,Devarachikkanahalli,886189241dfffff,Unknown,9597,1632,579,38.0,32.0,High,3500+,High fe
+Bangalore,Hulimavu,886189241bfffff,Unknown,4363,728,275,38.0,32.0,High,3500+,High fe
+Bangalore,Akshaynagar Lake,8861892419fffff,residential,8688,1491,572,42.0,32.0,High,3500+,High fe
+Bangalore,Arekere Extension,8861892417fffff,educational,10441,1761,751,38.0,32.0,High,3500+,High fe
+Bangalore,RTO Devarachikanahalli,8861892415fffff,office,9690,1973,711,37.0,32.0,High,3500+,High fe
+Bangalore,Arekere Lake,8861892413fffff,educational,10740,1929,802,39.0,32.0,High,3500+,High fe
+Bangalore,Arekere Extension,8861892411fffff,residential,9998,1703,683,40.0,32.0,High,3500+,High fe
+Bangalore,Kudlu Gate,886189240dfffff,office,18631,3317,1505,40.0,32.0,High,3500+,High fe
+Bangalore,Begur,886189240bfffff,Unknown,7968,1578,552,37.0,32.0,High,3500+,High fe
+Bangalore,Begur,8861892409fffff,office,5009,1097,414,37.0,32.0,High,3500+,High fe
+Bangalore,Hongasandra,8861892407fffff,household_needs,14274,2806,1245,32.0,32.0,Less,3500+,High fe
+Bangalore,Garvebhavipalya Lake,8861892405fffff,educational,24178,4992,2093,35.0,32.0,High,3500+,High fe
+Bangalore,Hongasandra,8861892403fffff,household_needs,11294,2082,701,37.0,32.0,High,3500+,High fe
+Bangalore,Hongasandra,8861892401fffff,household_needs,9864,2010,731,37.0,32.0,High,3500+,High fe
+Bangalore,Muthsandra,8861892337fffff,,63,10,2,15.0,32.0,Less,61-450,Less fe
+Bangalore,Muthsandra,8861892335fffff,,23,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Muthsandra,8861892331fffff,,48,3,0,14.0,32.0,Less,0-60,Less fe
+Bangalore,Muthsandra,8861892321fffff,,6,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Muthsandra,8861892307fffff,,20,2,0,10.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618922edfffff,,3,1,0,100.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,88618922ebfffff,,164,25,2,34.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur,88618922e9fffff,,11,2,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,88618922e7fffff,,7,3,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,88618922e1fffff,,156,10,2,38.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur,88618922ddfffff,,42,9,2,18.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618922d9fffff,,7,2,1,50.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,88618922d7fffff,,5,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618922d5fffff,,26,10,1,18.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,88618922d3fffff,,101,19,1,36.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur,88618922d1fffff,,7,1,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,88618922cdfffff,,99,17,3,19.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,88618922cbfffff,,100,12,1,25.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,88618922c9fffff,,1274,191,43,35.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur,88618922c7fffff,,787,83,21,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Sarjapur,88618922c5fffff,,109,12,4,18.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,88618922c3fffff,,25,3,1,40.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,88618922c1fffff,,413,52,9,39.0,32.0,High,61-450,Less fe
+Bangalore,Varthur,88618922bdfffff,,4,1,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur Road,88618922bbfffff,,287,71,22,36.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur Road,88618922b9fffff,,58,10,3,52.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur Road,88618922b7fffff,residential,300,61,18,37.0,32.0,High,61-450,Less fe
+Bangalore,Varthur,88618922b5fffff,,153,16,6,29.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur Road,88618922b3fffff,,964,180,72,38.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur Road,88618922b1fffff,,220,46,13,25.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,88618922abfffff,,246,34,2,24.0,32.0,Less,61-450,Less fe
+Bangalore,Varthur,88618922a7fffff,Unknown,70,4,1,32.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,88618922a5fffff,,142,34,6,44.0,32.0,High,61-450,Less fe
+Bangalore,Varthur,88618922a3fffff,,54,10,2,39.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,88618922a1fffff,,40,8,0,15.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,886189229dfffff,,258,46,10,27.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,886189229bfffff,,26,8,3,21.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,8861892299fffff,,18,6,3,36.0,32.0,High,0-60,Less fe
+Bangalore,Huskur,8861892297fffff,,103,24,6,19.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur Road,8861892295fffff,,346,39,13,30.0,32.0,Less,61-450,Less fe
+Bangalore,Huskur,8861892293fffff,,47,1,0,35.0,32.0,High,0-60,Less fe
+Bangalore,Huskur,8861892291fffff,,128,18,4,37.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur,886189228dfffff,,89,10,1,9.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,886189228bfffff,,193,31,9,25.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861892289fffff,,1507,299,78,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Sarjapur,8861892287fffff,,83,22,8,21.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861892285fffff,,74,10,0,27.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861892283fffff,,1288,254,67,33.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur,8861892281fffff,,482,82,28,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Sarjapur,886189225bfffff,,141,13,3,16.0,32.0,Less,61-450,Less fe
+Bangalore,Muthsandra,8861892255fffff,,63,8,0,29.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861892253fffff,,59,3,1,40.0,32.0,High,0-60,Less fe
+Bangalore,Muthsandra,8861892251fffff,,58,3,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Muthsandra,886189223dfffff,,6,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,886189223bfffff,,16,1,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,8861892237fffff,,98,19,3,25.0,32.0,Less,61-450,Less fe
+Bangalore,Muthsandra,8861892235fffff,,50,4,0,17.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,8861892231fffff,,10,1,0,67.0,32.0,High,0-60,Less fe
+Bangalore,Muthsandra,8861892221fffff,,6,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,8861892219fffff,,54,5,0,27.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,8861892217fffff,,12,3,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,8861892215fffff,,7,2,0,40.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,8861892213fffff,,49,4,1,14.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,8861892211fffff,,155,25,0,20.0,32.0,Less,61-450,Less fe
+Bangalore,Muthsandra,886189220dfffff,,5,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Muthsandra,886189220bfffff,,5,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Muthsandra,8861892209fffff,,14,2,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,88618921edfffff,,185,30,13,20.0,32.0,Less,61-450,Less fe
+Bangalore,Kadugodi,88618921ebfffff,Unknown,2421,583,251,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Hoskote_BLR,88618921e9fffff,Unknown,87,34,5,31.0,32.0,Less,61-450,Less fe
+Bangalore,Kurudusonnehalli,88618921e7fffff,Unknown,285,51,23,35.0,32.0,High,61-450,Less fe
+Bangalore,Hoskote_BLR,88618921e5fffff,Unknown,11,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Kurudusonnehalli,88618921e3fffff,Unknown,3258,571,236,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Kurudusonnehalli,88618921e1fffff,Unknown,15,1,0,15.0,32.0,Less,0-60,Less fe
+Bangalore,Columbia Asia Whitefield,88618921ddfffff,residential,10320,2193,946,37.0,32.0,High,3500+,High fe
+Bangalore,Columbia Asia Whitefield,88618921dbfffff,residential,2607,487,194,45.0,32.0,High,451-3500,Less fe
+Bangalore,Columbia Asia Whitefield,88618921d9fffff,residential,8267,1531,722,45.0,32.0,High,3500+,High fe
+Bangalore,Whitefield Residential,88618921d7fffff,residential,3886,913,442,45.0,32.0,High,3500+,High fe
+Bangalore,Whitefield D Silva Layout ,88618921d5fffff,residential,12696,3040,1228,43.0,32.0,High,3500+,High fe
+Bangalore,Whitefield,88618921d3fffff,residential,10117,2473,1432,42.0,32.0,High,3500+,High fe
+Bangalore,Whitefield Residential,88618921d1fffff,residential,8790,1728,794,43.0,32.0,High,3500+,High fe
+Bangalore,Hoskote_BLR,88618921cdfffff,Unknown,224,45,20,32.0,32.0,Less,61-450,Less fe
+Bangalore,Columbia Asia Whitefield,88618921cbfffff,residential,4362,911,355,37.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur,88618921c9fffff,Unknown,2969,734,264,36.0,32.0,High,451-3500,Less fe
+Bangalore,Chanasandra,88618921c7fffff,residential,4915,1134,547,36.0,32.0,High,3500+,High fe
+Bangalore,Chanasandra,88618921c5fffff,Unknown,2376,551,273,33.0,32.0,High,451-3500,Less fe
+Bangalore,Chanasandra,88618921c3fffff,residential,7441,1448,619,43.0,32.0,High,3500+,High fe
+Bangalore,Chanasandra,88618921c1fffff,residential,6488,1604,685,38.0,32.0,High,3500+,High fe
+Bangalore,Kurudusonnehalli,88618921bdfffff,Unknown,1579,346,145,35.0,32.0,High,451-3500,Less fe
+Bangalore,Kurudusonnehalli,88618921bbfffff,Unknown,1926,430,166,36.0,32.0,High,451-3500,Less fe
+Bangalore,Kurudusonnehalli,88618921b9fffff,Unknown,902,183,71,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Kurudusonnehalli,88618921b7fffff,residential,2241,487,185,37.0,32.0,High,451-3500,Less fe
+Bangalore,Kurudusonnehalli,88618921b5fffff,residential,972,199,79,34.0,32.0,High,451-3500,Less fe
+Bangalore,Kurudusonnehalli,88618921b3fffff,residential,2358,501,169,33.0,32.0,High,451-3500,Less fe
+Bangalore,Kurudusonnehalli,88618921b1fffff,residential,2066,459,176,36.0,32.0,High,451-3500,Less fe
+Bangalore,Kurudusonnehalli,88618921adfffff,,3799,795,369,40.0,32.0,High,3500+,High fe
+Bangalore,Kurudusonnehalli,88618921abfffff,residential,2801,612,286,39.0,32.0,High,451-3500,Less fe
+Bangalore,Kurudusonnehalli,88618921a9fffff,Unknown,3367,699,314,36.0,32.0,High,451-3500,Less fe
+Bangalore,Doddabanahalli,88618921a5fffff,,1811,365,152,43.0,32.0,High,451-3500,Less fe
+Bangalore,Kurudusonnehalli,88618921a3fffff,Unknown,118,20,7,29.0,32.0,Less,61-450,Less fe
+Bangalore,Kurudusonnehalli,88618921a1fffff,Unknown,84,7,3,39.0,32.0,High,61-450,Less fe
+Bangalore,Whitefield Residential,886189219dfffff,office,9452,1963,916,45.0,32.0,High,3500+,High fe
+Bangalore,Whitefield,886189219bfffff,office,14534,2690,1248,43.0,32.0,High,3500+,High fe
+Bangalore,Whitefield,8861892199fffff,residential,8915,2131,1173,41.0,32.0,High,3500+,High fe
+Bangalore,Kadugodi,8861892197fffff,office,7024,1481,640,42.0,32.0,High,3500+,High fe
+Bangalore,Kadugodi,8861892195fffff,Unknown,2672,528,234,45.0,32.0,High,451-3500,Less fe
+Bangalore,Whitefield,8861892193fffff,residential,6886,1510,737,43.0,32.0,High,3500+,High fe
+Bangalore,Whitefield Sri Sathya Sai Hospital,8861892191fffff,office,24812,4800,2006,47.0,32.0,High,3500+,High fe
+Bangalore,Kadugodi,886189218dfffff,residential,6759,1555,611,36.0,32.0,High,3500+,High fe
+Bangalore,Kadugodi Forest,886189218bfffff,office,12975,2751,1435,44.0,32.0,High,3500+,High fe
+Bangalore,Kadugodi,8861892189fffff,residential,11278,2335,1100,41.0,32.0,High,3500+,High fe
+Bangalore,Kurudusonnehalli,8861892187fffff,Unknown,1095,248,108,36.0,32.0,High,451-3500,Less fe
+Bangalore,Kurudusonnehalli,8861892185fffff,educational,4699,822,365,35.0,32.0,High,3500+,High fe
+Bangalore,Kadugodi,8861892183fffff,Unknown,113,14,7,30.0,32.0,Less,61-450,Less fe
+Bangalore,Kadugodi,8861892181fffff,residential,543,115,52,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Hoskote_BLR,886189216bfffff,,23,3,0,30.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892169fffff,,2,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892161fffff,,2,2,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892157fffff,,166,47,10,30.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892155fffff,,9,2,1,20.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,886189214dfffff,,7,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,886189214bfffff,,109,27,5,8.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892149fffff,,23,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892147fffff,,245,26,9,24.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892145fffff,,167,9,2,24.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892143fffff,,455,85,17,12.0,32.0,Less,451-3500,Less fe
+Bangalore,Hoskote_BLR,8861892141fffff,,152,44,3,8.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,886189213dfffff,,6,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,886189213bfffff,,101,10,2,20.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892139fffff,,50,3,0,38.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892135fffff,,2,1,1,50.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892133fffff,,74,20,3,20.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892131fffff,,23,5,0,29.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,886189212bfffff,,7,3,0,67.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892129fffff,,9,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,886189211dfffff,,25,1,1,11.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,886189211bfffff,,193,36,14,19.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892119fffff,,198,33,11,23.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892117fffff,,704,125,36,21.0,32.0,Less,451-3500,Less fe
+Bangalore,Hoskote_BLR,8861892115fffff,,52,9,3,26.0,32.0,Less,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892113fffff,Unknown,921,193,50,22.0,32.0,Less,451-3500,Less fe
+Bangalore,Hoskote_BLR,8861892111fffff,,420,91,22,21.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,886189210bfffff,,10,2,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Hoskote_BLR,8861892109fffff,,159,19,4,19.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892103fffff,,72,12,2,18.0,32.0,Less,61-450,Less fe
+Bangalore,Hoskote_BLR,8861892101fffff,,150,20,4,26.0,32.0,Less,61-450,Less fe
+Bangalore,Varthur,88618920edfffff,Unknown,794,136,49,33.0,32.0,High,451-3500,Less fe
+Bangalore,Varthur,88618920ebfffff,residential,3829,877,278,39.0,32.0,High,3500+,High fe
+Bangalore,Varthur,88618920e9fffff,educational,7562,1700,576,32.0,32.0,Less,3500+,High fe
+Bangalore,Columbia Asia Whitefield,88618920e7fffff,residential,6278,1386,562,40.0,32.0,High,3500+,High fe
+Bangalore,Varthur,88618920e5fffff,residential,7340,1606,657,42.0,32.0,High,3500+,High fe
+Bangalore,Balagere,88618920e3fffff,Unknown,1475,393,136,42.0,32.0,High,451-3500,Less fe
+Bangalore,Varthur,88618920e1fffff,Unknown,353,63,20,34.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur Road,88618920ddfffff,residential,2209,390,132,35.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur Road,88618920dbfffff,educational,743,173,45,35.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur Road,88618920d9fffff,Unknown,170,27,8,38.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur Road,88618920d7fffff,Unknown,217,58,21,34.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur Road,88618920d5fffff,residential,2868,635,182,45.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur Road,88618920d3fffff,Unknown,98,30,7,41.0,32.0,High,61-450,Less fe
+Bangalore,Sarjapur Road,88618920d1fffff,residential,1044,211,80,46.0,32.0,High,451-3500,Less fe
+Bangalore,Varthur,88618920cdfffff,Unknown,33,2,0,18.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur Road,88618920cbfffff,residential,1408,273,100,37.0,32.0,High,451-3500,Less fe
+Bangalore,Varthur,88618920c9fffff,Unknown,432,70,27,42.0,32.0,High,61-450,Less fe
+Bangalore,Varthur,88618920c7fffff,residential,1158,295,71,44.0,32.0,High,451-3500,Less fe
+Bangalore,Varthur,88618920c5fffff,residential,5165,1149,382,44.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Road,88618920c3fffff,residential,1558,298,87,40.0,32.0,High,451-3500,Less fe
+Bangalore,Varthur,88618920c1fffff,residential,3292,683,249,41.0,32.0,High,451-3500,Less fe
+Bangalore,Munnekollal Sankara Eye Hospital ,88618920bdfffff,residential,47578,10773,3774,45.0,32.0,High,3500+,High fe
+Bangalore,Marathahalli Ring Road Junc,88618920bbfffff,residential,41986,8553,3200,43.0,32.0,High,3500+,High fe
+Bangalore,Munnekollal,88618920b9fffff,office,29585,7678,2474,43.0,32.0,High,3500+,High fe
+Bangalore,Marathahalli,88618920b7fffff,office,22805,4773,1597,41.0,32.0,High,3500+,High fe
+Bangalore,Marathahalli,88618920b5fffff,residential,16476,3994,1499,47.0,32.0,High,3500+,High fe
+Bangalore,Marathahalli Village,88618920b3fffff,residential,23573,5618,2018,39.0,32.0,High,3500+,High fe
+Bangalore,Marathahalli Ring Road Junc,88618920b1fffff,residential,51585,10212,3608,38.0,32.0,High,3500+,High fe
+Bangalore,Columbia Asia Whitefield,88618920adfffff,residential,5075,913,476,48.0,32.0,High,3500+,High fe
+Bangalore,Marathahalli BEML Layout,88618920abfffff,office,19964,4490,1463,46.0,32.0,High,3500+,High fe
+Bangalore,Columbia Asia Whitefield,88618920a9fffff,residential,10797,1672,775,41.0,32.0,High,3500+,High fe
+Bangalore,Brookefield,88618920a7fffff,office,13079,2455,1016,43.0,32.0,High,3500+,High fe
+Bangalore,Whitefield,88618920a5fffff,residential,7335,1370,708,40.0,32.0,High,3500+,High fe
+Bangalore,AECS Layout Brookefield,88618920a3fffff,residential,40894,8966,4017,46.0,32.0,High,3500+,High fe
+Bangalore,Brookefield,88618920a1fffff,residential,8173,1614,627,47.0,32.0,High,3500+,High fe
+Bangalore,Kadubeesanahalli,886189209dfffff,residential,8366,2055,913,45.0,32.0,High,3500+,High fe
+Bangalore,RMZ Ecospace - Bellandur,886189209bfffff,residential,23135,5019,1724,47.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur Road,8861892099fffff,Unknown,2238,468,212,43.0,32.0,High,451-3500,Less fe
+Bangalore,Kadubeesanahalli ORR,8861892097fffff,office,40708,8710,2721,47.0,32.0,High,3500+,High fe
+Bangalore,Kadubeesanahalli,8861892095fffff,residential,10620,2371,1056,46.0,32.0,High,3500+,High fe
+Bangalore,RMZ Ecospace - Bellandur,8861892093fffff,office,33651,5918,1516,49.0,32.0,High,3500+,High fe
+Bangalore,Kadubeesanahalli,8861892091fffff,residential,24799,5192,2051,50.0,32.0,High,3500+,High fe
+Bangalore,Balagere,886189208dfffff,residential,3226,723,243,37.0,32.0,High,451-3500,Less fe
+Bangalore,Balagere,886189208bfffff,residential,133,43,15,29.0,32.0,Less,61-450,Less fe
+Bangalore,Balagere,8861892089fffff,residential,3702,877,241,45.0,32.0,High,3500+,High fe
+Bangalore,Munnekollal,8861892087fffff,office,29304,7051,2318,48.0,32.0,High,3500+,High fe
+Bangalore,Columbia Asia Whitefield,8861892085fffff,Unknown,2552,625,149,40.0,32.0,High,451-3500,Less fe
+Bangalore,Balagere,8861892083fffff,residential,1975,459,155,40.0,32.0,High,451-3500,Less fe
+Bangalore,Balagere,8861892081fffff,residential,4210,1106,334,47.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur,886189205bfffff,,17,2,1,12.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,8861892057fffff,,20,3,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,8861892055fffff,,62,11,1,17.0,32.0,Less,0-60,Less fe
+Bangalore,Muthsandra,8861892041fffff,,3,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,886189203dfffff,,467,92,18,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Varthur,886189203bfffff,Unknown,792,143,45,37.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur,8861892039fffff,Unknown,126,36,8,43.0,32.0,High,61-450,Less fe
+Bangalore,Varthur,8861892037fffff,Unknown,4471,920,365,38.0,32.0,High,3500+,High fe
+Bangalore,Sarjapur,8861892035fffff,Unknown,595,107,29,39.0,32.0,High,451-3500,Less fe
+Bangalore,Varthur,8861892033fffff,Unknown,43,10,3,50.0,32.0,High,0-60,Less fe
+Bangalore,Varthur,8861892031fffff,Unknown,60,8,2,17.0,32.0,Less,0-60,Less fe
+Bangalore,Muthsandra,886189202bfffff,,15,4,1,29.0,32.0,Less,0-60,Less fe
+Bangalore,Muthsandra,8861892029fffff,,33,1,0,17.0,32.0,Less,0-60,Less fe
+Bangalore,Muthsandra,8861892025fffff,Unknown,6,3,1,67.0,32.0,High,0-60,Less fe
+Bangalore,Muthsandra,8861892023fffff,Unknown,38,7,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Muthsandra,8861892021fffff,Unknown,4,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,886189201dfffff,Unknown,28,11,4,7.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,886189201bfffff,Unknown,32,3,1,40.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,8861892019fffff,Unknown,67,3,0,20.0,32.0,Less,61-450,Less fe
+Bangalore,Varthur,8861892017fffff,Unknown,2408,531,183,35.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur,8861892015fffff,Unknown,734,113,31,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Varthur,8861892013fffff,Unknown,1554,325,92,41.0,32.0,High,451-3500,Less fe
+Bangalore,Sarjapur,8861892011fffff,Unknown,419,91,32,30.0,32.0,Less,61-450,Less fe
+Bangalore,Muthsandra,886189200dfffff,,60,25,2,24.0,32.0,Less,0-60,Less fe
+Bangalore,Sarjapur,886189200bfffff,,16,2,0,60.0,32.0,High,0-60,Less fe
+Bangalore,Muthsandra,8861892009fffff,,39,9,0,45.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,8861892007fffff,,84,26,6,17.0,32.0,Less,61-450,Less fe
+Bangalore,Muthsandra,8861892005fffff,,61,22,1,55.0,32.0,High,0-60,Less fe
+Bangalore,Sarjapur,8861892003fffff,,70,17,2,22.0,32.0,Less,61-450,Less fe
+Bangalore,Sarjapur,8861892001fffff,,31,4,0,38.0,32.0,High,0-60,Less fe
+Bangalore,Bangalore Airport,886016976bfffff,,722,106,28,24.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelanhanka,886016975dfffff,Unknown,97,23,6,26.0,32.0,Less,61-450,Less fe
+Bangalore,Yelanhanka,8860169759fffff,residential,605,93,43,34.0,32.0,High,451-3500,Less fe
+Bangalore,Yelanhanka,8860169753fffff,residential,611,81,20,18.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelanhanka,8860169751fffff,Unknown,35,3,1,11.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,886016974dfffff,,32,4,0,21.0,32.0,Less,0-60,Less fe
+Bangalore,Yelanhanka,886016974bfffff,educational,621,103,40,34.0,32.0,High,451-3500,Less fe
+Bangalore,Bagalur,8860169749fffff,residential,254,35,18,23.0,32.0,Less,61-450,Less fe
+Bangalore,Yelanhanka,8860169743fffff,Unknown,103,21,5,30.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,8860169741fffff,Unknown,250,38,10,23.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,886016973dfffff,,631,89,12,12.0,32.0,Less,451-3500,Less fe
+Bangalore,Doddaballapura,886016973bfffff,,12,1,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169739fffff,,28,7,0,17.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169737fffff,,26,4,1,11.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169735fffff,,11,3,0,17.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169733fffff,,10,3,0,29.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,886016972bfffff,,36,4,0,22.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169723fffff,,24,7,2,22.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,886016971dfffff,,12,5,1,50.0,32.0,High,0-60,Less fe
+Bangalore,Yelanhanka,886016971bfffff,Unknown,292,48,13,22.0,32.0,Less,61-450,Less fe
+Bangalore,Yelanhanka,8860169719fffff,educational,132,19,3,27.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169717fffff,,17,7,1,60.0,32.0,High,0-60,Less fe
+Bangalore,Doddaballapura,8860169715fffff,,17,3,1,14.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169713fffff,Unknown,35,9,2,10.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169711fffff,Unknown,279,38,9,17.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,886016970dfffff,,210,16,4,14.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,886016970bfffff,,87,10,3,21.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169709fffff,,51,8,1,35.0,32.0,High,0-60,Less fe
+Bangalore,Doddaballapura,8860169707fffff,,103,12,3,23.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169705fffff,,99,4,0,31.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169701fffff,,271,36,11,18.0,32.0,Less,61-450,Less fe
+Bangalore,Veerasandra,88601696edfffff,Unknown,268,45,22,18.0,32.0,Less,61-450,Less fe
+Bangalore,Veerasandra,88601696ebfffff,,274,47,14,20.0,32.0,Less,61-450,Less fe
+Bangalore,Veerasandra,88601696e9fffff,Unknown,637,95,41,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Veerasandra,88601696e3fffff,,73,10,3,36.0,32.0,High,61-450,Less fe
+Bangalore,Veerasandra,88601696e1fffff,,85,17,7,14.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkabanavara,88601696ddfffff,Unknown,1194,251,94,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkabanavara,88601696dbfffff,educational,3077,599,281,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkabanavara,88601696d9fffff,Unknown,1225,304,118,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Soladevanahalli,88601696d7fffff,Unknown,166,26,5,20.0,32.0,Less,61-450,Less fe
+Bangalore,Soladevanahalli,88601696d5fffff,Unknown,467,109,37,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkabanavara,88601696d3fffff,Unknown,2642,475,210,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkabanavara,88601696d1fffff,Unknown,1187,175,55,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Vidyaranyapura,88601696cdfffff,Unknown,768,163,47,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Vidyaranyapura,88601696cbfffff,residential,877,184,64,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Vidyaranyapura,88601696c9fffff,residential,1313,237,91,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Veerasandra,88601696c7fffff,,198,35,7,27.0,32.0,Less,61-450,Less fe
+Bangalore,Veerasandra,88601696c5fffff,residential,992,171,72,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Veerasandra,88601696c3fffff,Unknown,153,22,5,24.0,32.0,Less,61-450,Less fe
+Bangalore,Vidyaranyapura,88601696c1fffff,Unknown,619,127,47,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Soladevanahalli,88601696bbfffff,,45,6,2,43.0,32.0,High,0-60,Less fe
+Bangalore,Silvepura,88601696b5fffff,,4,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Silvepura,88601696b3fffff,,37,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Mavallipura,88601696adfffff,,3,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Mavallipura,88601696abfffff,,10,1,0,17.0,32.0,Less,0-60,Less fe
+Bangalore,Mavallipura,88601696a9fffff,,260,51,10,21.0,32.0,Less,61-450,Less fe
+Bangalore,Mavallipura,88601696a7fffff,,69,11,0,18.0,32.0,Less,61-450,Less fe
+Bangalore,Mavallipura,88601696a5fffff,,50,10,7,76.0,32.0,High,0-60,Less fe
+Bangalore,Mavallipura,88601696a3fffff,,18,5,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Mavallipura,88601696a1fffff,,10,3,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Soladevanahalli,886016969dfffff,,118,24,11,27.0,32.0,Less,61-450,Less fe
+Bangalore,Soladevanahalli,886016969bfffff,,1177,193,83,35.0,32.0,High,451-3500,Less fe
+Bangalore,Soladevanahalli,8860169699fffff,Unknown,1154,237,89,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Soladevanahalli,8860169697fffff,,80,12,3,23.0,32.0,Less,61-450,Less fe
+Bangalore,Soladevanahalli,8860169695fffff,,47,2,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Soladevanahalli,8860169693fffff,,2183,311,104,39.0,32.0,High,451-3500,Less fe
+Bangalore,Soladevanahalli,8860169691fffff,,303,58,23,25.0,32.0,Less,61-450,Less fe
+Bangalore,Veerasandra,886016968dfffff,,233,41,9,25.0,32.0,Less,61-450,Less fe
+Bangalore,Soladevanahalli,886016968bfffff,,34,7,2,26.0,32.0,Less,0-60,Less fe
+Bangalore,Veerasandra,8860169689fffff,Unknown,147,27,3,26.0,32.0,Less,61-450,Less fe
+Bangalore,Veerasandra,8860169687fffff,,32,6,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Veerasandra,8860169685fffff,,27,2,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Veerasandra,8860169681fffff,,12,4,1,50.0,32.0,High,0-60,Less fe
+Bangalore,Jakkur,886016966dfffff,residential,2689,519,248,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelahanka Traffic Police Station,886016966bfffff,transit_station,7605,1354,578,31.0,32.0,Less,3500+,High fe
+Bangalore,Jakkur,8860169669fffff,Unknown,3937,800,367,28.0,32.0,Less,3500+,High fe
+Bangalore,Jakkur,8860169667fffff,leisure,130,9,1,27.0,32.0,Less,61-450,Less fe
+Bangalore,Jakkur,8860169665fffff,residential,525,101,50,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelahanka Traffic Police Station,8860169663fffff,Unknown,4403,474,197,23.0,32.0,Less,3500+,High fe
+Bangalore,Jakkur,8860169661fffff,leisure,2365,412,154,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelahanka New Town,886016965dfffff,educational,421,57,20,34.0,32.0,High,61-450,Less fe
+Bangalore,Vidyaranyapura,886016965bfffff,leisure,2214,486,205,36.0,32.0,High,451-3500,Less fe
+Bangalore,Sahakara Nagar,8860169659fffff,residential,2883,658,292,37.0,32.0,High,451-3500,Less fe
+Bangalore,Yelahanka New Town,8860169657fffff,educational,76,6,2,36.0,32.0,High,61-450,Less fe
+Bangalore,Yelahanka New Town,8860169655fffff,educational,26,9,3,36.0,32.0,High,0-60,Less fe
+Bangalore,Vidyaranyapura,8860169653fffff,educational,1386,262,113,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Sahakara Nagar,8860169651fffff,educational,798,182,72,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Jakkur,886016964dfffff,residential,618,128,53,38.0,32.0,High,451-3500,Less fe
+Bangalore,Yelahanka New Town,886016964bfffff,educational,586,80,32,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Jakkur,8860169649fffff,Unknown,1737,356,141,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelahanka New Town,8860169647fffff,leisure,1041,207,93,38.0,32.0,High,451-3500,Less fe
+Bangalore,Jakkur,8860169645fffff,residential,2915,419,147,37.0,32.0,High,451-3500,Less fe
+Bangalore,Yelahanka New Town,8860169643fffff,residential,741,164,74,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelahanka New Town,8860169641fffff,educational,1694,326,147,33.0,32.0,High,451-3500,Less fe
+Bangalore,Yelahanka New Town,886016963dfffff,residential,814,153,76,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Veerasandra,886016963bfffff,Unknown,143,27,7,22.0,32.0,Less,61-450,Less fe
+Bangalore,Yelahanka New Town,8860169639fffff,Unknown,1308,230,111,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelanhanka,8860169637fffff,,166,39,12,9.0,32.0,Less,61-450,Less fe
+Bangalore,Yelanhanka,8860169635fffff,Unknown,339,64,26,31.0,32.0,Less,61-450,Less fe
+Bangalore,Veerasandra,8860169633fffff,,58,6,2,29.0,32.0,Less,0-60,Less fe
+Bangalore,Yelahanka New Town,8860169631fffff,Unknown,327,56,17,37.0,32.0,High,61-450,Less fe
+Bangalore,Yelanhanka,886016962dfffff,leisure,168,19,5,19.0,32.0,Less,61-450,Less fe
+Bangalore,Yelahanka New Town,886016962bfffff,residential,1192,223,111,39.0,32.0,High,451-3500,Less fe
+Bangalore,Yelahanka New Town,8860169629fffff,residential,155,19,9,20.0,32.0,Less,61-450,Less fe
+Bangalore,Yelanhanka,8860169627fffff,residential,428,66,28,32.0,32.0,Less,61-450,Less fe
+Bangalore,Yelanhanka,8860169625fffff,educational,563,58,20,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelanhanka,8860169623fffff,residential,279,28,9,30.0,32.0,Less,61-450,Less fe
+Bangalore,Yelanhanka,8860169621fffff,residential,839,116,44,33.0,32.0,High,451-3500,Less fe
+Bangalore,Yelahanka New Town,886016961dfffff,educational,253,48,26,31.0,32.0,Less,61-450,Less fe
+Bangalore,Vidyaranyapura,886016961bfffff,health_and_personal,2131,431,175,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Vidyaranyapura,8860169619fffff,educational,2099,380,167,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Veerasandra,8860169617fffff,Unknown,480,81,31,33.0,32.0,High,451-3500,Less fe
+Bangalore,Yelahanka New Town,8860169615fffff,Unknown,428,56,28,27.0,32.0,Less,61-450,Less fe
+Bangalore,Veerasandra,8860169613fffff,Unknown,2260,401,167,34.0,32.0,High,451-3500,Less fe
+Bangalore,Vidyaranyapura,8860169611fffff,Unknown,589,108,47,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelahanka New Town,886016960dfffff,leisure,2444,414,192,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelahanka New Town,886016960bfffff,educational,229,42,19,56.0,32.0,High,61-450,Less fe
+Bangalore,Yelahanka New Town,8860169609fffff,educational,1639,336,168,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelahanka New Town,8860169607fffff,residential,2028,306,140,33.0,32.0,High,451-3500,Less fe
+Bangalore,Yelahanka New Town,8860169605fffff,residential,1905,287,139,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelahanka New Town,8860169603fffff,educational,1592,306,142,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelahanka New Town,8860169601fffff,residential,3047,596,282,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Hesarghatta,88601695d9fffff,,7,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hesarghatta,88601695cbfffff,,10,2,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Doddaballapura,886016956dfffff,,5,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,886016955dfffff,,20,11,2,0.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,886016955bfffff,,416,58,12,21.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169559fffff,,18,1,0,22.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169553fffff,,63,4,1,29.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169551fffff,,5,1,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Doddaballapura,886016954bfffff,,63,1,0,33.0,32.0,High,61-450,Less fe
+Bangalore,Doddaballapura,8860169549fffff,,3,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169543fffff,,11,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,886016953bfffff,,46,5,0,12.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,886016951dfffff,,22,3,1,24.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169515fffff,,31,6,0,12.0,32.0,Less,0-60,Less fe
+Bangalore,Hesarghatta,88601694e5fffff,,3,1,0,100.0,32.0,High,0-60,Less fe
+Bangalore,Hesarghatta,88601694e1fffff,,4,1,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Silvepura,88601694ddfffff,,95,11,11,77.0,32.0,High,61-450,Less fe
+Bangalore,Nelamangala,88601694dbfffff,,11,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Silvepura,88601694d9fffff,,22,5,1,8.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,88601694d7fffff,,155,19,0,16.0,32.0,Less,61-450,Less fe
+Bangalore,Hesarghatta,88601694d5fffff,,31,1,0,18.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,88601694d1fffff,,119,17,6,38.0,32.0,High,61-450,Less fe
+Bangalore,Hesarghatta,88601694cdfffff,,65,8,7,60.0,32.0,High,61-450,Less fe
+Bangalore,Hesarghatta,88601694c5fffff,,8,3,0,40.0,32.0,High,0-60,Less fe
+Bangalore,Hesarghatta,88601694c3fffff,,24,3,0,22.0,32.0,Less,0-60,Less fe
+Bangalore,Hesarghatta,88601694c1fffff,,56,18,9,79.0,32.0,High,0-60,Less fe
+Bangalore,Hesarghatta,88601694a9fffff,,5,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hesarghatta,88601694a3fffff,,1,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,886016949bfffff,,39,8,8,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860169499fffff,,30,9,1,14.0,32.0,Less,0-60,Less fe
+Bangalore,Hesarghatta,8860169491fffff,,5,1,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Hesarghatta,886016948bfffff,,41,1,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Hesarghatta,8860169489fffff,,5,1,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,886016946dfffff,,29,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,886016946bfffff,,91,13,2,29.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169469fffff,,167,26,10,34.0,32.0,High,61-450,Less fe
+Bangalore,Doddaballapura,8860169467fffff,,63,4,1,18.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169463fffff,,21,4,2,0.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169461fffff,,127,16,4,14.0,32.0,Less,61-450,Less fe
+Bangalore,Yelanhanka,886016945dfffff,,16,5,2,20.0,32.0,Less,0-60,Less fe
+Bangalore,Mavallipura,8860169459fffff,,155,11,1,30.0,32.0,Less,61-450,Less fe
+Bangalore,Mavallipura,8860169457fffff,,70,7,7,65.0,32.0,High,61-450,Less fe
+Bangalore,Mavallipura,8860169453fffff,,28,5,2,30.0,32.0,Less,0-60,Less fe
+Bangalore,Mavallipura,8860169451fffff,,19,5,3,40.0,32.0,High,0-60,Less fe
+Bangalore,Yelanhanka,886016944dfffff,residential,1076,166,53,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Yelanhanka,886016944bfffff,residential,117,2,2,29.0,32.0,Less,61-450,Less fe
+Bangalore,Yelanhanka,8860169449fffff,leisure,398,74,38,27.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169447fffff,,76,10,1,10.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169445fffff,residential,396,60,19,27.0,32.0,Less,61-450,Less fe
+Bangalore,Yelanhanka,8860169443fffff,,4,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Yelanhanka,8860169441fffff,,259,33,9,26.0,32.0,Less,61-450,Less fe
+Bangalore,Hesarghatta,886016943dfffff,,7,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hesarghatta,886016943bfffff,,7,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Hesarghatta,8860169437fffff,,29,1,0,30.0,32.0,Less,0-60,Less fe
+Bangalore,Hesarghatta,8860169435fffff,,306,12,1,19.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,886016942dfffff,,368,35,7,17.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169429fffff,,60,4,0,18.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169427fffff,,22,2,0,12.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169425fffff,,16,4,1,44.0,32.0,High,0-60,Less fe
+Bangalore,Doddaballapura,8860169423fffff,,120,6,1,28.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,8860169421fffff,,228,26,1,19.0,32.0,Less,61-450,Less fe
+Bangalore,Mavallipura,8860169419fffff,,42,5,0,12.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,886016940dfffff,,132,23,3,20.0,32.0,Less,61-450,Less fe
+Bangalore,Doddaballapura,886016940bfffff,,52,5,1,38.0,32.0,High,0-60,Less fe
+Bangalore,Doddaballapura,8860169405fffff,,56,3,0,11.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,8860169401fffff,,20,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,88601692ddfffff,,60,12,1,15.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,88601692dbfffff,,360,31,3,18.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,88601692d9fffff,,93,12,0,14.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,88601692d7fffff,,59,8,2,14.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,88601692d5fffff,,802,72,8,21.0,32.0,Less,451-3500,Less fe
+Bangalore,Bagalur,88601692d3fffff,,64,13,3,43.0,32.0,High,61-450,Less fe
+Bangalore,Bagalur,88601692d1fffff,,88,11,2,16.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,88601692cdfffff,,21,5,2,11.0,32.0,Less,0-60,Less fe
+Bangalore,Bagalur,88601692cbfffff,,6,1,0,40.0,32.0,High,0-60,Less fe
+Bangalore,Bagalur,88601692c3fffff,,65,5,0,17.0,32.0,Less,61-450,Less fe
+Bangalore,Bagalur,886016929bfffff,,77,22,6,39.0,32.0,High,61-450,Less fe
+Bangalore,Bagalur,8860169299fffff,,16,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bangalore Airport,8860169291fffff,,46,11,3,22.0,32.0,Less,0-60,Less fe
+Bangalore,Bangalore Airport,8860169289fffff,,58,3,0,19.0,32.0,Less,0-60,Less fe
+Bangalore,Bangalore Airport,8860169249fffff,,32,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,88601690bbfffff,,11,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Doddaballapura,88601690b3fffff,,16,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Jigani,886014cb27fffff,,33,5,1,17.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta Zoo,886014c9edfffff,,26,1,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,886014c9e5fffff,,54,2,0,38.0,32.0,High,0-60,Less fe
+Bangalore,Bannerghatta,886014c9e1fffff,,12,3,0,75.0,32.0,High,0-60,Less fe
+Bangalore,Bannerghatta Zoo,886014c9cdfffff,,4,1,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Bannerghatta,886014c9adfffff,,115,29,5,29.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta Zoo,886014c9abfffff,,154,5,0,26.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta,886014c9a9fffff,,689,25,7,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,886014c9a7fffff,,6,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,886014c9a5fffff,,933,113,26,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta,886014c9a1fffff,,180,25,6,23.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta Zoo,886014c989fffff,,38,2,0,16.0,32.0,Less,0-60,Less fe
+Bangalore,Jigani,886014c96dfffff,,731,141,50,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,886014c96bfffff,,564,98,32,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,886014c969fffff,,1310,184,75,35.0,32.0,High,451-3500,Less fe
+Bangalore,Jigani,886014c967fffff,,71,7,4,36.0,32.0,High,61-450,Less fe
+Bangalore,Jigani,886014c965fffff,,363,61,34,27.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c963fffff,,203,35,17,21.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c961fffff,,923,157,38,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Bannerghatta Zoo,886014c957fffff,,88,12,3,12.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c955fffff,,198,47,18,4.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c94dfffff,,92,27,0,10.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c94bfffff,,44,3,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Jigani,886014c949fffff,,98,22,8,25.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c947fffff,,1724,331,116,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,886014c945fffff,,122,22,8,15.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c943fffff,,95,24,7,26.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c941fffff,,227,36,16,19.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c93dfffff,,185,13,3,40.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta Zoo,886014c93bfffff,,28,3,0,9.0,32.0,Less,0-60,Less fe
+Bangalore,Jigani,886014c939fffff,,275,37,2,34.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta,886014c937fffff,,17,2,1,17.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,886014c933fffff,,113,11,10,6.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c931fffff,,211,23,2,45.0,32.0,High,61-450,Less fe
+Bangalore,Jigani,886014c92dfffff,,53,14,4,20.0,32.0,Less,0-60,Less fe
+Bangalore,Jigani,886014c92bfffff,,32,18,2,33.0,32.0,High,0-60,Less fe
+Bangalore,Jigani,886014c929fffff,,28,3,1,25.0,32.0,Less,0-60,Less fe
+Bangalore,Jigani,886014c927fffff,,109,7,2,46.0,32.0,High,61-450,Less fe
+Bangalore,Jigani,886014c925fffff,,70,15,5,24.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c923fffff,,329,41,9,36.0,32.0,High,61-450,Less fe
+Bangalore,Jigani,886014c921fffff,,14,4,1,20.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta Zoo,886014c91dfffff,,30,4,1,44.0,32.0,High,0-60,Less fe
+Bangalore,Bannerghatta Zoo,886014c91bfffff,,12,1,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta Zoo,886014c919fffff,,7,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta Zoo,886014c917fffff,,18,2,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta Zoo,886014c915fffff,,173,11,1,30.0,32.0,Less,61-450,Less fe
+Bangalore,Bannerghatta Zoo,886014c911fffff,,12,3,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Jigani,886014c90dfffff,,760,133,45,21.0,32.0,Less,451-3500,Less fe
+Bangalore,Jigani,886014c90bfffff,,35,5,0,18.0,32.0,Less,0-60,Less fe
+Bangalore,Jigani,886014c909fffff,,280,41,18,19.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c907fffff,,372,99,41,38.0,32.0,High,61-450,Less fe
+Bangalore,Jigani,886014c905fffff,,124,26,9,24.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c903fffff,,256,59,10,27.0,32.0,Less,61-450,Less fe
+Bangalore,Jigani,886014c901fffff,,249,59,23,27.0,32.0,Less,61-450,Less fe
+Bangalore,R T Nagar,8860145b6dfffff,residential,6497,1196,517,41.0,32.0,High,3500+,High fe
+Bangalore,ShivajiNagar - Bangalore,8860145b6bfffff,leisure,19796,2593,995,38.0,32.0,High,3500+,High fe
+Bangalore,Train - Cantonment,8860145b69fffff,transit_station,16163,2553,1021,33.0,32.0,High,3500+,High fe
+Bangalore,R T Nagar,8860145b67fffff,leisure,3961,672,265,31.0,32.0,Less,3500+,High fe
+Bangalore,R T Nagar,8860145b65fffff,residential,6556,1076,452,38.0,32.0,High,3500+,High fe
+Bangalore,R T Nagar,8860145b63fffff,leisure,5330,752,242,34.0,32.0,High,3500+,High fe
+Bangalore,R T Nagar,8860145b61fffff,leisure,3567,579,244,37.0,32.0,High,3500+,Less fe
+Bangalore,Majestic,8860145b5dfffff,household_needs,22770,3901,1370,38.0,32.0,High,3500+,High fe
+Bangalore,Majestic,8860145b5bfffff,residential,5056,735,278,33.0,32.0,High,3500+,High fe
+Bangalore,Majestic,8860145b59fffff,educational,15804,2255,681,32.0,32.0,Less,3500+,High fe
+Bangalore,Majestic,8860145b57fffff,transit_station,13154,1327,434,37.0,32.0,High,3500+,High fe
+Bangalore,Majestic,8860145b55fffff,transit_station,73331,10467,3618,31.0,32.0,Less,3500+,High fe
+Bangalore,Majestic,8860145b53fffff,residential,3384,499,192,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Majestic,8860145b51fffff,residential,11177,1904,747,31.0,32.0,Less,3500+,High fe
+Bangalore,Sampagni Rama Nagar,8860145b4dfffff,leisure,22595,3179,906,43.0,32.0,High,3500+,High fe
+Bangalore,Sampagni Rama Nagar,8860145b4bfffff,leisure,11400,1678,539,36.0,32.0,High,3500+,High fe
+Bangalore,Sri Kanteerava Stadium,8860145b49fffff,leisure,22570,3652,930,42.0,32.0,High,3500+,High fe
+Bangalore,Sampagni Rama Nagar,8860145b47fffff,residential,8653,1146,380,41.0,32.0,High,3500+,High fe
+Bangalore,ShivajiNagar - Bangalore,8860145b45fffff,residential,20926,2749,951,40.0,32.0,High,3500+,High fe
+Bangalore,Majestic,8860145b43fffff,educational,6995,1038,406,36.0,32.0,High,3500+,High fe
+Bangalore,Sampagni Rama Nagar,8860145b41fffff,leisure,6429,851,260,36.0,32.0,High,3500+,High fe
+Bangalore,Malleshwaram,8860145b3dfffff,educational,4615,541,269,37.0,32.0,High,3500+,High fe
+Bangalore,RTO Rajajinagar,8860145b3bfffff,residential,10651,1860,937,37.0,32.0,High,3500+,High fe
+Bangalore,RTO Rajajinagar,8860145b39fffff,educational,4660,773,407,37.0,32.0,High,3500+,High fe
+Bangalore,Metro - Sandal Soap Factory,8860145b37fffff,office,12664,2249,979,38.0,32.0,High,3500+,High fe
+Bangalore,Malleshwaram,8860145b35fffff,educational,3570,560,225,32.0,32.0,Less,3500+,Less fe
+Bangalore,RTO Rajajinagar,8860145b33fffff,office,7079,910,434,35.0,32.0,High,3500+,High fe
+Bangalore,RTO Rajajinagar,8860145b31fffff,residential,10343,1455,686,42.0,32.0,High,3500+,High fe
+Bangalore,R T Nagar,8860145b2dfffff,leisure,4362,778,325,37.0,32.0,High,3500+,High fe
+Bangalore,Malleshwaram,8860145b2bfffff,leisure,4560,791,345,39.0,32.0,High,3500+,High fe
+Bangalore,R T Nagar,8860145b29fffff,leisure,6750,1131,411,38.0,32.0,High,3500+,High fe
+Bangalore,Mathikere,8860145b27fffff,residential,1711,249,102,40.0,32.0,High,451-3500,Less fe
+Bangalore,Mathikere,8860145b25fffff,residential,5878,1151,500,35.0,32.0,High,3500+,High fe
+Bangalore,Mathikere,8860145b23fffff,educational,2594,434,161,33.0,32.0,High,451-3500,Less fe
+Bangalore,Mathikere,8860145b21fffff,leisure,1433,226,83,36.0,32.0,High,451-3500,Less fe
+Bangalore,RTO Rajajinagar,8860145b1dfffff,leisure,7992,1409,677,36.0,32.0,High,3500+,High fe
+Bangalore,RTO Rajajinagar,8860145b1bfffff,office,4233,819,393,34.0,32.0,High,3500+,High fe
+Bangalore,RTO Rajajinagar,8860145b19fffff,residential,4993,900,417,34.0,32.0,High,3500+,High fe
+Bangalore,RTO Rajajinagar,8860145b17fffff,residential,5647,1032,517,33.0,32.0,High,3500+,High fe
+Bangalore,RTO Rajajinagar,8860145b15fffff,educational,6772,1192,537,34.0,32.0,High,3500+,High fe
+Bangalore,RTO Rajajinagar,8860145b13fffff,office,4058,821,418,34.0,32.0,High,3500+,High fe
+Bangalore,RTO Rajajinagar,8860145b11fffff,residential,5902,1041,504,38.0,32.0,High,3500+,High fe
+Bangalore,Majestic,8860145b0dfffff,leisure,6181,893,355,40.0,32.0,High,3500+,High fe
+Bangalore,Majestic,8860145b0bfffff,residential,5136,744,299,32.0,32.0,Less,3500+,High fe
+Bangalore,Majestic,8860145b09fffff,leisure,11072,1443,614,38.0,32.0,High,3500+,High fe
+Bangalore,Malleshwaram,8860145b07fffff,residential,8765,1353,623,36.0,32.0,High,3500+,High fe
+Bangalore,Malleshwaram,8860145b05fffff,leisure,8109,1743,818,35.0,32.0,High,3500+,High fe
+Bangalore,RTO Rajajinagar,8860145b03fffff,health_and_personal,5369,933,437,35.0,32.0,High,3500+,High fe
+Bangalore,Majestic,8860145b01fffff,leisure,14208,1895,799,41.0,32.0,High,3500+,High fe
+Bangalore,Kengeri,8860145aedfffff,educational,417,98,41,32.0,32.0,Less,61-450,Less fe
+Bangalore,Kengeri,8860145aebfffff,educational,363,64,23,36.0,32.0,High,61-450,Less fe
+Bangalore,Kengeri,8860145ae9fffff,educational,183,34,10,39.0,32.0,High,61-450,Less fe
+Bangalore,Nagarbhavi,8860145ae7fffff,educational,1477,313,158,36.0,32.0,High,451-3500,Less fe
+Bangalore,Nagarbhavi,8860145ae5fffff,educational,1275,254,124,39.0,32.0,High,451-3500,Less fe
+Bangalore,Kengeri,8860145ae3fffff,educational,2082,392,177,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Kengeri,8860145ae1fffff,educational,218,29,13,37.0,32.0,High,61-450,Less fe
+Bangalore,BGS Kengeri,8860145addfffff,residential,2646,435,198,37.0,32.0,High,451-3500,Less fe
+Bangalore,BGS Kengeri,8860145adbfffff,residential,3284,507,194,33.0,32.0,High,451-3500,Less fe
+Bangalore,Hemmigepura,8860145ad9fffff,transit_station,6104,1086,455,31.0,32.0,Less,3500+,High fe
+Bangalore,BGS Kengeri,8860145ad7fffff,Unknown,383,76,38,34.0,32.0,High,61-450,Less fe
+Bangalore,BGS Kengeri,8860145ad5fffff,residential,1635,260,136,31.0,32.0,Less,451-3500,Less fe
+Bangalore,BGS Kengeri,8860145ad3fffff,Unknown,283,22,8,25.0,32.0,Less,61-450,Less fe
+Bangalore,BGS Kengeri,8860145ad1fffff,residential,3733,606,304,31.0,32.0,Less,3500+,High fe
+Bangalore,Gattigere,8860145acdfffff,residential,2169,376,172,34.0,32.0,High,451-3500,Less fe
+Bangalore,Hemmigepura,8860145acbfffff,office,3763,586,268,36.0,32.0,High,3500+,High fe
+Bangalore,Gattigere,8860145ac9fffff,Unknown,2288,375,158,34.0,32.0,High,451-3500,Less fe
+Bangalore,Kengeri,8860145ac7fffff,educational,748,180,80,37.0,32.0,High,451-3500,Less fe
+Bangalore,Kengeri,8860145ac5fffff,educational,572,96,40,37.0,32.0,High,451-3500,Less fe
+Bangalore,BGS Kengeri,8860145ac3fffff,residential,1364,206,88,33.0,32.0,High,451-3500,Less fe
+Bangalore,Kengeri,8860145ac1fffff,educational,3643,610,247,34.0,32.0,High,3500+,High fe
+Bangalore,Ullal,8860145abdfffff,Unknown,525,130,45,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Bidadi,8860145abbfffff,,90,13,3,23.0,32.0,Less,61-450,Less fe
+Bangalore,BGS Kengeri,8860145ab9fffff,Unknown,233,35,11,16.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145ab7fffff,,12,1,0,12.0,32.0,Less,0-60,Less fe
+Bangalore,Ullal,8860145ab5fffff,Unknown,224,50,17,29.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145ab1fffff,Unknown,207,28,4,19.0,32.0,Less,61-450,Less fe
+Bangalore,Nagarbhavi,8860145aadfffff,Unknown,1082,212,98,35.0,32.0,High,451-3500,Less fe
+Bangalore,Ullal,8860145aabfffff,transit_station,852,159,79,37.0,32.0,High,451-3500,Less fe
+Bangalore,Nagarbhavi,8860145aa9fffff,transit_station,1546,316,147,31.0,32.0,Less,451-3500,Less fe
+Bangalore,BEL Layout,8860145aa7fffff,Unknown,892,201,93,37.0,32.0,High,451-3500,Less fe
+Bangalore,Nagarbhavi,8860145aa5fffff,Unknown,1618,359,168,37.0,32.0,High,451-3500,Less fe
+Bangalore,Ullal,8860145aa3fffff,Unknown,438,70,31,27.0,32.0,Less,61-450,Less fe
+Bangalore,Ullal,8860145aa1fffff,Unknown,1398,268,111,32.0,32.0,Less,451-3500,Less fe
+Bangalore,BGS Kengeri,8860145a9dfffff,,89,13,7,27.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145a9bfffff,,34,3,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860145a99fffff,,55,4,1,23.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860145a95fffff,,219,30,4,19.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145a93fffff,,14,2,2,40.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,8860145a91fffff,,94,12,3,15.0,32.0,Less,61-450,Less fe
+Bangalore,Kengeri,8860145a8dfffff,Unknown,1623,328,142,32.0,32.0,Less,451-3500,Less fe
+Bangalore,BGS Kengeri,8860145a8bfffff,residential,482,78,26,31.0,32.0,Less,451-3500,Less fe
+Bangalore,BGS Kengeri,8860145a89fffff,residential,1269,272,118,33.0,32.0,High,451-3500,Less fe
+Bangalore,BGS Kengeri,8860145a87fffff,Unknown,548,115,58,33.0,32.0,High,451-3500,Less fe
+Bangalore,Kengeri,8860145a85fffff,transit_station,1395,300,134,33.0,32.0,High,451-3500,Less fe
+Bangalore,BGS Kengeri,8860145a83fffff,residential,659,139,65,24.0,32.0,Less,451-3500,Less fe
+Bangalore,BGS Kengeri,8860145a81fffff,leisure,738,146,65,30.0,32.0,Less,451-3500,Less fe
+Bangalore,National College,8860145a6dfffff,educational,15406,2745,1100,41.0,32.0,High,3500+,High fe
+Bangalore,Banashankri North,8860145a6bfffff,health_and_personal,7063,1372,638,38.0,32.0,High,3500+,High fe
+Bangalore,Basavanagudi,8860145a69fffff,educational,11328,1586,740,40.0,32.0,High,3500+,High fe
+Bangalore,Mysore Road Circle,8860145a67fffff,leisure,6194,1267,552,36.0,32.0,High,3500+,High fe
+Bangalore,Majestic,8860145a65fffff,educational,7655,1051,443,37.0,32.0,High,3500+,High fe
+Bangalore,Banashankri North,8860145a63fffff,leisure,4056,777,319,34.0,32.0,High,3500+,High fe
+Bangalore,Banashankri North,8860145a61fffff,leisure,6515,1045,423,35.0,32.0,High,3500+,High fe
+Bangalore,Kathriguppe,8860145a5dfffff,Unknown,6623,1090,457,33.0,32.0,High,3500+,High fe
+Bangalore,Banashankri West,8860145a5bfffff,residential,2013,281,105,36.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri West,8860145a59fffff,leisure,4341,687,292,33.0,32.0,High,3500+,High fe
+Bangalore,Kathriguppe,8860145a57fffff,Unknown,1627,323,155,33.0,32.0,High,451-3500,Less fe
+Bangalore,Kathriguppe,8860145a55fffff,health_and_personal,6642,1059,430,32.0,32.0,Less,3500+,High fe
+Bangalore,Gattigere,8860145a53fffff,Unknown,812,163,69,36.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri West,8860145a51fffff,residential,2835,490,194,33.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri,8860145a4dfffff,office,6851,1193,529,40.0,32.0,High,3500+,High fe
+Bangalore,Kathriguppe,8860145a4bfffff,residential,6528,1096,474,35.0,32.0,High,3500+,High fe
+Bangalore,Banashankri,8860145a49fffff,health_and_personal,4456,755,349,35.0,32.0,High,3500+,High fe
+Bangalore,Banashankri North,8860145a47fffff,residential,7012,1415,632,35.0,32.0,High,3500+,High fe
+Bangalore,Basavanagudi,8860145a45fffff,leisure,7640,1522,700,35.0,32.0,High,3500+,High fe
+Bangalore,Kathriguppe,8860145a43fffff,leisure,8577,1503,698,37.0,32.0,High,3500+,High fe
+Bangalore,Kathriguppe,8860145a41fffff,leisure,7986,1162,559,39.0,32.0,High,3500+,High fe
+Bangalore,Vijayanagar,8860145a3dfffff,educational,4150,754,375,35.0,32.0,High,3500+,High fe
+Bangalore,Mysore rd,8860145a3bfffff,leisure,2254,480,199,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Mysore rd,8860145a39fffff,office,4354,912,332,38.0,32.0,High,3500+,High fe
+Bangalore,Vijayanagar,8860145a37fffff,residential,3617,681,349,35.0,32.0,High,3500+,Less fe
+Bangalore,Vijayanagar,8860145a35fffff,educational,5017,953,485,39.0,32.0,High,3500+,High fe
+Bangalore,Mysore rd,8860145a33fffff,food,3301,642,303,38.0,32.0,High,451-3500,Less fe
+Bangalore,Mysore rd,8860145a31fffff,leisure,3990,733,342,39.0,32.0,High,3500+,High fe
+Bangalore,Mysore Road Circle,8860145a2dfffff,residential,4119,700,226,34.0,32.0,High,3500+,High fe
+Bangalore,Mysore Road Circle,8860145a2bfffff,transit_station,12997,2664,1036,32.0,32.0,Less,3500+,High fe
+Bangalore,Mysore Road Circle,8860145a29fffff,Unknown,4388,729,305,32.0,32.0,Less,3500+,High fe
+Bangalore,Vijayanagar,8860145a27fffff,leisure,5402,996,472,37.0,32.0,High,3500+,High fe
+Bangalore,Mysore Road Circle,8860145a25fffff,health_and_personal,4103,852,338,33.0,32.0,High,3500+,High fe
+Bangalore,Vijayanagar,8860145a23fffff,leisure,3674,696,298,37.0,32.0,High,3500+,High fe
+Bangalore,Mysore Road Circle,8860145a21fffff,residential,4755,755,318,32.0,32.0,Less,3500+,High fe
+Bangalore,Kengeri,8860145a1dfffff,educational,1819,311,127,39.0,32.0,High,451-3500,Less fe
+Bangalore,Gattigere,8860145a1bfffff,residential,2552,508,272,38.0,32.0,High,451-3500,Less fe
+Bangalore,Gattigere,8860145a19fffff,residential,2097,365,156,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Kengeri,8860145a17fffff,educational,1805,276,115,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Kengeri,8860145a15fffff,residential,4880,955,380,37.0,32.0,High,3500+,High fe
+Bangalore,Kengeri,8860145a13fffff,residential,4900,927,414,36.0,32.0,High,3500+,High fe
+Bangalore,Kengeri,8860145a11fffff,residential,4025,794,386,40.0,32.0,High,3500+,High fe
+Bangalore,Banashankri North,8860145a0dfffff,health_and_personal,6639,1349,644,36.0,32.0,High,3500+,High fe
+Bangalore,Banashankri North,8860145a0bfffff,leisure,5422,1011,454,36.0,32.0,High,3500+,High fe
+Bangalore,Banashankri North,8860145a09fffff,leisure,4629,783,362,38.0,32.0,High,3500+,High fe
+Bangalore,Mysore rd,8860145a07fffff,residential,4652,1004,456,33.0,32.0,High,3500+,High fe
+Bangalore,Mysore rd,8860145a05fffff,Unknown,3992,859,376,31.0,32.0,Less,3500+,High fe
+Bangalore,Banashankri North,8860145a03fffff,Unknown,1768,357,147,34.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri North,8860145a01fffff,leisure,4486,790,382,37.0,32.0,High,3500+,High fe
+Bangalore,Dasarahalli,88601459edfffff,Unknown,1701,431,188,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Nagasandra,88601459ebfffff,household_needs,7913,1398,484,36.0,32.0,High,3500+,High fe
+Bangalore,Dasarahalli,88601459e9fffff,Unknown,8075,1653,757,35.0,32.0,High,3500+,High fe
+Bangalore,Chikkabanavara,88601459e7fffff,office,2143,416,190,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkabanavara,88601459e5fffff,Unknown,1126,226,85,35.0,32.0,High,451-3500,Less fe
+Bangalore,Dasarahalli,88601459e3fffff,Unknown,952,181,65,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Dasarahalli,88601459e1fffff,office,2791,521,245,33.0,32.0,High,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,88601459ddfffff,Unknown,563,109,39,33.0,32.0,High,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,88601459dbfffff,Unknown,112,33,14,35.0,32.0,High,61-450,Less fe
+Bangalore,Peenya 2nd Stage,88601459d9fffff,Unknown,812,128,50,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Nagasandra,88601459d7fffff,Unknown,108,20,8,28.0,32.0,Less,61-450,Less fe
+Bangalore,Nagasandra,88601459d5fffff,Unknown,442,104,44,24.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,88601459d3fffff,Unknown,133,27,13,33.0,32.0,High,61-450,Less fe
+Bangalore,Nagasandra,88601459d1fffff,Unknown,160,32,8,33.0,32.0,High,61-450,Less fe
+Bangalore,Peenya,88601459cdfffff,Unknown,1337,276,127,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,88601459cbfffff,Unknown,377,73,38,34.0,32.0,High,61-450,Less fe
+Bangalore,Peenya,88601459c9fffff,office,1370,248,101,33.0,32.0,High,451-3500,Less fe
+Bangalore,Nagasandra,88601459c7fffff,Unknown,2076,341,167,33.0,32.0,High,451-3500,Less fe
+Bangalore,Nagasandra,88601459c5fffff,educational,4901,752,353,36.0,32.0,High,3500+,High fe
+Bangalore,Nagasandra,88601459c3fffff,Unknown,1241,239,105,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,88601459c1fffff,Unknown,2092,313,125,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkabanavara,88601459bdfffff,,171,31,8,27.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,88601459bbfffff,,174,27,8,29.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,88601459b9fffff,,398,80,22,28.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,88601459b7fffff,,96,11,3,24.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,88601459b5fffff,,156,16,5,14.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,88601459b3fffff,,675,128,33,22.0,32.0,Less,451-3500,Less fe
+Bangalore,Nelamangala,88601459b1fffff,,406,70,28,24.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkabanavara,88601459adfffff,Unknown,2419,433,182,36.0,32.0,High,451-3500,Less fe
+Bangalore,Chikkabanavara,88601459abfffff,,377,78,30,36.0,32.0,High,61-450,Less fe
+Bangalore,Chikkabanavara,88601459a9fffff,Unknown,1306,250,109,33.0,32.0,High,451-3500,Less fe
+Bangalore,Chikkabanavara,88601459a7fffff,,189,37,20,24.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkabanavara,88601459a5fffff,educational,829,182,75,33.0,32.0,High,451-3500,Less fe
+Bangalore,Chikkabanavara,88601459a3fffff,,245,41,12,18.0,32.0,Less,61-450,Less fe
+Bangalore,Chikkabanavara,88601459a1fffff,educational,846,176,75,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Nelamangala,886014599dfffff,Unknown,45,6,2,40.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,886014599bfffff,,101,22,7,28.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860145999fffff,,35,8,1,20.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860145997fffff,,116,17,4,24.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860145995fffff,,29,1,0,9.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860145993fffff,,12,1,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860145991fffff,,38,2,1,12.0,32.0,Less,0-60,Less fe
+Bangalore,Nagasandra,886014598dfffff,Unknown,646,121,51,34.0,32.0,High,451-3500,Less fe
+Bangalore,Nagasandra,886014598bfffff,Unknown,270,65,28,27.0,32.0,Less,61-450,Less fe
+Bangalore,Nagasandra,8860145989fffff,Unknown,733,171,66,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Nagasandra,8860145987fffff,Unknown,526,87,16,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Dasarahalli,8860145985fffff,Unknown,3946,671,241,40.0,32.0,High,3500+,High fe
+Bangalore,Nagasandra,8860145983fffff,Unknown,90,21,8,16.0,32.0,Less,61-450,Less fe
+Bangalore,Nagasandra,8860145981fffff,Unknown,603,130,44,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Jalahalli,886014596dfffff,residential,4056,822,370,36.0,32.0,High,3500+,High fe
+Bangalore,Mathikere,886014596bfffff,Unknown,1558,262,115,37.0,32.0,High,451-3500,Less fe
+Bangalore,Mathikere,8860145969fffff,residential,5183,957,390,34.0,32.0,High,3500+,High fe
+Bangalore,Vidyaranyapura,8860145967fffff,Unknown,1747,324,132,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Vidyaranyapura,8860145965fffff,residential,2052,399,168,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Jalahalli,8860145963fffff,residential,602,89,41,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Jalahalli,8860145961fffff,Unknown,1659,336,141,36.0,32.0,High,451-3500,Less fe
+Bangalore,Metro - Yeshwantpur,886014595dfffff,office,20954,2995,1140,30.0,32.0,Less,3500+,High fe
+Bangalore,Yeshwanthpur,886014595bfffff,leisure,2514,472,223,34.0,32.0,High,451-3500,Less fe
+Bangalore,Yeshwanthpur,8860145959fffff,office,2799,517,234,35.0,32.0,High,451-3500,Less fe
+Bangalore,Yeshwanthpur,8860145957fffff,office,7538,1511,593,36.0,32.0,High,3500+,High fe
+Bangalore,Yeshwanthpur,8860145955fffff,office,2669,392,141,34.0,32.0,High,451-3500,Less fe
+Bangalore,Yeshwanthpur,8860145953fffff,office,3060,501,220,25.0,32.0,Less,451-3500,Less fe
+Bangalore,Yeshwanthpur,8860145951fffff,office,3075,550,250,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Ramaiah College,886014594dfffff,residential,11967,1977,884,42.0,32.0,High,3500+,High fe
+Bangalore,Yeshwanthpur - Mathikere,886014594bfffff,leisure,11222,2212,1056,31.0,32.0,Less,3500+,High fe
+Bangalore,Mathikere,8860145949fffff,educational,1521,242,99,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Mathikere,8860145947fffff,residential,4892,923,408,34.0,32.0,High,3500+,High fe
+Bangalore,Ramaiah College,8860145945fffff,residential,6909,1453,745,39.0,32.0,High,3500+,High fe
+Bangalore,Mathikere Lake,8860145943fffff,leisure,4090,821,385,32.0,32.0,Less,3500+,High fe
+Bangalore,Ramaiah College,8860145941fffff,educational,10946,2133,1032,38.0,32.0,High,3500+,High fe
+Bangalore,Vidyaranyapura,886014593dfffff,Unknown,456,43,11,34.0,32.0,High,451-3500,Less fe
+Bangalore,Dasarahalli,886014593bfffff,Unknown,193,29,10,23.0,32.0,Less,61-450,Less fe
+Bangalore,Jalahalli,8860145939fffff,residential,1091,176,62,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkabanavara,8860145937fffff,Unknown,936,209,78,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Vidyaranyapura,8860145935fffff,residential,1135,199,81,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Chikkabanavara,8860145933fffff,residential,759,162,80,34.0,32.0,High,451-3500,Less fe
+Bangalore,Vidyaranyapura,8860145931fffff,Unknown,859,186,75,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Vidyaranyapura,886014592dfffff,health_and_personal,2567,521,256,33.0,32.0,High,451-3500,Less fe
+Bangalore,Vidyaranyapura,886014592bfffff,Unknown,887,187,69,38.0,32.0,High,451-3500,Less fe
+Bangalore,Vidyaranyapura,8860145929fffff,Unknown,2655,427,187,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Vidyaranyapura,8860145927fffff,Unknown,300,47,14,31.0,32.0,Less,61-450,Less fe
+Bangalore,Vidyaranyapura,8860145925fffff,leisure,1090,205,110,36.0,32.0,High,451-3500,Less fe
+Bangalore,Vidyaranyapura,8860145923fffff,residential,433,54,18,28.0,32.0,Less,61-450,Less fe
+Bangalore,Vidyaranyapura,8860145921fffff,Unknown,292,49,23,35.0,32.0,High,61-450,Less fe
+Bangalore,Peenya,886014591dfffff,residential,2523,483,225,41.0,32.0,High,451-3500,Less fe
+Bangalore,Peenya,886014591bfffff,office,1828,305,127,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,8860145919fffff,office,1548,260,113,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Dasarahalli,8860145917fffff,residential,2954,601,284,33.0,32.0,High,451-3500,Less fe
+Bangalore,Dasarahalli,8860145915fffff,residential,575,100,40,35.0,32.0,High,451-3500,Less fe
+Bangalore,Peenya,8860145913fffff,Unknown,7891,1593,697,32.0,32.0,Less,3500+,High fe
+Bangalore,Peenya,8860145911fffff,Unknown,2534,520,217,38.0,32.0,High,451-3500,Less fe
+Bangalore,Mathikere,886014590dfffff,residential,3625,652,283,33.0,32.0,High,3500+,Less fe
+Bangalore,Yeshwanthpur,886014590bfffff,Unknown,501,58,17,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Mathikere,8860145909fffff,leisure,3173,610,245,34.0,32.0,High,451-3500,Less fe
+Bangalore,Jalahalli,8860145907fffff,residential,380,74,30,43.0,32.0,High,61-450,Less fe
+Bangalore,Jalahalli,8860145905fffff,residential,1201,229,96,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Dasarahalli,8860145903fffff,residential,1082,258,101,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Jalahalli,8860145901fffff,residential,2922,505,224,33.0,32.0,High,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,88601458edfffff,food,1672,281,121,35.0,32.0,High,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,88601458ebfffff,Unknown,313,69,35,26.0,32.0,Less,61-450,Less fe
+Bangalore,Peenya 2nd Stage,88601458e9fffff,Unknown,719,96,34,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Nelamangala,88601458e7fffff,Unknown,238,31,14,34.0,32.0,High,61-450,Less fe
+Bangalore,Peenya 2nd Stage,88601458e5fffff,Unknown,848,171,62,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Nelamangala,88601458e3fffff,Unknown,278,37,13,24.0,32.0,Less,61-450,Less fe
+Bangalore,Peenya 2nd Stage,88601458e1fffff,Unknown,435,66,26,31.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,88601458d9fffff,,97,6,1,6.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,88601458d7fffff,,69,10,5,40.0,32.0,High,61-450,Less fe
+Bangalore,Bidadi,88601458d5fffff,,8,1,0,17.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,88601458d3fffff,,34,4,1,25.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,88601458d1fffff,,18,7,2,75.0,32.0,High,0-60,Less fe
+Bangalore,BEL Layout,88601458cdfffff,leisure,1567,299,135,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Bidadi,88601458cbfffff,Unknown,78,12,3,22.0,32.0,Less,61-450,Less fe
+Bangalore,BEL Layout,88601458c9fffff,Unknown,460,75,28,35.0,32.0,High,451-3500,Less fe
+Bangalore,Bidadi,88601458c7fffff,Unknown,465,82,21,25.0,32.0,Less,451-3500,Less fe
+Bangalore,BEL Layout,88601458c5fffff,Unknown,1191,241,97,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Bidadi,88601458c3fffff,,178,37,13,36.0,32.0,High,61-450,Less fe
+Bangalore,BEL Layout,88601458c1fffff,Unknown,340,37,13,27.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,88601458bdfffff,,27,6,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,88601458bbfffff,,12,6,1,60.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,88601458b9fffff,,123,22,1,16.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,88601458b5fffff,,12,3,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,88601458b1fffff,,44,8,0,29.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,88601458adfffff,Unknown,87,13,4,21.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,88601458abfffff,,31,2,0,31.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,88601458a9fffff,,36,2,1,32.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,88601458a7fffff,,73,7,1,43.0,32.0,High,61-450,Less fe
+Bangalore,Nelamangala,88601458a5fffff,,141,33,6,18.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,886014589dfffff,,219,47,2,17.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,886014589bfffff,,79,4,1,30.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145899fffff,,63,12,2,33.0,32.0,High,61-450,Less fe
+Bangalore,Bidadi,8860145895fffff,,57,7,1,24.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860145893fffff,,5,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,886014588bfffff,,147,44,12,23.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145889fffff,,115,22,8,30.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145887fffff,,79,10,3,20.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860145885fffff,,46,13,5,11.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860145883fffff,,80,18,4,9.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145881fffff,,154,19,4,22.0,32.0,Less,61-450,Less fe
+Bangalore,Basaveshwar Nagar,886014586dfffff,residential,3377,610,288,35.0,32.0,High,451-3500,Less fe
+Bangalore,Basaveshwar Nagar,886014586bfffff,leisure,2681,482,254,34.0,32.0,High,451-3500,Less fe
+Bangalore,Basaveshwar Nagar,8860145869fffff,leisure,3464,598,310,36.0,32.0,High,451-3500,Less fe
+Bangalore,Yeshwanthpur,8860145867fffff,Unknown,3038,591,280,34.0,32.0,High,451-3500,Less fe
+Bangalore,Yeshwanthpur,8860145865fffff,leisure,4179,781,409,35.0,32.0,High,3500+,High fe
+Bangalore,Basaveshwar Nagar,8860145863fffff,Unknown,3781,832,389,31.0,32.0,Less,3500+,High fe
+Bangalore,Basaveshwar Nagar,8860145861fffff,leisure,3785,765,410,35.0,32.0,High,3500+,High fe
+Bangalore,Vijayanagar,886014585dfffff,Unknown,2766,563,273,33.0,32.0,High,451-3500,Less fe
+Bangalore,Nagarbhavi,886014585bfffff,educational,3518,674,335,33.0,32.0,High,3500+,Less fe
+Bangalore,Nagarbhavi,8860145859fffff,residential,2703,517,230,38.0,32.0,High,451-3500,Less fe
+Bangalore,Nagarbhavi,8860145857fffff,Unknown,2208,433,209,38.0,32.0,High,451-3500,Less fe
+Bangalore,Nagarbhavi,8860145855fffff,Unknown,2813,633,300,36.0,32.0,High,451-3500,Less fe
+Bangalore,Nagarbhavi,8860145853fffff,Unknown,2081,472,208,38.0,32.0,High,451-3500,Less fe
+Bangalore,Nagarbhavi,8860145851fffff,health_and_personal,2675,571,262,35.0,32.0,High,451-3500,Less fe
+Bangalore,Vijayanagar,886014584dfffff,health_and_personal,3675,677,328,32.0,32.0,Less,3500+,High fe
+Bangalore,Vijayanagar,886014584bfffff,health_and_personal,3406,694,356,36.0,32.0,High,451-3500,Less fe
+Bangalore,Vijayanagar,8860145849fffff,health_and_personal,7650,1229,586,34.0,32.0,High,3500+,High fe
+Bangalore,Basaveshwar Nagar,8860145847fffff,Unknown,2564,523,259,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Basaveshwar Nagar,8860145845fffff,health_and_personal,3643,660,330,34.0,32.0,High,3500+,High fe
+Bangalore,Vijayanagar,8860145843fffff,Unknown,1796,400,200,33.0,32.0,High,451-3500,Less fe
+Bangalore,Vijayanagar,8860145841fffff,leisure,2828,543,291,36.0,32.0,High,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,886014583dfffff,office,2390,453,224,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,886014583bfffff,Unknown,941,196,83,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,8860145839fffff,household_needs,1963,467,202,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,8860145837fffff,Unknown,1353,243,105,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,8860145835fffff,office,1076,202,93,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,8860145833fffff,Unknown,872,178,73,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,8860145831fffff,office,1478,325,167,26.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,886014582dfffff,residential,2405,461,200,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,886014582bfffff,office,1859,399,192,27.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,8860145829fffff,Unknown,3246,713,329,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,8860145827fffff,office,1658,321,144,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,8860145825fffff,office,1481,258,123,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,8860145823fffff,office,2028,440,213,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,8860145821fffff,Unknown,2788,609,283,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Nagarbhavi,886014581dfffff,Unknown,1458,281,131,27.0,32.0,Less,451-3500,Less fe
+Bangalore,BEL Layout,886014581bfffff,Unknown,583,110,46,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Nagarbhavi,8860145819fffff,Unknown,1244,312,152,34.0,32.0,High,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,8860145817fffff,Unknown,1120,239,103,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,8860145815fffff,Unknown,1589,317,121,30.0,32.0,Less,451-3500,Less fe
+Bangalore,BEL Layout,8860145813fffff,Unknown,1479,320,156,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Nagarbhavi,8860145811fffff,Unknown,812,158,65,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Basaveshwar Nagar,886014580dfffff,transit_station,1956,411,164,28.0,32.0,Less,451-3500,Less fe
+Bangalore,Nagarbhavi,886014580bfffff,educational,2341,506,244,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Nagarbhavi,8860145809fffff,office,2283,357,144,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,8860145807fffff,Unknown,1622,335,156,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya,8860145805fffff,Unknown,2389,490,248,29.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,8860145803fffff,residential,2454,591,267,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Peenya 2nd Stage,8860145801fffff,educational,758,159,60,34.0,32.0,High,451-3500,Less fe
+Bangalore,South Bidadi,886014576dfffff,,34,7,0,14.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145767fffff,,7,1,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145765fffff,,11,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014573dfffff,,211,28,0,17.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,886014573bfffff,,19,4,1,12.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145739fffff,,24,2,0,19.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145735fffff,,32,4,0,7.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014572bfffff,,131,8,0,12.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145725fffff,,24,4,0,8.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145721fffff,,25,2,0,17.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014570dfffff,,29,2,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145707fffff,,11,4,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145705fffff,,24,5,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014554bfffff,,5,2,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145549fffff,,6,1,0,20.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,886014536dfffff,Unknown,44,3,1,8.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,8860145369fffff,Unknown,170,28,3,31.0,32.0,Less,61-450,Less fe
+Bangalore,Anjanapura,8860145367fffff,Unknown,194,36,5,36.0,32.0,High,61-450,Less fe
+Bangalore,Anjanapura,8860145365fffff,Unknown,173,26,12,36.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta,8860145363fffff,Unknown,70,21,5,53.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta,8860145361fffff,Unknown,28,3,0,12.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014535bfffff,,62,10,0,27.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145359fffff,,56,2,0,55.0,32.0,High,0-60,Less fe
+Bangalore,Bannerghatta,886014534dfffff,,22,6,1,11.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,8860145349fffff,,46,3,0,8.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,8860145347fffff,,20,3,0,57.0,32.0,High,0-60,Less fe
+Bangalore,Bannerghatta,8860145345fffff,,239,32,6,33.0,32.0,High,61-450,Less fe
+Bangalore,Bannerghatta,8860145343fffff,,19,1,0,38.0,32.0,High,0-60,Less fe
+Bangalore,Bannerghatta,8860145341fffff,,42,6,0,16.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014533dfffff,,28,2,1,45.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,886014533bfffff,,41,5,1,30.0,32.0,Less,0-60,Less fe
+Bangalore,Mallasandra,8860145337fffff,,21,4,0,23.0,32.0,Less,0-60,Less fe
+Bangalore,Mallasandra,8860145335fffff,residential,1207,159,48,29.0,32.0,Less,451-3500,Less fe
+Bangalore,South Bidadi,8860145333fffff,,201,42,15,29.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145331fffff,,58,8,4,35.0,32.0,High,0-60,Less fe
+Bangalore,Anjanapura,886014532dfffff,residential,180,26,8,29.0,32.0,Less,61-450,Less fe
+Bangalore,Anjanapura,886014532bfffff,Unknown,453,82,15,44.0,32.0,High,451-3500,Less fe
+Bangalore,Anjanapura,8860145329fffff,residential,80,11,3,50.0,32.0,High,61-450,Less fe
+Bangalore,Mallasandra,8860145327fffff,residential,730,104,31,35.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri South,8860145325fffff,residential,303,42,16,47.0,32.0,High,61-450,Less fe
+Bangalore,Mallasandra,8860145323fffff,residential,654,79,30,39.0,32.0,High,451-3500,Less fe
+Bangalore,Mallasandra,8860145321fffff,residential,497,82,24,28.0,32.0,Less,451-3500,Less fe
+Bangalore,South Bidadi,886014531dfffff,,7,2,1,25.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014531bfffff,,219,22,2,25.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145319fffff,,76,10,2,23.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145317fffff,,71,9,3,22.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145315fffff,,11,4,1,29.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145313fffff,,281,27,8,33.0,32.0,High,61-450,Less fe
+Bangalore,South Bidadi,8860145311fffff,,15,1,0,30.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta,886014530dfffff,,19,1,0,62.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,88601452bbfffff,,11,3,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,88601452b3fffff,,10,1,0,14.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145297fffff,,13,3,1,25.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145287fffff,,2,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145283fffff,,12,4,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta Zoo,886014526dfffff,,10,3,0,67.0,32.0,High,0-60,Less fe
+Bangalore,Bannerghatta Zoo,8860145269fffff,,8,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145267fffff,,37,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014523dfffff,,23,3,0,7.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145231fffff,,81,4,1,30.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,886014522dfffff,,8,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014522bfffff,,267,28,8,26.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145229fffff,,41,1,0,18.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145227fffff,,245,29,8,34.0,32.0,High,61-450,Less fe
+Bangalore,South Bidadi,8860145225fffff,,30,5,1,18.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145223fffff,,146,12,3,27.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145221fffff,,8,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145207fffff,,118,5,0,19.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145205fffff,,20,8,1,25.0,32.0,Less,0-60,Less fe
+Bangalore,Bannerghatta Zoo,8860145201fffff,,26,1,0,23.0,32.0,Less,0-60,Less fe
+Bangalore,Hemmigepura,88601451edfffff,Unknown,932,139,43,25.0,32.0,Less,451-3500,Less fe
+Bangalore,South Bidadi,88601451ebfffff,educational,155,26,7,27.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601451e9fffff,Unknown,49,7,0,14.0,32.0,Less,0-60,Less fe
+Bangalore,Hemmigepura,88601451e7fffff,Unknown,674,111,36,35.0,32.0,High,451-3500,Less fe
+Bangalore,Hemmigepura,88601451e5fffff,Unknown,462,85,32,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Bidadi,88601451e3fffff,Unknown,863,161,46,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Hemmigepura,88601451e1fffff,Unknown,99,15,6,26.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601451ddfffff,,80,12,6,38.0,32.0,High,61-450,Less fe
+Bangalore,South Bidadi,88601451dbfffff,,29,4,1,12.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,88601451d9fffff,,90,18,0,9.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601451d7fffff,,448,70,19,31.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601451d5fffff,,63,19,4,5.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601451d3fffff,,66,8,3,23.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601451d1fffff,,92,8,2,29.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601451cdfffff,Unknown,83,8,1,41.0,32.0,High,61-450,Less fe
+Bangalore,South Bidadi,88601451c7fffff,,496,72,17,29.0,32.0,Less,451-3500,Less fe
+Bangalore,South Bidadi,88601451c5fffff,Unknown,601,104,24,31.0,32.0,Less,451-3500,Less fe
+Bangalore,South Bidadi,88601451c3fffff,,63,11,1,12.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,88601451bbfffff,,53,2,0,19.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,88601451b3fffff,,48,5,0,23.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,88601451b1fffff,,17,1,0,38.0,32.0,High,0-60,Less fe
+Bangalore,BGS Kengeri,88601451adfffff,Unknown,86,20,4,35.0,32.0,High,61-450,Less fe
+Bangalore,Bidadi,88601451abfffff,,42,13,1,11.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,88601451a9fffff,Unknown,205,22,4,21.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,88601451a7fffff,,71,7,1,25.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,88601451a5fffff,,74,6,2,67.0,32.0,High,61-450,Less fe
+Bangalore,Bidadi,88601451a3fffff,,33,1,0,9.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,88601451a1fffff,,21,6,2,25.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014519dfffff,,207,14,5,25.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145199fffff,,115,17,5,23.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145195fffff,,72,8,0,23.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,886014518dfffff,Unknown,304,39,11,31.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,886014518bfffff,,205,24,2,16.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145189fffff,,86,6,1,30.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145187fffff,,67,24,2,27.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145185fffff,Unknown,840,86,26,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Bidadi,8860145183fffff,,118,7,1,26.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860145181fffff,,592,84,25,32.0,32.0,Less,451-3500,Less fe
+Bangalore,Subramanyapura,886014516dfffff,residential,1975,356,162,35.0,32.0,High,451-3500,Less fe
+Bangalore,Subramanyapura,886014516bfffff,residential,339,56,13,38.0,32.0,High,61-450,Less fe
+Bangalore,Subramanyapura,8860145169fffff,residential,1880,315,137,38.0,32.0,High,451-3500,Less fe
+Bangalore,Banashankri West,8860145167fffff,residential,1784,289,136,38.0,32.0,High,451-3500,Less fe
+Bangalore,Subramanyapura,8860145165fffff,residential,2520,454,164,34.0,32.0,High,451-3500,Less fe
+Bangalore,Subramanyapura,8860145163fffff,residential,1482,217,74,33.0,32.0,High,451-3500,Less fe
+Bangalore,Subramanyapura,8860145161fffff,residential,1547,225,99,38.0,32.0,High,451-3500,Less fe
+Bangalore,Turahalli,886014515dfffff,residential,100,18,4,29.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145159fffff,,11,2,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Turahalli,8860145157fffff,residential,31,6,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Turahalli,8860145155fffff,residential,408,61,12,32.0,32.0,Less,61-450,Less fe
+Bangalore,Mallasandra,886014514dfffff,Unknown,1962,393,155,34.0,32.0,High,451-3500,Less fe
+Bangalore,Mallasandra,886014514bfffff,residential,420,68,22,34.0,32.0,High,61-450,Less fe
+Bangalore,Mallasandra,8860145149fffff,residential,1013,163,62,37.0,32.0,High,451-3500,Less fe
+Bangalore,Turahalli,8860145147fffff,Unknown,217,47,12,48.0,32.0,High,61-450,Less fe
+Bangalore,Turahalli,8860145145fffff,residential,222,23,14,35.0,32.0,High,61-450,Less fe
+Bangalore,Turahalli,8860145143fffff,residential,58,8,3,36.0,32.0,High,0-60,Less fe
+Bangalore,Turahalli,8860145141fffff,residential,1191,230,94,34.0,32.0,High,451-3500,Less fe
+Bangalore,Hemmigepura,886014513dfffff,residential,1525,191,86,36.0,32.0,High,451-3500,Less fe
+Bangalore,Hemmigepura,886014513bfffff,residential,307,53,17,31.0,32.0,Less,61-450,Less fe
+Bangalore,Hemmigepura,8860145139fffff,Unknown,131,20,10,42.0,32.0,High,61-450,Less fe
+Bangalore,Hemmigepura,8860145137fffff,Unknown,873,152,47,42.0,32.0,High,451-3500,Less fe
+Bangalore,Hemmigepura,8860145135fffff,Unknown,3103,478,248,38.0,32.0,High,451-3500,Less fe
+Bangalore,Hemmigepura,8860145133fffff,Unknown,878,125,55,38.0,32.0,High,451-3500,Less fe
+Bangalore,Hemmigepura,8860145131fffff,educational,1574,207,90,36.0,32.0,High,451-3500,Less fe
+Bangalore,Gattigere,886014512dfffff,leisure,1579,287,113,31.0,32.0,Less,451-3500,Less fe
+Bangalore,Gattigere,886014512bfffff,Unknown,2023,395,186,33.0,32.0,High,451-3500,Less fe
+Bangalore,Gattigere,8860145129fffff,residential,3738,685,311,34.0,32.0,High,3500+,High fe
+Bangalore,Gattigere,8860145127fffff,Unknown,2874,632,299,37.0,32.0,High,451-3500,Less fe
+Bangalore,Gattigere,8860145125fffff,leisure,3132,659,312,35.0,32.0,High,451-3500,Less fe
+Bangalore,Gattigere,8860145123fffff,residential,1972,403,187,37.0,32.0,High,451-3500,Less fe
+Bangalore,Gattigere,8860145121fffff,Unknown,2298,422,187,34.0,32.0,High,451-3500,Less fe
+Bangalore,Turahalli,886014511dfffff,residential,153,19,5,38.0,32.0,High,61-450,Less fe
+Bangalore,South Bidadi,886014511bfffff,Unknown,2,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Turahalli,8860145119fffff,leisure,11,2,1,25.0,32.0,Less,0-60,Less fe
+Bangalore,Hemmigepura,8860145117fffff,residential,125,19,5,26.0,32.0,Less,61-450,Less fe
+Bangalore,Hemmigepura,8860145115fffff,residential,63,5,1,50.0,32.0,High,61-450,Less fe
+Bangalore,South Bidadi,8860145113fffff,Unknown,71,12,3,17.0,32.0,Less,61-450,Less fe
+Bangalore,Hemmigepura,8860145111fffff,residential,41,8,1,33.0,32.0,High,0-60,Less fe
+Bangalore,Turahalli,886014510dfffff,residential,222,54,25,27.0,32.0,Less,61-450,Less fe
+Bangalore,Turahalli,886014510bfffff,residential,153,21,4,43.0,32.0,High,61-450,Less fe
+Bangalore,Turahalli,8860145109fffff,residential,467,117,37,30.0,32.0,Less,451-3500,Less fe
+Bangalore,Hemmigepura,8860145107fffff,Unknown,316,57,22,35.0,32.0,High,61-450,Less fe
+Bangalore,Turahalli,8860145105fffff,residential,358,71,28,30.0,32.0,Less,61-450,Less fe
+Bangalore,Turahalli,8860145101fffff,residential,191,34,16,32.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601450edfffff,,17,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,88601450dbfffff,,65,9,1,5.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601450d9fffff,,70,15,0,5.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601450d7fffff,,35,7,0,6.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,88601450d3fffff,,104,16,2,17.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601450bdfffff,,14,1,0,36.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,88601450adfffff,,357,18,2,23.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601450abfffff,,148,11,0,28.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,88601450a5fffff,,402,33,2,33.0,32.0,High,61-450,Less fe
+Bangalore,South Bidadi,88601450a3fffff,,14,0,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,88601450a1fffff,,75,6,0,15.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,886014509dfffff,,61,3,1,23.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014509bfffff,,19,8,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145099fffff,,34,3,0,12.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145097fffff,,251,17,3,27.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145093fffff,,48,29,10,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145091fffff,,14,4,1,20.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014508bfffff,,2,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145087fffff,,58,1,0,34.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,8860145085fffff,,19,4,0,40.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,8860145083fffff,,111,9,2,24.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,886014506dfffff,,286,52,7,20.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,886014506bfffff,,50,3,0,7.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145069fffff,,17,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145065fffff,,20,2,0,29.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145063fffff,,35,8,6,62.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,8860145061fffff,,143,22,14,12.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,886014504dfffff,,95,9,1,24.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,886014504bfffff,,30,8,1,50.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,8860145049fffff,,303,36,6,30.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860145047fffff,,18,5,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145045fffff,,23,1,1,33.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,8860145043fffff,,9,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014503dfffff,,6,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014503bfffff,,32,6,1,9.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145039fffff,,93,17,17,50.0,32.0,High,61-450,Less fe
+Bangalore,South Bidadi,8860145035fffff,,10,1,0,50.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,8860145031fffff,,45,5,0,42.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,8860145029fffff,,20,6,0,67.0,32.0,High,0-60,Less fe
+Bangalore,South Bidadi,8860145027fffff,Unknown,32,2,0,9.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,886014500dfffff,,14,1,0,14.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145009fffff,,6,1,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,South Bidadi,8860145007fffff,,86,7,6,89.0,32.0,High,61-450,Less fe
+Bangalore,South Bidadi,8860145005fffff,,109,5,0,66.0,32.0,High,61-450,Less fe
+Bangalore,South Bidadi,8860145001fffff,,14,1,0,38.0,32.0,High,0-60,Less fe
+Bangalore,Soladevanahalli,8860144b6dfffff,,114,17,5,33.0,32.0,High,61-450,Less fe
+Bangalore,Soladevanahalli,8860144b69fffff,,154,20,7,31.0,32.0,Less,61-450,Less fe
+Bangalore,Silvepura,8860144b65fffff,,117,25,4,13.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144b61fffff,,96,15,4,19.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144b5dfffff,,51,1,1,36.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144b5bfffff,,347,58,14,19.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144b59fffff,,303,56,18,21.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144b57fffff,,41,6,3,12.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b55fffff,,20,1,0,10.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b51fffff,,116,10,5,17.0,32.0,Less,61-450,Less fe
+Bangalore,Soladevanahalli,8860144b4dfffff,,2493,354,133,34.0,32.0,High,451-3500,Less fe
+Bangalore,Nelamangala,8860144b4bfffff,,21,3,1,15.0,32.0,Less,0-60,Less fe
+Bangalore,Chikkabanavara,8860144b49fffff,,47,12,7,21.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b45fffff,,49,10,4,33.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144b43fffff,,60,9,1,29.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b41fffff,,49,5,3,36.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144b3bfffff,,9,1,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144b39fffff,,77,8,1,21.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144b33fffff,,30,2,0,17.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b21fffff,,36,10,10,15.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b1dfffff,,67,6,1,12.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144b17fffff,,5,3,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144b15fffff,,123,19,1,39.0,32.0,High,61-450,Less fe
+Bangalore,Nelamangala,8860144b13fffff,,41,7,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b11fffff,,40,4,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b0bfffff,,32,5,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b07fffff,,5,1,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b05fffff,,19,3,3,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144b03fffff,,13,4,0,43.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144ae5fffff,,35,1,0,60.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144a6dfffff,,120,28,11,25.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144a69fffff,,14,6,1,50.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144a67fffff,,109,18,4,15.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144a65fffff,,123,25,7,20.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860144a59fffff,,3,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144a4bfffff,,3,1,0,100.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144a49fffff,,43,6,0,42.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144a47fffff,,5,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144a45fffff,,28,15,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144a41fffff,,13,5,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144a2dfffff,,153,11,2,17.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144a2bfffff,,3,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144a29fffff,,127,30,6,18.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144a27fffff,,161,24,6,16.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144a25fffff,,176,37,6,20.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144a23fffff,,51,8,2,19.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144a21fffff,,45,9,2,31.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144a19fffff,,4,2,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144a0bfffff,,12,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144a05fffff,,32,13,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144a01fffff,,22,5,1,12.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144953fffff,,76,3,0,5.0,32.0,Less,61-450,Less fe
+Bangalore,Hesarghatta,8860144945fffff,,44,17,8,10.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,886014491dfffff,,49,3,0,17.0,32.0,Less,0-60,Less fe
+Bangalore,Hesarghatta,8860144901fffff,,41,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,886014486dfffff,,5,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,886014485dfffff,,16,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144857fffff,,28,1,0,22.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144853fffff,,19,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144851fffff,,117,5,0,19.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,886014484dfffff,,164,26,9,18.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144849fffff,,74,7,3,12.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144847fffff,,82,8,2,23.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144845fffff,,28,2,1,14.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144843fffff,,124,1,0,19.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144841fffff,,201,25,4,14.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,886014483dfffff,,17,1,0,27.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,886014483bfffff,,28,1,0,11.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144839fffff,,118,4,1,4.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144833fffff,,104,11,2,22.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144831fffff,,37,3,0,7.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144829fffff,,28,1,0,11.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,886014481dfffff,,26,1,0,7.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,886014481bfffff,,8,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144819fffff,,5,1,0,100.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,8860144817fffff,,4,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144815fffff,,232,9,0,16.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144813fffff,,17,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Nelamangala,8860144811fffff,,57,10,3,33.0,32.0,High,0-60,Less fe
+Bangalore,Nelamangala,886014480dfffff,,139,19,1,14.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,886014480bfffff,,203,17,3,25.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144809fffff,,271,19,5,17.0,32.0,Less,61-450,Less fe
+Bangalore,Nelamangala,8860144803fffff,,454,40,4,16.0,32.0,Less,451-3500,Less fe
+Bangalore,Nelamangala,8860144801fffff,,217,11,1,23.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860144365fffff,,17,2,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,8860144361fffff,,3,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,886014435bfffff,,26,1,0,50.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,8860144355fffff,,24,3,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144353fffff,,7,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,886014434dfffff,,86,3,0,11.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860144345fffff,,42,4,0,29.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,886014433dfffff,,46,4,2,19.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144337fffff,,102,4,0,29.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,8860144331fffff,,49,4,0,42.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,8860144329fffff,,4,1,0,33.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,8860144327fffff,,11,2,0,29.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144325fffff,,14,1,1,40.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,8860144309fffff,,62,4,0,9.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144301fffff,,2,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144267fffff,,17,6,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144265fffff,,66,5,1,17.0,32.0,Less,61-450,Less fe
+Bangalore,South Bidadi,8860144253fffff,,11,1,1,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144239fffff,,10,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144237fffff,,11,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144235fffff,,6,1,0,25.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144233fffff,,8,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,886014422dfffff,,31,8,0,88.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,8860144201fffff,,5,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144167fffff,,4,1,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144165fffff,,40,1,0,27.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144163fffff,,2,1,0,100.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,886014415dfffff,,36,1,1,11.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144159fffff,,104,12,1,18.0,32.0,Less,61-450,Less fe
+Bangalore,Bidadi,886014414dfffff,,21,4,1,29.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144149fffff,,26,2,1,9.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144145fffff,,7,3,0,67.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,8860144143fffff,,15,5,2,50.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,886014413dfffff,,12,1,0,60.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,8860144135fffff,,60,1,0,34.0,32.0,High,0-60,Less fe
+Bangalore,Bidadi,8860144125fffff,,15,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,8860144113fffff,,3,2,0,0.0,32.0,Less,0-60,Less fe
+Bangalore,Bidadi,886014410dfffff,,16,1,0,75.0,32.0,High,0-60,Less fe
