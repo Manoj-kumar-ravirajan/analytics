@@ -1,0 +1,399 @@
+app_name,categories_l1,categories_l2,categories_l3
+hinge,dating,rest,dating
+aisle,dating,rest,dating
+bumble,dating,rest,dating
+coffee meets bagel,dating,rest,dating
+happn,dating,rest,dating
+okcupid,dating,rest,dating
+quackquack,dating,rest,dating
+tinder,dating,rest,dating
+trulymadly,dating,rest,dating
+woo,dating,rest,dating
+zomato,delivery_food,rest,delivery_food
+domino's pizza,delivery_food,rest,delivery_food
+dunzo,delivery_food,rest,delivery_food
+foodpanda,delivery_food,rest,delivery_food
+kfc india,delivery_food,rest,delivery_food
+mcdonald's india,delivery_food,rest,delivery_food
+starbucks india,delivery_food,rest,delivery_food
+uber eats,delivery_food,rest,delivery_food
+zomato,delivery_food,rest,delivery_food
+swiggy,delivery_food,rest,delivery_food
+grofers delivery app,delivery_grocery,rest,delivery_grocery
+bigbasket,delivery_grocery,rest,delivery_grocery
+big bazaar,delivery_grocery,rest,delivery_grocery
+grofers,delivery_grocery,rest,delivery_grocery
+instacart delivery app,delivery_grocery,rest,delivery_grocery
+spencers,delivery_grocery,rest,delivery_grocery
+aastha tv,devotional,rest,devotional
+sadhguru,devotional,rest,devotional
+divya tv,devotional,rest,devotional
+shemaroo bhakti,devotional,rest,devotional
+sri ganesh videos,devotional,rest,devotional
+sri bhakti channel,devotional,rest,devotional
+sri chakra tv,devotional,rest,devotional
+sri venkateswara bhakti channel,devotional,rest,devotional
+sri sankara tv,devotional,rest,devotional
+ola driver app,driver_app,driver_app,driver_app
+rapido captain,driver_app,driver_app,driver_app
+porter driver app,driver_app,driver_app,driver_app
+uber driver app,driver_app,driver_app,driver_app
+zepto driver app,driver_app,driver_app,driver_app
+zomato driver app,driver_app,driver_app,driver_app
+borzo driver app,driver_app,driver_app,driver_app
+shadowfax driver app,driver_app,driver_app,driver_app
+swiggy driver app,driver_app,driver_app,driver_app
+dunzo driver app,driver_app,driver_app,driver_app
+amazon shopping,ecommerce,rest,rest
+flipkart,ecommerce,rest,rest
+nykaa,ecommerce,rest,rest
+jiomart,ecommerce,rest,rest
+koovs,ecommerce,rest,rest
+limeroad,ecommerce,rest,rest
+medlife,ecommerce,rest,rest
+meesho,ecommerce,rest,rest
+voonik,ecommerce,rest,rest
+myntra,ecommerce,rest,rest
+netmeds,ecommerce,rest,rest
+nykaa,ecommerce,rest,rest
+1mg,ecommerce,rest,rest
+paytm mall,ecommerce,rest,rest
+pepperfry,ecommerce,rest,rest
+pharmeasy,ecommerce,rest,rest
+purplle,ecommerce,rest,rest
+ajio,ecommerce,rest,rest
+shein,ecommerce,rest,rest
+shiprocket driver app,ecommerce,rest,rest
+urbanclap,ecommerce,rest,rest
+zivame,ecommerce,rest,rest
+firstcry,ecommerce,rest,rest
+club factory,ecommerce,rest,rest
+ignou e-content,educational,educational,educational
+brainly,educational,educational,educational
+al jazeera english,educational,educational,educational
+bansal classes,educational,educational,educational
+aakash,educational,educational,core_educational
+byju,educational,educational,core_educational
+byte,educational,educational,educational
+chegg study,educational,educational,core_educational
+colegeduniya,educational,educational,educational
+course hero,educational,educational,educational
+coursera,educational,educational,educational
+doubtnut,educational,educational,educational
+duolingo,educational,educational,educational
+embibe,educational,educational,educational
+fiitjee,educational,educational,educational
+collegedekho,educational,educational,educational
+goodreads,educational,educational,educational
+google classroom,educational,educational,core_educational
+happify,educational,educational,educational
+pocket,educational,educational,educational
+caclubindia,educational,educational,educational
+linkedin learning,educational,educational,educational
+meetup,educational,educational,educational
+meritnation,educational,educational,educational
+photomath,educational,educational,educational
+microsoft math solver,educational,educational,core_educational
+simplilearn,educational,educational,core_educational
+moodle,educational,educational,core_educational
+ncert books,educational,educational,educational
+shiksha mitra,educational,educational,educational
+quizlet,educational,educational,educational
+reddit,educational,educational,educational
+shiksha.com,educational,educational,educational
+toppr,educational,educational,educational
+udemy,educational,educational,educational
+unacademy,educational,educational,educational
+vedantu,educational,educational,core_educational
+vidyakul,educational,educational,core_educational
+my study life,educational,educational,educational
+whitehat jr,educational,educational,educational
+geeks for geeks,educational,educational,educational
+diksha,educational,educational,core_educational
+e-pg pathshala,educational,educational,core_educational
+swayam,educational,educational,educational
+mycbseguide,educational,educational,core_educational
+cbse saransh,educational,educational,educational
+stack overflow,educational,educational,educational
+coursera,educational,educational,educational
+edx,educational,educational,educational
+khan academy,educational,educational,educational
+physics wallah,educational,educational,core_educational
+bookmyshow,entertainment,rest,educational
+dream11,fantasy_sports,rest,fantasy_sports
+mlb,fantasy_sports,rest,fantasy_sports
+cricbuzz,fantasy_sports,rest,fantasy_sports
+cricplay,fantasy_sports,rest,fantasy_sports
+dream11,fantasy_sports,rest,fantasy_sports
+espncricinfo,fantasy_sports,rest,fantasy_sports
+espn,fantasy_sports,rest,fantasy_sports
+fanfight,fantasy_sports,rest,fantasy_sports
+fantasy power 11,fantasy_sports,rest,fantasy_sports
+my11circle,fantasy_sports,rest,fantasy_sports
+nfl,fantasy_sports,rest,fantasy_sports
+nba,fantasy_sports,rest,fantasy_sports
+nhl,fantasy_sports,rest,fantasy_sports
+paytm first games,fantasy_sports,rest,fantasy_sports
+vision11,fantasy_sports,rest,fantasy_sports
+yahoo fantasy sports,fantasy_sports,rest,fantasy_sports
+myteam11,fantasy_sports,rest,fantasy_sports
+angel broking,finance_investment,finance_investment,finance_investment
+hdfc securities,finance_investment,finance_investment,finance_investment
+icici direct,finance_investment,finance_investment,finance_investment
+kotak stock trader,finance_investment,finance_investment,finance_investment
+angel broking,finance_investment,finance_investment,finance_investment
+groww,finance_investment,finance_investment,finance_investment
+sharekhan,finance_investment,finance_investment,finance_investment
+hdfc mobile banking,finance_investment,finance_investment,finance_investment
+et money,finance_investment,finance_investment,finance_investment
+etmoney,finance_investment,finance_investment,finance_investment
+upstox,finance_investment,finance_investment,finance_investment
+zerodha kite,finance_investment,finance_investment,finance_investment
+kite by zerodha,finance_investment,finance_investment,finance_investment
+namma partner,finance_investment,finance_investment,finance_investment
+sbi yono,finance_investment,finance_investment,finance_investment
+nps,finance_investment,finance_investment,finance_investment
+bloomberg,finance_news,rest,rest
+business standard,finance_news,rest,rest
+economic times,finance_news,rest,rest
+mint,finance_news,rest,rest
+moneycontrol,finance_news,rest,rest
+airtel thanks,finance_transactions,rest,rest
+axis mobile,finance_transactions,rest,rest
+cred,finance_transactions,rest,rest
+freecharge,finance_transactions,rest,rest
+bhim upi,finance_transactions,rest,rest
+google pay,finance_transactions,rest,rest
+mobikwik,finance_transactions,rest,rest
+paytm,finance_transactions,rest,rest
+paytm money,finance_transactions,rest,rest
+phonepe,finance_transactions,rest,rest
+ring,finance_transactions,rest,rest
+vi (vodafone idea) app,finance_transactions,rest,rest
+paytm money,finance_transactions,rest,rest
+cred,finance_transactions,rest,rest
+afterlight,gaming,gaming,gaming
+free fire,gaming,gaming,gaming
+ludo king,gaming,gaming,gaming
+pubg mobile,gaming,gaming,gaming
+apollo 24/7,health,rest,health
+ayurveda yoga,health,rest,health
+cure.fit,health,rest,health
+fitbit,health,rest,health
+fiton,health,rest,health
+fittr,health,rest,health
+healthifyme,health,rest,health
+helo,health,rest,health
+mfine,health,rest,health
+myfitnesspal,health,rest,health
+nike training club,health,rest,health
+practo,health,rest,health
+strava,health,rest,health
+arlo,home_security,rest,rest
+august home,home_security,rest,rest
+ecobee,home_security,rest,rest
+wyze,home_security,rest,rest
+aajtak,news,rest,rest
+abp live,news,rest,rest
+cnbc tv18,news,rest,rest
+dainik jagran,news,rest,rest
+feedly,news,rest,rest
+eenadu,news,rest,rest
+google news,news,rest,rest
+hindustan times,news,rest,rest
+the indian express,news,rest,rest
+malayala manorama,news,rest,rest
+ndtv news,news,rest,rest
+inshorts,news,rest,rest
+reuters,news,rest,rest
+star sports,news,rest,rest
+the athletic,news,rest,rest
+news by times of india,news,rest,rest
+cnn,news,rest,rest
+bbc news,news,rest,rest
+bbc sport,news,rest,rest
+moneycontrol,news_finance,rest,rest
+yahoo finance,news_finance,rest,rest
+nishtha,office,office,office
+wunderlist,office,office,office
+slack,office,office,core_office
+asana,office,office,core_office
+confluence,office,office,core_office
+jira,office,office,core_office
+trello,office,office,office
+ms authenticator,office,office,core_office
+cisco,office,office,core_office
+webex,office,office,office
+dropbox,office,office,office
+github,office,office,core_office
+google authenticator,office,office,office
+google analytics,office,office,core_office
+microsoft office suite,office,office,office
+microsoft 365,office,office,office
+outlook,office,office,office
+onedrive,office,office,office
+microsoft teams,office,office,office
+intune  company portal,office,office,core_office
+pocket,office,office,office
+miro,office,office,core_office
+slack,office,office,core_office
+trello,office,office,core_office
+zoho mail,office,office,core_office
+zoho meeting,office,office,core_office
+zoom,office,office,office
+aha,ott,rest,rest
+altbalaji,ott,rest,rest
+amazon prime video,ott,rest,rest
+alt balaji,ott,rest,rest
+eros now,ott,rest,rest
+zee5,ott,rest,rest
+hotstar,ott,rest,rest
+jio cinema,ott,rest,rest
+jiotv,ott,rest,rest
+netflix,ott,rest,rest
+shemaroome,ott,rest,rest
+sonyliv,ott,rest,rest
+sun nxt,ott,rest,rest
+voot,ott,rest,rest
+voot,ott,rest,rest
+zee5,ott,rest,rest
+disney+ hotstar,ott,rest,rest
+hike,social,rest,core_social
+chingari,social,rest,social
+facebook,social,rest,core_social
+messenger,social,rest,core_social
+instagram,social,rest,core_social
+mx takatak,social,rest,social
+linkedin,social,rest,core_social
+dubsmash,social,rest,social
+bolo indya,social,rest,social
+microsoft kaizala,social,rest,social
+moj,social,rest,core_social
+mxtakatak,social,rest,social
+pinterest,social,rest,core_social
+roposo,social,rest,social
+groupme,social,rest,social
+skype,social,rest,core_social
+smule,social,rest,social
+snapchat,social,rest,core_social
+starmaker,social,rest,social
+wechat,social,rest,social
+twitter,social,rest,core_social
+vero,social,rest,social
+viber,social,rest,social
+whatsapp,social,rest,core_social
+tiktok for business,social,rest,social
+tiktok,social,rest,core_social
+flipboard,social,rest,social
+josh,social,rest,core_social
+sharechat,social,rest,core_social
+line,social,rest,social
+telegram,social,rest,social
+amazon music,streaming_music,rest,streaming_music
+apple music,streaming_music,rest,streaming_music
+wynk music,streaming_music,rest,streaming_music
+gaana,streaming_music,rest,streaming_music
+hungama music,streaming_music,rest,streaming_music
+jiosaavn,streaming_music,rest,streaming_music
+soundcloud,streaming_music,rest,streaming_music
+spotify,streaming_music,rest,streaming_music
+bsnl my circle,telecom,rest,rest
+qr code reader,tools,rest,rest
+accuweather,tools,rest,rest
+weather & radar,tools,rest,rest
+adobe lightroom,tools,rest,rest
+adobe scan,tools,rest,rest
+weather live,tools,rest,rest
+amazon alexa,tools,rest,rest
+calculator,tools,rest,rest
+clock,tools,rest,rest
+evernote,tools,rest,rest
+google sheets,tools,rest,rest
+google slides,tools,rest,rest
+google drive,tools,rest,rest
+google home,tools,rest,rest
+google maps,tools,rest,rest
+google photos,tools,rest,rest
+google calendar,tools,rest,rest
+gmail,tools,rest,rest
+hangouts,tools,rest,rest
+youtube,tools,rest,rest
+imd weather,tools,rest,rest
+invideo,tools,rest,rest
+jiochat,tools,rest,rest
+likee,tools,rest,rest
+camera mx,tools,rest,rest
+ms edge,tools,rest,rest
+microsoft excel,tools,rest,rest
+microsoft lens,tools,rest,rest
+microsoft onenote,tools,rest,rest
+file commander,tools,rest,rest
+money lover,tools,rest,rest
+mx player,tools,rest,rest
+snapseed,tools,rest,rest
+retrica,tools,rest,rest
+walnut,tools,rest,rest
+1weather,tools,rest,rest
+picsart,tools,rest,rest
+prisma,tools,rest,rest
+smartthings,tools,rest,rest
+splitwise,tools,rest,rest
+todoist,tools,rest,rest
+truecaller,tools,rest,rest
+tumblr,tools,rest,rest
+tunein radio,tools,rest,rest
+the weather channel,tools,rest,rest
+weatherbug,tools,rest,rest
+weather underground,tools,rest,rest
+yahoo weather,tools,rest,rest
+skymet weather,tools,rest,rest
+triller,tools,rest,rest
+notion,tools,rest,rest
+airbnb,travel_bookings,rest,rest
+booking.com,travel_bookings,rest,rest
+cleartrip,travel_bookings,rest,rest
+expedia,travel_bookings,rest,rest
+goibibo,travel_bookings,rest,rest
+kayak,travel_bookings,rest,rest
+makemytrip,travel_bookings,rest,rest
+mparivahan,travel_bookings,rest,rest
+oyo,travel_bookings,rest,rest
+skyscanner,travel_bookings,rest,rest
+tripadvisor,travel_bookings,rest,rest
+trivago,travel_bookings,rest,rest
+yatra,travel_bookings,rest,rest
+air india,travel_bookings,rest,rest
+indigo,travel_bookings,rest,rest
+irctc rail connect,travel_bookings,rest,rest
+redbus,travel_bookings,rest,rest
+spicejet,travel_bookings,rest,rest
+indian railways,travel_bookings,rest,rest
+mumbai metro,travel_metro,ride haling,rest
+mumbai metro one,travel_metro,ride haling,rest
+namma metro,travel_metro,ride haling,rest
+chennai metro,travel_metro,ride haling,rest
+delhi metro,travel_metro,ride haling,rest
+kolkata metro,travel_metro,ride haling,rest
+bangalore metro,travel_metro,ride haling,rest
+delhi metro navigator,travel_metro,ride haling,rest
+kolkata metro guide,travel_metro,ride haling,rest
+blusmart,travel_ridehailing,ride haling,travel_ridehailing
+quick ride,travel_ridehailing,ride haling,travel_ridehailing
+quickride,travel_ridehailing,ride haling,travel_ridehailing
+driveu driver app,travel_ridehailing,ride haling,travel_ridehailing
+ola,travel_ridehailing,ride haling,travel_ridehailing
+rome2rio,travel_ridehailing,ride haling,travel_ridehailing
+uber,travel_ridehailing,ride haling,travel_ridehailing
+namma yatri,travel_ridehailing,ride haling,travel_ridehailing
+jugnoo,travel_ridehailing,ride haling,travel_ridehailing
+in drive,travel_ridehailing,ride haling,travel_ridehailing
+fossil smartwatches,wearable,rest,rest
+garmin connect,wearable,rest,rest
+zepp (amazfit),wearable,rest,rest
+huawei health,wearable,rest,rest
+mobvoi,wearable,rest,rest
+oneplus health,wearable,rest,rest
+rosetta stone,wearable,rest,rest
+samsung galaxy wearable,wearable,rest,rest
+v-health,wearable,rest,rest
+mi fit,wearable,rest,rest

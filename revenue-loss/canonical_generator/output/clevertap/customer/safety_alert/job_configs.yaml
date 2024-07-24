@@ -1,0 +1,41 @@
+dag_configs:
+- name: CANONICAL_CUSTOMER_SAFETY_ALERT
+  run_config:
+    schedule_config:
+      start_date: "2023-06-19T00:00:00"
+      schedule_interval: DAILY
+      custom_time:
+        hour: 2
+        minute: 0
+        weekday: 0
+    cluster_config:
+      name: rapido-ct-safety-alert
+      worker_machine_type: "e2-standard-8"
+      master_machine_type: "e2-standard-8"
+      image: "1.5-debian10"
+      worker_count: 2
+      idle_ttl: 3600
+      preembtible_worker_percent: 0.8
+      properties:
+        "spark:spark.dynamicAllocation.enabled": "true"
+        "spark:spark.shuffle.service.enabled": "true"
+  job_configs:
+  - !Canonical
+    job_name: 'canonical_1'
+    jar_path: gs://{{ var.value.get('environment', 'staging' ) }}-data-airflow/canonical/canonical-fw-jars/canonical-framework-v1.2.1-209-g5140331-jar-with-dependencies.jar
+    input_config:
+      bucket: gs://{{ var.value.get('environment', 'staging' ) }}-data-raw
+      base_data_path: "clevertap-customer/clevertap_customer_events_v2_delta/eventname=safety_alert"
+      input_format: parquet
+      mapping_filepath: gs://{{ var.value.get('environment', 'staging' ) }}-data-airflow/dags/canonical/mappings/clevertap/customer/v1.0.0/iceberg/safety_alert.yaml
+      filters: " ( execution_yyyymmdd = 'runtime_yyyymmdd' and execution_hh>'00' )\
+        \ or ( execution_yyyymmdd = 'next_execution_yyyymmdd' and execution_hh='00'\
+        \ )"
+      input_partition_column_names:
+        yyyymmdd: 'execution_yyyymmdd'
+    output_config:
+      bucket: gs://{{ var.value.get('environment', 'staging' ) }}-data-canonical
+      table_name: "iceberg_customer_safety_alert_v1"
+      output_path: "storage/clevertap-customer/safety_alert"
+      output_format: "iceberg"
+      schema_name: "clevertap_iceberg_internal"

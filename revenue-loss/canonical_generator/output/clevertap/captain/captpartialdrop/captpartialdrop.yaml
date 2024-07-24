@@ -1,0 +1,303 @@
+partition_columns:
+- yyyymmdd
+- hh
+mappings:
+  device_info_app_version:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo.appVersion
+    using: JsonExtract
+  device_info_browser:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo.browser
+    using: JsonExtract
+  device_info_dimensions_height:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo.dimensions.height
+    using: JsonExtract
+  device_info_dimensions_unit:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo.dimensions.unit
+    using: JsonExtract
+  device_info_dimensions_width:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo.dimensions.width
+    using: JsonExtract
+  device_info_dpi:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo.dpi
+    using: JsonExtract
+  device_info_make:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo.make
+    using: JsonExtract
+  device_info_model:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo.model
+    using: JsonExtract
+  device_info_os_version:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo.osVersion
+    using: JsonExtract
+  device_info_sdk_version:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo.sdkVersion
+    using: JsonExtract
+  profile_all_identities:
+    source_field: profile
+    type: String
+    json_path: $.profile.all_identities
+    using: JsonExtract
+  profile_email:
+    source_field: profile
+    type: String
+    json_path: $.profile.email
+    using: JsonExtract
+  profile_identity:
+    source_field: profile
+    type: String
+    json_path: $.profile.identity
+    using: JsonExtract
+  profile_name:
+    source_field: profile
+    type: String
+    json_path: $.profile.name
+    using: JsonExtract
+  profile_phone:
+    source_field: profile
+    type: String
+    json_path: $.profile.phone
+    using: JsonExtract
+  profile_platform:
+    source_field: profile
+    type: String
+    json_path: $.profile.platform
+    using: JsonExtract
+  event_props_capt_click:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.capt_click
+    using: JsonExtract
+  event_props_capt_reason:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.capt_reason
+    using: JsonExtract
+  event_props_city:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.city
+    using: JsonExtract
+  event_props_city_id:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.cityId
+    using: JsonExtract
+  event_props_clever_tap_id:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.cleverTapId
+    using: JsonExtract
+  event_props_epoch:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.epoch
+    using: JsonExtract
+  event_props_hhmmss:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.hhmmss
+    using: JsonExtract
+  event_props_latitude:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.latitude
+    using: JsonExtract
+  event_props_longitude:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.longitude
+    using: JsonExtract
+  event_props_occurred_date:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.occurred_date
+    using: JsonExtract
+  event_props_order_type:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.orderType
+    using: JsonExtract
+  event_props_order_id:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.order_id
+    using: JsonExtract
+  event_props_phone_number:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.phone_number
+    using: JsonExtract
+  event_props_user_id:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.userId
+    using: JsonExtract
+  event_props_yyyymmdd:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.yyyymmdd
+    using: JsonExtract
+  event_props_captain_message:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.captain_message
+    using: JsonExtract
+  event_props_ct_app_version:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.CTAppVersion
+    using: JsonExtract
+  event_props_CTlatitude:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.CTLatitude
+    using: JsonExtract
+  event_props_CTlongitude:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.CTLongitude
+    using: JsonExtract
+  event_props_ct_source:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.CTSource
+    using: JsonExtract
+  event_props_ct_session_id:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps.CTSessionId
+    using: JsonExtract
+  device_info:
+    source_field: deviceInfo
+    type: String
+    json_path: $.deviceInfo
+    using: JsonExtract
+  profile:
+    source_field: profile
+    type: String
+    json_path: $.profile
+    using: JsonExtract
+  event_props:
+    source_field: eventProps
+    type: String
+    json_path: $.eventProps
+    using: JsonExtract
+  created_ist:
+    json_path: ' '
+    source_field: ' '
+    type: String
+    using: Expression
+    expression: date_time_from_utc_epoch(epoch,"GMT+5:30")
+  created_utc:
+    json_path: ' '
+    source_field: ' '
+    type: String
+    using: Expression
+    expression: date_time_from_utc_epoch(epoch,"GMT")
+  event_props_ct_location:
+    json_lat_path: $.eventProps.CTLatitude
+    json_long_path: $.eventProps.CTLongitude
+    source_field: eventProps
+    using: Location
+    type: Double
+  event_props_location:
+    json_lat_path: $.eventProps.latitude
+    json_long_path: $.eventProps.longitude
+    source_field: eventProps
+    using: Location
+    type: Double
+  yyyymmdd:
+    type: string
+    source_field: ' '
+    using: Expression
+    expression: yyyyMMdd_ist_from_utc_epoch(epoch)
+  hhmmss:
+    type: string
+    source_field: ' '
+    using: Expression
+    expression: hhmmss_ist_from_utc_epoch(epoch)
+  quarter_hour:
+    type: string
+    source_field: ' '
+    using: Expression
+    expression: quarter_hour_ist_from_utc_epoch(epoch)
+  hh:
+    type: string
+    source_field: ' '
+    using: Expression
+    expression: hour_ist_from_utc_epoch(epoch)
+  epoch:
+    using: Cast
+    type: long
+    source_field: epoch
+  updated_epoch:
+    using: Cast
+    type: long
+    source_field: epoch
+  updated_hhmmss:
+    type: string
+    source_field: ' '
+    using: Expression
+    expression: hhmmss_ist_from_utc_epoch(epoch)
+  updated_quarter_hour:
+    type: string
+    source_field: ' '
+    using: Expression
+    expression: quarter_hour_ist_from_utc_epoch(epoch)
+  updated_yyyymmdd:
+    type: string
+    source_field: ' '
+    using: Expression
+    expression: yyyyMMdd_ist_from_utc_epoch(epoch)
+  updated_hh:
+    type: string
+    source_field: ' '
+    using: Expression
+    expression: hour_ist_from_utc_epoch(epoch)
+sql_join_mappings:
+  event_props_ct_location_hex_8:
+    columns_to_select:
+      city: string
+      cluster: string
+    hdfs_path: gs://production-data-datasets/storage/city_cluster_hex_logs_v2
+    format: parquet
+    filter:
+      type: LATEST
+      value: executiondate
+    join_columns:
+      event_props_ct_location_hex_8: hex_id
+    join_type: left
+    join_optimization: BROADCAST
+  event_props_location_hex_8:
+    columns_to_select:
+      city: string
+      cluster: string
+    hdfs_path: gs://production-data-datasets/storage/city_cluster_hex_logs_v2
+    format: parquet
+    filter:
+      type: LATEST
+      value: executiondate
+    join_columns:
+      event_props_location_hex_8: hex_id
+    join_type: left
+    join_optimization: BROADCAST

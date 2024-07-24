@@ -1,0 +1,63 @@
+Hyderabad Link Pickup Cluster
+-- list 1 -> 128
+
+    ['AOC Centre', 'Alwal', 'Alwal 2', 'Ambar Chreuvu', 'Amberpet','Ameenpur', 'Attapur 2 ', 
+    'BHEL', 'BJR Nagar', 'BJR Nagar 2','Bachupally', 'Bahadurguda', 'Balaji Nagar', 'Balanagar','Balanagar 2', 
+    'Bandlaguda Jagir', 'Bio Diversity Park Gachibowli','Bodduppal', 'Botanical Garden Gachibowli', 'Bowrampet',
+    'Dayanand Nagar Railway Station', 'Dilsukhnagar','Doctors Colony Madhapur', 'Durgam Cheruvu', 
+    'ECIL','ESI Hospital Metro', 'Erragadda', 'Erragadda Sunday Market','Fox Sagar Lake', 
+    'Gachibowli', 'Gajularamaram', 'Gandi Maisamma','Gandipet ', 'Gowlidoddy', 
+    'Habsiguda', 'Hafeezpet','Hayath Nagar', 'Hitech City', 'Hitech City 2', 'Hussian Sagar',
+    'ISB Nanakramguda', 'Jeedimetla', 'Jeedimetla Industrial Estate','Jubilee Hills', 'Jubilee Hills KBR National Park',
+    'Kakatiya Hills', 'Kavuri Hills', 'Kondapur', 'Kothaguda','Kothaguda 2', 'Kothaguda X Road', 'Kowkoor', 
+    'Kukatpally','Kukatpally 3', 'Kukatpally Phase 5 7', 'Kukatpally Phase 6',
+    'L B Nagar Metro', 'Lal Darwaza', 'Lalaguda', 'Langar Houz','Lingampalli', 
+    'Madhapur', 'Madhapur Metro', 'Malkajgiri','Mallapur', 'Manikonda', 'Manikonda Dargah Rd', 'Mansoorabad','Marredpally', 
+    'Maulana Azad Urdu University', 'Medchal','Medchal 2', 'Miyapur 2', 'Miyapur Cross Road', 'Moosarambagh',
+    'NGRI', 'Nacharam', 'Nagole ', 'Nallagandla', 'Nanakramguda 2','Nandana Vanam', 'Narsingi', 'Nizampet 2', 'Nizampet 3','Nizampet Talaab', 
+    'Osmania', 'Patancheruvu', 'Patel Nagar','Picket Marredpally', 'Pocharam', 'Quthbullapur','RG Cricket Stadium', 'Ramanthapur', 'Rethibowli',
+    'SBI Officers Quarters', 'Santosh Nagar West', 'Saroor Nagar','Saroor Nagar Lake Park', 'Secunderabad 2', 
+    'Shamirpet','Shamirpet 2 - Keesara', 'Shamshabad', 'Shamshabad 2 - Airport','Sitafalmandi', 'Sri Ramnagar', 'Suraram', 
+    'Tarnaka','Telecom Nagar Gachibowli', 'Tellapur', 'Tellapur Road','Thirmulgerry', 'Timber Lake Colony Gachibowli', 
+    'Uppal','Uppal 2', 'Upperpally ', 'Victoria Memorial Metro','West Marredpally', 'Wipro Gachibowli Campus','Wipro Nanakramguda Circle', 
+    'Yakutpura Railway Station','dammaiguda', 'gopanpalle', 'kharmanghat', 'kistareddypet','kompally', 'mrugavani national park', 'sainikpuri', 'shilparamam']
+
+
+-- list 2 
+    -- mutual 
+    ['Bachupally', 'Balaji Nagar', 'NGRI', 'Nandana Vanam', 'Pocharam','Ramanthapur', 'SBI Officers Quarters', 'Shamshabad 2 - Airport','Tellapur', 
+    'Tellapur Road', 'Wipro Nanakramguda Circle','kompally', 'Bandlaguda Jagir', 'Bowrampet', 'Durgam Cheruvu','Medchal', 
+    'Patel Nagar', 'mrugavani national park', 'Bahadurguda', 'Bodduppal', 'Dilsukhnagar', 'ECIL', 'Gandi Maisamma', 'Gandipet ', 'Jubilee Hills',
+    'Jubilee Hills KBR National Park', 'L B Nagar Metro', 'Medchal 2', 'Nagole ', 'Picket Marredpally', 'RG Cricket Stadium',
+    'Saroor Nagar', 'Tarnaka', 'Timber Lake Colony Gachibowli', 'Uppal', 'Uppal 2', 'West Marredpally', 'shilparamam']
+
+    -- new
+    ['Abids', 'Ashok Nagar 2', 'Basheerbagh', 'Bharath Nagar Metro Station', 'City Civil Court', 'Dabirpura', 'Gandhi Bhavan',
+    'Jubilee Hills Apollo Hospital', 'Khairatabad', 'Koti', 'Lakdikapool', 'Malakpet Metro Station', 'Mehedipatman 3', 'Nizampet', 'Prakash Nagar Metro Station']
+
+        
+-- New 20 list (10 + 10 from list 1 and list 2) 
+
+-- 10/128 from list 1
+Ameenpur
+Balanagar 2
+dammaiguda
+Hayath Nagar
+Jeedimetla 
+Kowkoor
+Kukatpally 3
+Mansoorabad
+Quthbullapur
+sainikpuri
+
+-- 10 from list 2 
+Abids
+Ashok Nagar 2
+Bharath Nagar Metro Station
+City Civil Court
+Gandhi Bhavan
+Jubilee Hills Apollo Hospital
+Koti
+Lakdikapool
+Mehedipatman 3
+Nizampet
