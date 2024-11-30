@@ -1,0 +1,25 @@
+CREATE OR REPLACE VIEW hive.canonical.iceberg_log_telemetry_ads_impressions_immutable_full AS 
+
+
+SELECT * FROM 
+
+( 
+    SELECT 
+            epoch , yyyymmdd , hhmmss , quarter_hour , hh , updated_epoch , updated_yyyymmdd , updated_hhmmss , updated_quarter_hour , updated_hh , event_epoch , event_yyyymmdd , event_hhmmss , event_quarter_hour , event_hh , id , version , createdon , updatedat , userid , adid , configid , pagename , pagevariant , slotname , slottype , cardposition , format , os , appversion , responsetype , responsedata , clickurl , sourcepriority , eventname , city , service , orderstatus , autoscrollflag , totalcardcount, 
+            '' metadata, '' metadata1, '' aduuid, '' servicedetailid, '' orderid, '' isprefetched, '' responsestatus  
+    FROM 
+            iceberg.canonical_internal.iceberg_log_telemetry_ads_impressions_v1_immutable 
+    WHERE 
+            (yyyymmdd <= '20240626') 
+
+    UNION ALL 
+
+    SELECT  
+            epoch , yyyymmdd , hhmmss , quarter_hour , hh , updated_epoch , updated_yyyymmdd , updated_hhmmss , updated_quarter_hour , updated_hh , event_epoch , event_yyyymmdd , event_hhmmss , event_quarter_hour , event_hh , id , version , createdon , updatedat , userid , adid , configid , pagename , pagevariant , slotname , slottype , cardposition , format , os , appversion , responsetype , responsedata , clickurl , sourcepriority , eventname , city , service , orderstatus , autoscrollflag , totalcardcount, 
+            metadata, metadata1, aduuid, servicedetailid, orderid, isprefetched, responsestatus  
+    FROM 
+            iceberg.canonical_internal.iceberg_log_telemetry_ads_impressions_immutable_v3 
+    WHERE 
+            (yyyymmdd >= '20240626') 
+        
+) AS cte
