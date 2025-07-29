@@ -1,0 +1,172 @@
+Last login: Wed Apr 24 14:15:36 on ttys000
+(base) rapido@MacBook-Pro-7 ~ % 
+(base) rapido@MacBook-Pro-7 ~ % 
+(base) rapido@MacBook-Pro-7 ~ % 
+(base) rapido@MacBook-Pro-7 ~ % ls
+Applications	Documents	Library		Music		Public		ai_overlay_tmp	anaconda3	git-ssh-key	master
+Desktop		Downloads	Movies		Pictures	PycharmProjects	airflow		analytics	local-datasets
+(base) rapido@MacBook-Pro-7 ~ % 
+(base) rapido@MacBook-Pro-7 ~ % 
+(base) rapido@MacBook-Pro-7 ~ % cd analytics 
+(base) rapido@MacBook-Pro-7 analytics % 
+(base) rapido@MacBook-Pro-7 analytics % 
+(base) rapido@MacBook-Pro-7 analytics % 
+(base) rapido@MacBook-Pro-7 analytics % git clone https://github.com/roppenlabs/dse-iAllocator.git
+Cloning into 'dse-iAllocator'...
+remote: Enumerating objects: 33854, done.
+remote: Counting objects: 100% (6817/6817), done.
+remote: Compressing objects: 100% (2514/2514), done.
+remote: Total 33854 (delta 4417), reused 6290 (delta 4275), pack-reused 27037
+Receiving objects: 100% (33854/33854), 93.92 MiB | 15.10 MiB/s, done.
+Resolving deltas: 100% (21802/21802), done.
+(base) rapido@MacBook-Pro-7 analytics % ls
+check.sql		connection.ipynb	customer		customer-retention	dse-iAllocator		pricing			revenue-loss		sameer			template_copy_me.ipynb
+(base) rapido@MacBook-Pro-7 analytics % 
+(base) rapido@MacBook-Pro-7 analytics % 
+(base) rapido@MacBook-Pro-7 analytics % 
+(base) rapido@MacBook-Pro-7 analytics % 
+(base) rapido@MacBook-Pro-7 analytics % cd dse-iAllocator 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status
+On branch develop
+Your branch is up to date with 'origin/develop'.
+
+nothing to commit, working tree clean
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git checkout -b subs_w18_2024
+Switched to a new branch 'subs_w18_2024'
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status
+On branch subs_w18_2024
+nothing to commit, working tree clean
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status
+On branch subs_w18_2024
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   customer/allocator/allocator/subscription/configs/city_config.yaml
+	modified:   customer/allocator/allocator/subscription/configs/runner_config.yaml
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	customer/allocator/allocator/subscription/configs/old_configs/2024/w17_config.yaml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git add customer/allocator/allocator/subscription/configs/old_configs/2024/w17_config.yaml
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git commit -m "w17 config copy saved"
+[subs_w18_2024 a6e87383] w17 config copy saved
+ 1 file changed, 1196 insertions(+)
+ create mode 100644 customer/allocator/allocator/subscription/configs/old_configs/2024/w17_config.yaml
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status
+On branch subs_w18_2024
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   customer/allocator/allocator/subscription/configs/city_config.yaml
+	modified:   customer/allocator/allocator/subscription/configs/runner_config.yaml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git add customer/allocator/allocator/subscription/city_config.py 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status                                               
+On branch subs_w18_2024
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   customer/allocator/allocator/subscription/configs/city_config.yaml
+	modified:   customer/allocator/allocator/subscription/configs/runner_config.yaml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git add .
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status
+On branch subs_w18_2024
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   customer/allocator/allocator/subscription/configs/city_config.yaml
+	modified:   customer/allocator/allocator/subscription/configs/runner_config.yaml
+
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git commit -m "removed ahmedabad bike from recommendation and also removed all auto city except jaipur from recommendation"
+[subs_w18_2024 8d42d6fd] removed ahmedabad bike from recommendation and also removed all auto city except jaipur from recommendation
+ 2 files changed, 20 insertions(+), 85 deletions(-)
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status
+On branch subs_w18_2024
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   customer/allocator/allocator/subscription/configs/runner_config.yaml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git add .
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git commit -m "left 1 auto and platform city for pipeline consistency"
+[subs_w18_2024 da89c2ec] left 1 auto and platform city for pipeline consistency
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status
+On branch subs_w18_2024
+nothing to commit, working tree clean
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status
+On branch subs_w18_2024
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   customer/allocator/allocator/subscription/configs/city_config.yaml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status
+On branch subs_w18_2024
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   customer/allocator/allocator/subscription/configs/city_config.yaml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git add .
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git commit -m "made changes for lucknow,ludhiyana & chandigarh"
+[subs_w18_2024 db14c477] made changes for lucknow,ludhiyana & chandigarh
+ 1 file changed, 19 insertions(+), 10 deletions(-)
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git status
+On branch subs_w18_2024
+nothing to commit, working tree clean
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git checkout develop
+Switched to branch 'develop'
+Your branch is up to date with 'origin/develop'.
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git pull -r
+Already up to date.
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git checkout subs_w18_2024
+Switched to branch 'subs_w18_2024'
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git merge develop
+Already up to date.
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 
+(base) rapido@MacBook-Pro-7 dse-iAllocator % git push origin subs_w18_2024
+remote: Write access to repository not granted.
+fatal: unable to access 'https://github.com/roppenlabs/dse-iAllocator.git/': The requested URL returned error: 403
+(base) rapido@MacBook-Pro-7 dse-iAllocator % 

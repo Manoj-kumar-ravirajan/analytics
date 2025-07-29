@@ -1,0 +1,123 @@
+Session level Analytics
+- How many screendroff users are doing ?
+- After how much time of request usually screen drop off happens
+- did user retry with multiple service ?
+- what was the price delta of the 2 service the user retried for
+- median time to go to RR
+- median time spent on CPL
+- median tme to FE
+- no of unserviceable FEs in a session
+- time to cancel 
+- did user change pickup hex
+- did user change drop hex
+
+
+
+Session Considered Events – AO, FE, CPL, RR, Screen Drop-off, Post Order Screen
+
+Time-based analysis:
+Time taken from AO to FE
+Time taken from FE to RR
+Time taken from AO to RR
+Time spent on CPL
+Time taken to cancel a request (COBRM/COBRA/OCARA)
+Time taken for the 1st screen drop-off
+
+Multiple FE/RR:
+Did the user retry?
+Did the user retry with multiple services?
+What was the price delta for the nth service the user retried?
+Did the user change the pickup/drop-off hex?
+
+Screen Drop-off:
+How many screen drop-offs are users making?
+Where are the screen drop-offs happening?
+How many screen drop-offs are happening on individual screens (Fare Estimate Screen, Dispatch Screen, Post Order Screen)?
+
+Session Funnel:
+How many AOs are happening in a session?
+How many FEs are happening in a session?
+How many RRs are happening in a session?
+How many unserviceable AOs are happening in a session?
+How many unserviceable FEs are happening in a session?
+Page visits on Post Order Screens?
+
+
+
+
+Yesterday's data ingestion.
+Need to confirm we are sending only relevant props for events.
+Kafka to metabase ingestion failure cases.
+
+
+
+# kaushik 8608358644
+# param 9604236079
+# Kunal 8976109590
+# Sarthak 9785494112
+# Manoj 7639345071
+# Sandeep 9591617000
+# gulshan 8108282883
+# Praneeth 9008082623
+# 9004820376 - Mumbai
+# 9717111768 - Delhi
+# 8588851108 - Delhi
+
+
+
+Ad-Telemetry 
+id | userid - Customer Id's
+version -  Telemetry schema version 
+createdon | updatedat - data created epoch
+adid - old unique identifier
+configid - config manager backfall identifier
+pagename - Screen name (HomeScreen/CaptainSearchScreen/PostOrderScreen/)
+pagevariant - Post order scrren UI version L1/L2
+slotname - Specific slot name 
+slottype - STATIC/CAROSEL
+cardposition - carosel card position 
+format - ad format (nativebanner, nativevideobanner,map_branding, gamCombinedBanner)
+os - mobile platform (ios/android)
+appversion - customer mobile app version
+responsetype - type of ad server (GAM, CT, System Banner, Online_Sales)
+responsedata - moved to metadata1 field
+clickurl - Ad url (moved to metadata1 filed)
+sourcepriority - priority of the slot level fallback
+eventname - Event name (Ad_Req, Res, Imp, View Imp, Click, Exists)
+city -  Customer current city 
+service - service name while on post order screen (Link, Auto, CabEconomy)
+orderstatus - post order status (ontheway, arrived, started)
+autoscrollflag - Auto scroll flag for carosel format
+totalcardcount - total card carosel card count
+metadata1 - Only sent on response, metadata contains unit_id, title, body, url.
+aduuid -  Latest unique identifier for ads
+servicedetailid - service detail id of an associated order.
+orderid - orderid of an associated order.
+isprefetched - GAM prefetch functinality.
+responsestatus - response status of all the ad request from GAM 
+
+opentype - 
+storyrank - 
+storymediatype - 
+storyexit - 
+totalstorycount - 
+clientname - 
+ctaurl - 
+ctatext - 
+ctadescription - 
+
+Field to remove 
+id - 
+pagevariant - L2 
+responsedata - 
+clickurl
+
+
+
+
+
+
+
+
+
+

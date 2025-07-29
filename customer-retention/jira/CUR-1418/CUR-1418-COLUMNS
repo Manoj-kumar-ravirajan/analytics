@@ -1,0 +1,83 @@
+
+
+*location_discounts_percentage_without_coin	`=total_discount_with location offers / ATV
+--(location_discounts / AVT)
+--AVT(subtotal/location_rides)
+
+*location_discounts_percentage_with_coin	    `=location_burn / ATV
+--(location_burn / AVT)
+
+*location_dpr_wo_coin	                    `=total_discount_with location offers / ATV
+--(location_discounts/Net_rides_with)
+
+*location_dpr_with_coin	                    `=location_burn / ATV (subtotal/net rides)
+--(location_burn/Net_rides_with)
+
+*Location_Budget_Percentage	                Location Burn / Total Burn
+--(location_burn / total_location_burn)
+--(1 offer type/ 4 offer type)
+
+*location_rides	                            Net_rides_with location offers
+--count(order_id) 
+
+
+
+->location_customers	                        Net_customer_with location offers
+--Count (Distinct customer_id) 
+
+->location_discounts	                        total_discount_with location offers
+--sum(discount_amount)
+
+location_coins_credit	                    total_coins_credited_with location offers
+--sum(custCashBackAmount)
+
+location_burn	                            Discont + Coin Credited
+--(sum(discount_amount) + sum(custCashBackAmount))
+
+/*
+Net Rides
+Net rides : Net rides availed with offer type(Count of order_id).
+
+Budget Percentage
+Budget Percentage : (Discount for orders with offer type + Coins credited for orders with offer coupon)*100 / Total Burn
+
+Net offer orders / Net orders
+
+*/ filter
+offer_type
+coupon_code
+
+
+location_discounts (subtotabl/location_rides)
+5/(subtotabl/location_rides)
+
+(location_discounts/location_rides )/ ATV
+
+/(subtotabl/location_rides)
+
+
+
+offer_details_offer_type in ('location','location_coupon', 'retention', 'retention_coupon','rides' ,'rides_coupon', 'subscription')
+offer_details_offer_type in ('location','location_coupon')
+offer_details_offer_type in ('retention','retention_coupon')
+offer_details_offer_type in ('rides','rides_coupon')
+offer_details_offer_type in ('rides','rides_coupon')
+
+--UPPER
+offer_type
+    partner_coupon
+    rides_coupon
+    location_coupon
+    retention_coupon
+    subscription
+
+
+
+week no,
+week start date,
+
+
+
+CASE
+    WHEN finalSegment IN ('02. HH', '05. Gold', '04. Silver', '06. Platinum', '03. Prime', '07. Elite', '09. Inactive', '08. Dormant') THEN finalSegment
+    ELSE '01. New' END AS Segment,

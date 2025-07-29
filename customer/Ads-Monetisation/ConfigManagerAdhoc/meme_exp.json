@@ -1,0 +1,133 @@
+{
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "format": {
+                "type": "nativeVideoBanner",
+                "videoProperties": {
+                  "autoPlay": true,
+                  "isMute": true
+                }
+              },
+              "sizes": [
+                {
+                  "type": "X-LARGE"
+                }
+              ],
+              "unitId": "/22865156133/Captain_Dispatch"
+            },
+            "name": "GAM",
+            "priority": 1,
+            "type": "SDK"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "sources": [
+          {
+            "metadata": {
+              "format": {
+                "type": "nativeVideoBanner",
+                "videoProperties": {
+                  "autoPlay": true,
+                  "isMute": true
+                }
+              },
+              "sizes": [
+                {
+                  "type": "X-LARGE"
+                }
+              ],
+              "unitId": "/22865156133/captain_dispatch_fold2"
+            },
+            "name": "GAM",
+            "priority": 1,
+            "type": "SDK"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "sources": [
+          {
+            "metadata": {
+              "format": {
+                "type": "nativeVideoBanner",
+                "videoProperties": {
+                  "autoPlay": true,
+                  "isMute": true
+                }
+              },
+              "sizes": [
+                {
+                  "type": "X-LARGE"
+                }
+              ],
+              "unitId": "/22865156133/captain_dispatch_fold3"
+            },
+            "name": "GAM",
+            "priority": 1,
+            "type": "SDK"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "sources": [
+          {
+            "metadata": {
+              "format": {
+                "type": "nativeVideoBanner",
+                "videoProperties": {
+                  "autoPlay": true,
+                  "isMute": true
+                }
+              },
+              "sizes": [
+                {
+                  "type": "X-LARGE"
+                }
+              ],
+              "unitId": "/22865156133/captain_dispatch_fold4"
+            },
+            "name": "GAM",
+            "priority": 1,
+            "type": "SDK"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "sources": [
+          {
+            "metadata": {
+              "format": {
+                "type": "nativeVideoBanner",
+                "videoProperties": {
+                  "autoPlay": true,
+                  "isMute": true
+                }
+              },
+              "sizes": [
+                {
+                  "type": "X-LARGE"
+                }
+              ],
+              "unitId": "/22865156133/captain_dispatch_fold5"
+            },
+            "name": "GAM",
+            "priority": 1,
+            "type": "SDK"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "CaptainSearch1",
+    "type": "CAROUSEL"
+  }

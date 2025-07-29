@@ -1,0 +1,62 @@
+// Customer Segmentation Tree
+digraph {
+	rankdir=TB size="8,10"
+	NRHA [label=NRHA fillcolor=lightgray shape=ellipse style=filled]
+	NRHA_NVO [label=NVO fillcolor=lightyellow shape=ellipse style=filled]
+	NRHA -> NRHA_NVO
+	NRHA_NVO_OTHER [label="OTHER
+(11.36%)" fillcolor=lightblue shape=box style=filled]
+	NRHA_NVO -> NRHA_NVO_OTHER
+	NRHA_NVO_TRANSIT [label="TRANSIT
+(2.6%)" fillcolor=lightblue shape=box style=filled]
+	NRHA_NVO -> NRHA_NVO_TRANSIT
+	NRHA_NVO_WORK [label="WORK
+(6.05%)" fillcolor=lightblue shape=box style=filled]
+	NRHA_NVO -> NRHA_NVO_WORK
+	NRHA_VO [label=VO fillcolor=lightyellow shape=ellipse style=filled]
+	NRHA -> NRHA_VO
+	NRHA_VO_OTHER [label="OTHER
+(0.99%)" fillcolor=lightblue shape=box style=filled]
+	NRHA_VO -> NRHA_VO_OTHER
+	NRHA_VO_TRANSIT [label="TRANSIT
+(0.26%)" fillcolor=lightblue shape=box style=filled]
+	NRHA_VO -> NRHA_VO_TRANSIT
+	NRHA_VO_WORK [label="WORK
+(0.72%)" fillcolor=lightblue shape=box style=filled]
+	NRHA_VO -> NRHA_VO_WORK
+	RHA [label=RHA fillcolor=lightgray shape=ellipse style=filled]
+	RHA_NVO [label=NVO fillcolor=lightyellow shape=ellipse style=filled]
+	RHA -> RHA_NVO
+	RHA_NVO_OTHER [label="OTHER
+(21.82%)" fillcolor=lightblue shape=box style=filled]
+	RHA_NVO -> RHA_NVO_OTHER
+	RHA_NVO_TRANSIT [label="TRANSIT
+(5.47%)" fillcolor=lightblue shape=box style=filled]
+	RHA_NVO -> RHA_NVO_TRANSIT
+	RHA_NVO_WORK [label="WORK
+(17.14%)" fillcolor=lightblue shape=box style=filled]
+	RHA_NVO -> RHA_NVO_WORK
+	RHA_VO [label=VO fillcolor=lightyellow shape=ellipse style=filled]
+	RHA -> RHA_VO
+	RHA_VO_OTHER [label="OTHER
+(6.75%)" fillcolor=lightblue shape=box style=filled]
+	RHA_VO -> RHA_VO_OTHER
+	RHA_VO_TRANSIT [label="TRANSIT
+(1.86%)" fillcolor=lightblue shape=box style=filled]
+	RHA_VO -> RHA_VO_TRANSIT
+	RHA_VO_WORK [label="WORK
+(7.5%)" fillcolor=lightblue shape=box style=filled]
+	RHA_VO -> RHA_VO_WORK
+	UNKNOWN [label=UNKNOWN fillcolor=lightgray shape=ellipse style=filled]
+	UNKNOWN_UNKNOWN [label=UNKNOWN fillcolor=lightyellow shape=ellipse style=filled]
+	UNKNOWN -> UNKNOWN_UNKNOWN
+	UNKNOWN_UNKNOWN_OTHER [label="OTHER
+(7.21%)" fillcolor=lightblue shape=box style=filled]
+	UNKNOWN_UNKNOWN -> UNKNOWN_UNKNOWN_OTHER
+	UNKNOWN_UNKNOWN_TRANSIT [label="TRANSIT
+(1.69%)" fillcolor=lightblue shape=box style=filled]
+	UNKNOWN_UNKNOWN -> UNKNOWN_UNKNOWN_TRANSIT
+	UNKNOWN_UNKNOWN_WORK [label="WORK
+(8.58%)" fillcolor=lightblue shape=box style=filled]
+	UNKNOWN_UNKNOWN -> UNKNOWN_UNKNOWN_WORK
+}

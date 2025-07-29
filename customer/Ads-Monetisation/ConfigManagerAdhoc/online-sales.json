@@ -1,0 +1,253 @@
+// PostOrderOnTheWay1 || Stories (In-House comms)
+
+{
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "adUnitId": "PostOrderOnTheWay1"
+            },
+            "name": "ONLINE_SALES",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "sources": [
+          {
+            "metadata": {
+              "adUnitId": "PostOrderOnTheWay1.2"
+            },
+            "name": "ONLINE_SALES",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "sources": [
+          {
+            "metadata": {
+              "adUnitId": "PostOrderOnTheWay1.3"
+            },
+            "name": "ONLINE_SALES",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "sources": [
+          {
+            "metadata": {
+              "adUnitId": "PostOrderOnTheWay1.4"
+            },
+            "name": "ONLINE_SALES",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "PostOrderOnTheWay1",
+    "type": "CAROUSEL"
+  }
+
+
+// PostOrderOnTheWay2 | Hero Banner
+
+{
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "adUnitId": "PostOrderOnTheWay2"
+            },
+            "name": "ONLINE_SALES",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "PostOrderOnTheWay2",
+    "type": "STATIC"
+  }
+
+// PostOrderOnTheWay3 | Max Banner
+
+{
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "adUnitId": "PostOrderOnTheWay3"
+            },
+            "name": "ONLINE_SALES",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "PostOrderOnTheWay3",
+    "type": "STATIC"
+  }
+
+// PostOrderOnTheWay4 | Multi-card Banner
+
+
+  {
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "adUnitId": "PostOrderOnTheWay4"
+            },
+            "name": "ONLINE_SALES",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      },
+      {
+        "position": 1,
+        "sources": [
+          {
+            "metadata": {
+              "adUnitId": "PostOrderOnTheWay4.2"
+            },
+            "name": "ONLINE_SALES",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "sources": [
+          {
+            "metadata": {
+              "adUnitId": "PostOrderOnTheWay4.3"
+            },
+            "name": "ONLINE_SALES",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "sources": [
+          {
+            "metadata": {
+              "adUnitId": "PostOrderOnTheWay4.4"
+            },
+            "name": "ONLINE_SALES",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "PostOrderOnTheWay4",
+    "type": "CAROUSEL"
+  }
+
+
+// PostOrderOnTheWay5 | GAM Combined Banner
+
+  {
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "format": {
+                "combinedProperties": {
+                  "nativeAdSize": "X-LARGE",
+                  "nonNativeAdSize": [
+                    "MEDIUM_RECTANGLE",
+                    "LARGE_BANNER",
+                    "BANNER"
+                  ]
+                },
+                "type": "gamCombinedBanner",
+                "videoProperties": {
+                  "autoPlay": true,
+                  "isMute": true
+                }
+              },
+              "sizes": [],
+              "unitId": "/22865156133/On_The_Way_Slot5"
+            },
+            "name": "GAM",
+            "priority": 1,
+            "shouldCache": true,
+            "type": "SDK"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "PostOrderOnTheWay5",
+    "type": "STATIC"
+  }
+
+
+// PostOrderOnTheWay6 | 
+
+nativeAd
+
+{
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "gamAdUnitId": "/22865156133/On_the_Way_Slot6",
+              "owAdUnitId": "/22865156133/On_the_Way_Slot6",
+              "sizeVariations": {
+                "defaultAd": [
+                  "MEDIUM_RECTANGLE",
+                  "BANNER",
+                  "LARGE_BANNER"
+                ],
+                "nativeAd": "X-LARGE"
+              }
+            },
+            "name": "OPENWRAP",
+            "priority": 1,
+            "type": "SDK"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "PostOrderOnTheWay6",
+    "type": "STATIC"
+  }

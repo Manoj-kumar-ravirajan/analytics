@@ -1,0 +1,168 @@
+//PostOrderOnTheWay4 - With selector
+
+{
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "showSCDirectOnScreen": true
+            },
+            "name": "SCRATCHCARD",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "PostOrderOnTheWay4",
+    "type": "STATIC"
+}
+
+//PostOrderArrived4 - All
+
+{
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "showSCDirectOnScreen": false
+            },
+            "name": "SCRATCHCARD",
+            "priority": 1,
+            "type": "API"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "PostOrderArrived4",
+    "type": "STATIC"
+  }
+
+// PostOrderStarted2 CabPremium - Remove ads 
+
+{
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "androidPlacement": "PostOrderScreenStarted:d1a2b818-c7cd-4590-b417-728172a8ddf5",
+              "iosPlacement": "iOS-PostOrderScreenStarted:ebfd3dc4-8d25-4e2d-a23a-cd08ef61b3e5"
+            },
+            "name": "CLEVERTAP",
+            "priority": 1,
+            "type": "SDK"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "PostOrderStarted2",
+    "type": "STATIC"
+  }
+
+
+// PostOrderOnTheWay1 All - Remove SC 
+
+
+{
+    "active": true,
+    "items": [
+      {
+        "position": 0,
+        "sources": [
+          {
+            "metadata": {
+              "gamAdUnitId": "/22865156133/On_the_Way_Slot1_Banner",
+              "owAdUnitId": "/22865156133/On_the_Way_Slot1_Banner",
+              "sizeVariations": {
+                "defaultAd": [
+                  "MEDIUM_RECTANGLE"
+                ],
+                "nativeAd": "X-LARGE"
+              }
+            },
+            "name": "OPENWRAP",
+            "priority": 1,
+            "type": "SDK"
+          },
+          {
+            "metadata": {
+              "androidPlacement": "PostOrderScreenOnTheWay:a43ae0db-edab-423e-891f-a376b43c20b6",
+              "iosPlacement": "iOS-PostOrderScreenOnTheWay:75695d9b-a1de-4450-a118-57eb5f402880"
+            },
+            "name": "CLEVERTAP",
+            "priority": 5,
+            "type": "SDK"
+          },
+          {
+            "metadata": {
+              "format": {
+                "type": "nativeVideoBanner",
+                "videoProperties": {
+                  "autoPlay": true,
+                  "isMute": true
+                }
+              },
+              "sizes": [
+                {
+                  "type": "X-LARGE"
+                }
+              ],
+              "unitId": "/22865156133/On_the_Way_Slot1_Native"
+            },
+            "name": "GAM",
+            "priority": 2,
+            "type": "SDK"
+          },
+          {
+            "metadata": {
+              "format": {
+                "type": "default"
+              },
+              "sizes": [
+                {
+                  "type": "MEDIUM_RECTANGLE"
+                }
+              ],
+              "unitId": "/22865156133/On_the_Way_Slot1_Banner"
+            },
+            "name": "GAM",
+            "priority": 3,
+            "type": "SDK"
+          },
+          {
+            "metadata": {
+              "format": {
+                "type": "default"
+              },
+              "sizes": [
+                {
+                  "type": "MEDIUM_RECTANGLE"
+                }
+              ],
+              "unitId": "/229445249,23036449274/highR_RS88_Rapido_231_BANNER_7883_140624"
+            },
+            "name": "GAM",
+            "priority": 4,
+            "type": "SDK"
+          }
+        ]
+      }
+    ],
+    "size": "X-LARGE",
+    "slotId": "PostOrderOnTheWay1",
+    "type": "STATIC"
+  }
+
+

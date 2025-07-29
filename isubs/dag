@@ -1,0 +1,15 @@
+datasets_internal.subscription_pass_recommendation_v0
+datasets_internal.subscription_segments_v0
+
+datasets.iallocator_subscription_selectors
+datasets.iallocator_customer_metrics
+
+customer.customer_subscription_immutable -- raw.kafka_customer_subscription_immutable
+
+raw.kafka_offers_immutable
+
+clevertap.customer_rapido_pass_immutable
+clevertap.customer_continuetobuypass_immutable
+clevertap.customer_pass_renew_clicked_immutable
+clevertap.customer_passbuyclicked_immutable
+clevertap.customer_rapido_passbuyclicked_immutable
